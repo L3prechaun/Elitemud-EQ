@@ -1,0 +1,11 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00390,28,a king-prawn shell,on finger,Wg3,AC-9 HR+1 DR+1,,,,,,,111111111111111111,King Prawn,The Lost City of Delray
+00412,30,a halfling sword,wielded,Wg7,DD4d8 HR+4 DR+4,,,,,,AE,011110111011001101,the halfling soldier,The Lost City of Delray
+00455,32,a razor sharp hindquarters,on legs,Wg6,AC-8 HR+1 DR+1,,,,,,,111111111111111111,Licky-Kicky,The Lost City of Delray
+00462,33,a halfling poleaxe,wielded,Wg10,DD5d6 HR+1 DR+1,,,,,,AE,011110111011001101,the palace guard,The Lost City of Delray
+00463,33,a halfling's breastplate,on body,Wg10,AC-13,,,,,,AE,111110111011011101,the palace guard,The Lost City of Delray
+00467,33,a pair of flippers,on feet,Wg8,AC-5 HR-1,,,,Mv-50,,Dex-1 Cha-1 +Waterbreath,111111111111111111,Jakat the Junkmaster (shop),The Lost City of Delray
+00471,34,a broken lamp,as light,Wg6,,,,,Mv+10,,(NoInf),111111111111111111,Jakat the Junkmaster (shop),The Lost City of Delray
+00505,36,a little silver star,around neck,Wg3,AC-13,,,,,,,111111111111111111,Jakat the Junkmaster (shop),The Lost City of Delray
+00520,40,a beautiful ice pendant,around neck,Wg5,HR+5 DR+5,,,,Hp+50 Mn+50,,(NoRent),111111111111111111,the mad general,The Lost City of Delray
+00644,45,miniature dragon,as light,Wg7,,,,,Hp+20,,AE,111111111111111111,Malaig's secret store (ground),The Lost City of Delray

@@ -1,0 +1,4 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00061,1,"a long, pointed cutlass",wielded,Wg5,DD1d7,,,,,,AN,111111111111111111,the nomad warrior,Nomad Camp
+00188,6,a thick padded turban,on head,Wg15,,,,,,,Arm-1,111111111111111111,The main tent (a small wicker basket),Nomad Camp
+00290,20,a golden bow,wielded,Wg20,DD4d6,,,,,,(bless),111000110010011101,the nomad leader,Nomad Camp

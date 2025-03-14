@@ -1,0 +1,37 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00048,1,a holstered belt,about waist,Wg6,,,,,,,Cap+114,111111111111111111,the master spell binder,High Tower of Sorcerery
+00056,1,a leather backpack,about body,Wg9,,,,,,,Cap+241,111111111111111111,A passage (ground),High Tower of Sorcerery
+00216,10,a long cylindrical tube,,Wg8,,,,,,,Cap+92,111111111111111111,the master scribe,High Tower of Sorcerery
+00241,13,a mithril hammer,wielded,Wg18,DD2d6 HR+2,,,,,,Str+1,111111111111111111,A very hot room (ground),High Tower of Sorcerery
+00295,20,a meat cleaver,wielded,Wg8,DD3d5,,,,,,,111001110111111111,Emerald,High Tower of Sorcerery
+00398,30,a brown cloak,around neck,Wg5,AC-10,,,MR+10,Mv+100,,,111111111111111111,A passage (ground),High Tower of Sorcerery
+00399,30,a chameleon poncho,about body,Wg4,AC-10,,,,Mv+50,,,111111111111111111,A passage (ground),High Tower of Sorcerery
+00418,30,a pair of old boots,on feet,Wg2,AC-5,,,,Mv+100,,,111111111111111111,A passage (ground),High Tower of Sorcerery
+00425,30,a seashell ring,on finger,Wg2,AC-5,,,,Mv+100,,,111111111111111111,A passage (a leather backpack),High Tower of Sorcerery
+00578,40,a ruby dagger,wielded,Wg8,DD5d6 HR+5 DR+5,,,,,,(BStab),111011110111111111,the battle mistress,High Tower of Sorcerery
+00633,45,a robe of protection,on body,Wg20,AC-20,,,,,,SPh+10 SPo+10,010011001111100011,the master summoner,High Tower of Sorcerery
+00662,50,a curved scimitar,wielded,Wg10,DD4d12 HR+3 DR+3,,,,,,,111001110111111111,The master Enchanter's chamber (a chest),High Tower of Sorcerery
+00682,50,a ruby long sword,wielded,Wg8,DD4d12 HR+5 DR+5,,,,,,,111001110111111111,the Enchanter,High Tower of Sorcerery
+00684,50,a silver dagger,wielded,Wg5,DD5d7 HR+5 DR+5,,,,,,(BStab),111011110111111111,The master Enchanter's chamber (a chest),High Tower of Sorcerery
+00743,60,a bluring gem,held,Wg6,,,,,,,6xArea Phase Blur,010111001100100010,The spellbinder's cache (a silver chased cabinet),High Tower of Sorcerery
+00757,60,a red wand,held,Wg10,,,,,,,10xMaelstrom,010111001100100010,The spellbinder's cache (a silver chased cabinet),High Tower of Sorcerery
+00758,60,a runed chisel,wielded,Wg8,DD4d10 HR+5 DR+5,,,,,,(BStab),111001110111111111,the golem maker,High Tower of Sorcerery
+00763,60,a stone belt,about waist,Wg4,AC-10,,,,Hp+50,,,111111111111111111,the golem maker,High Tower of Sorcerery
+00783,65,a black robe,on body,Wg8,AC-30,,,,,,OE,010011001010110010,a black robed apprentice,High Tower of Sorcerery
+00786,65,a glinting silver bracelet,around wrist,Wg5,AC-10 HR+2 DR+1,,,,,,,111111111111111111,the master's apprentice,High Tower of Sorcerery
+00787,65,a grey robe,on body,Wg8,AC-30,,,,,,ON,010011001010110010,the master of Neutrality,High Tower of Sorcerery
+00791,65,a spiked collar,around neck,Wg9,DR+5,,,,,,,111111111111111111,a calico cat,High Tower of Sorcerery
+00793,65,a white gold bracelet,around wrist,Wg5,AC-10 HR+3,,,,,,,111111111111111111,a white robed apprentice,High Tower of Sorcerery
+00794,65,an onyx bracelet,around wrist,Wg6,AC-10 DR+3,,,,,,,111111111111111111,a black robed apprentice,High Tower of Sorcerery
+00841,75,Conan's two-handed sword,wielded,Wg0,DD4d20,,,,,,Str+5 Con+5,001000100001000100,Conan the Librarian,High Tower of Sorcerery
+00871,80,a dark black cloak,around neck,Wg8,AC-15 HR+2 DR+2,,,,,,OE,110111101111110011,the master of the black robes,High Tower of Sorcerery
+00881,80,a long grey cloak,around neck,Wg7,AC-10,,,,Mn+100,,ON,110111101111110011,the master of Neutrality,High Tower of Sorcerery
+00885,80,a sharp shard of obsidian,wielded,Wg8,DD4d12 HR+3 DR+8,,,,,,AG,111001110111111111,the master of the black robes,High Tower of Sorcerery
+00886,80,a ward minor,held,Wg5,,,,,,,Arm-10,010011001000100010,the master of Neutrality,High Tower of Sorcerery
+00887,80,a white cloak,around neck,Wg7,AC-15,,,,Hp+100,,OG,110111101111110011,the master of goodness,High Tower of Sorcerery
+00941,90,a heart shaped medallion,around neck,Wg3,AC-20,,,,,,,111111111111111111,The altar (a golden altar),High Tower of Sorcerery
+00956,90,a tight fitting green dragon scale shirt,on body,Wg15,AC-35,,,,Mn+200,,,010111001110111111,the Grand Mistress,High Tower of Sorcerery
+00957,90,a ward major,held,Wg6,,,,,,,Arm-20,010011001000100010,the Grand Mistress,High Tower of Sorcerery
+00981,90,the bracelet of wizardry,around wrist,Wg5,AC-10,,,,Mn+200,,,010001000000100010,the Grand Mistress,High Tower of Sorcerery
+00986,90,the ebony kris,wielded,Wg9,DD10d5 HR+10 DR+10,,,,,,(BStab),111001110111111111,the Grand Mistress,High Tower of Sorcerery
+01057,100,an ivory hilted dagger,wielded,Wg8,DD4d12 HR+5 DR+5,,,,,,(BStab) AE,111111111111111111,the master of goodness,High Tower of Sorcerery

@@ -1,0 +1,2234 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+"00001","0","a bag","held","Wg2","","","","","","","Cap+23","111111111111111111","the Grocer (shop)","City of Midgaard"
+
+"00002","0","a breast plate","on body","Wg100","AC-7","","","","","","","111110111011011101","the halfling","Northern Road"
+
+"00003","0","a bright red cap","on head","Wg1","AC-3","","","","","","Age-10","111111111111111111","a little boy","The Newbie Zoo"
+
+"00004","0","a burlap cape","around neck","Wg2","AC-3","","","","","","","111111111111111111","Tucker the Orangutan","The Newbie Zoo"
+
+"00005","0","a dagger","wielded","Wg1","DD1d4","","","","","","(BStab)","111111111111111111","the Weaponsmith (shop)","City of Midgaard"
+
+"00006","0","a dragon tooth necklace","around neck","Wg1","AC-2","","","","","","","111111111111111111","a large komodo dragon","The Newbie Zoo"
+
+"00007","0","a full set of red undergarments","on body","Wg12","AC-1","","","","","","Dex+2 Cha+1","111111111111111111","?","?"
+
+"00008","0","a lantern","as light","Wg1","","","","","","","(NoInf)","111111111111111111","a bouncy male ferret","Northern Road"
+
+"00009","0","a mata mata shell","as shield","Wg3","AC-3","","","","","","","111111111111111111","a mata mata","The Newbie Zoo"
+
+"00010","0","a Newbie Zoo belt pouch","about waist","Wg1","","","","","","","Cap+9 Arm-1","111111111111111111","the Souveneir Salesman (shop)","The Newbie Zoo"
+
+"00011","0","a Newbie Zoo wrist band","around wrist","Wg1","AC-1 HR+1","","","","","","","111111111111111111","the Souveneir Salesman (shop)","The Newbie Zoo"
+
+"00012","0","a pair of khaki pants","on legs","Wg2","AC-4","","","","","","","111111111111111111","Danno the Zookeeper","The Newbie Zoo"
+
+"00013","0","a pair of lion's paws","on feet","Wg1","AC-1 HR+1 DR+1","","","","","","","111111111111111111","a fierce lion","The Newbie Zoo"
+
+"00014","0","a pair of tiger's paws","on hands","Wg1","AC-2","","","","Mv+10","","Con+1","111111111111111111","a vicious tiger","The Newbie Zoo"
+
+"00015","0","a peacock's feather","on head","Wg1","","","","","Mn+10 Mv+10","","Cha+2","111111111111111111","a colorful peacock","The Newbie Zoo"
+
+"00016","0","a safari vest","on body","Wg1","AC-3","","","","","","","111111111111111111","Danno the Zookeeper","The Newbie Zoo"
+
+"00017","0","a shiny bracelet","around wrist","Wg1","AC-2 DR+1","","","","","","","111111111111111111","a little girl","The Newbie Zoo"
+
+"00018","0","a small brass lantern","as light","Wg1","","","","","","","(NoInf)","111111111111111111","a groundskeeper","The Newbie Zoo"
+
+"00019","0","a small shovel","wielded","Wg1","DD2d4 HR+1 DR+1","","","","","","","111111111111111111","a groundskeeper","The Newbie Zoo"
+
+"00020","0","a small spade","wielded","Wg1","DD3d5","","","","","","","111111111111111111","a groundskeeper","The Newbie Zoo"
+
+"00021","0","a torch","as light","Wg1","","","","","","","(NoInf)","111111111111111111","the Grocer (shop)","City of Midgaard"
+
+"00022","0","a warhammer","wielded","Wg6","DD1d5","","","","","","","111111111111111111","the Weaponsmith (shop)","City of Midgaard"
+
+"00023","0","some furry sleeves","on arms","Wg1","AC-2","","","","","","","111111111111111111","a female tamarin","The Newbie Zoo"
+
+"00024","1","a backpack","about body","Wg8","","","","","","","Cap+142","111111111111111111","the Grocer (shop)","City of Midgaard"
+
+"00025","1","a big sack","held","Wg3","","","","","","","Cap+197","111111111111111111","Saint Nicholas","Heaven"
+
+"00026","1","a black silk robe","about body","Wg6","AC-1","","","","","","","111111111111111111","the mimic","Thalos"
+
+"00027","1","a bloody cloak","on body","Wg15","AC-4","","","","","","","111111111111111111","the chief gnome","Gnome Village"
+
+"00028","1","a blue steel poniard","wielded","Wg9","DD2d6","","","","","","","111001110111111111","Murmer Flightfoot","Geldenrock"
+
+"00029","1","a bronze breast plate","on body","Wg80","AC-6","","","","","","","111111111111111111","the halfling","Northern Road"
+
+"00030","1","a bronze helmet","on head","Wg8","AC-6","","","","","","","111111111111111111","the halfling","Northern Road"
+
+"00031","1","a bunch of violets","held","Wg2","AC-3","","","","","","Arm+3","111111111111111111","Violet","Tynstri"
+
+"00032","1","a burnt kebab","held","Wg1","","","","","","","SPo+8","111111111111111111","the ghost of Uncle Juan","Rage of the Gods"
+
+"00033","1","a chunky hammer","wielded","Wg8","DD2d6","","","","","","","111111111111111111","the burly blacksmith (shop)","Geldenrock"
+
+"00034","1","a cluster of tiny sweet-smelling flowers","around wrist","Wg1","AC-2","","","","","","","111111111111111111","Flora (shop)","Tynstri"
+
+"00035","1","a dark green eyeshade","on head","Wg1","AC-5","","","MR+8","","","SPh+8","111111111111111111","Elmer (shop)","Tynstri"
+
+"00036","1","a deep red stone","held","Wg10","","","","","","","Arm-1","111111111111111111","the lamia","Thalos"
+
+"00037","1","a dusty rose stone","held","Wg10","","","","","","","Int+1","111111111111111111","the lamia","Thalos"
+
+"00038","1","a flail","wielded","Wg6","DD2d4","","","","","","","111111111111111111","the Weaponsmith (shop)","City of Midgaard"
+
+"00039","1","a flaming twig","wielded","Wg8","DD1d1","","","","","","(flaming)","111111111111111111","the Adventurer","Storm Dragons Fortress"
+
+"00040","1","a girdle of many pouches","about waist","Wg5","","","","","","","Cap+195","111111111111111111","Haemon","Mahn-Tor"
+
+"00041","1","a gnarled staff","wielded","Wg15","DD1d9","","","","","","","111111111111111111","a large rat","Gnome Village"
+
+"00042","1","a gnarled walking staff","wielded","Wg1","DD2d5 HR+3 DR+1","","","","","","","110111011111101011","an old priest","Heavy Forest"
+
+"00043","1","a granite shield","as shield","Wg25","AC-5","","","","","","","111111111111111111","Jen Boaden the armourer (shop)","Geldenrock"
+
+"00044","1","a guardsmans axe","wielded","Wg8","DD1d10","","","","","","","111110111011011101","the guardsman","Geldenrock"
+
+"00045","1","a hand knit angora blanket","about body","Wg1","AC-2","","","","","","","111111111111111111","Granny Higglebottom","Stanneg"
+
+"00046","1","a heavy brush","wielded","Wg3","HR+2 DR-5","","","","Mv+20","","Age+10","111111111111111111","Dwarven iron mill janitor","Dwarf 'n' Glob Iron Mill"
+
+"00047","1","a hefty length of chain","wielded","Wg10","DD2d7 HR+1","","","","","","Arm-5","111000110010011101","a bruiser","Godforsaken Slum (PKOK)"
+
+"00048","1","a holstered belt","about waist","Wg6","","","","","","","Cap+114","111111111111111111","the master spell binder","High Tower of Sorcerery"
+
+"00049","1","a hoop of fuzzy material","held","Wg1","","","","","","","5xSleep","111111111111111111","Gemima (shop)","Geldenrock"
+
+"00050","1","a jeweled hairpin","on head","Wg1","","","","","","","Str-1 Int+1","111111111111111111","the jeweler (shop)","Rome"
+
+"00051","1","a Kiss me! I'm Trollish!! shirt","on body","Wg1","AC-6","","","","","","Str+1","111111111111111111","a mean ol' ugly troll","Stanneg"
+
+"00052","1","a large club","wielded","Wg22","DD2d5","","","","","","","111110111011011101","the hobgoblin guard","Hobgoblin Mines"
+
+"00053","1","a large fluffy towel","about body","Wg1","","","","","","","","111111111111111111","the inn guest","Stanneg"
+
+"00054","1","a large leg bone","wielded","Wg5","DD1d4","","","","","","","111111111111111111","Giant cave (ground)","Myconoid Temple"
+
+"00055","1","a lavender and green stone","held","Wg10","","","","MR+15","","","","111111111111111111","the lamia","Thalos"
+
+"00056","1","a leather backpack","about body","Wg9","","","","","","","Cap+241","111111111111111111","A passage (ground)","High Tower of Sorcerery"
+
+"00057","1","a long sword","wielded","Wg15","DD1d8","","","","","","","111111111111111111","the Weaponsmith (shop)","City of Midgaard"
+
+"00058","1","a long black stick","as light","Wg1","","","","","","","(NoInf)","111111111111111111","Up the Mountain, Down the Mine (ground)","Dwarf 'n' Glob Iron Mill"
+
+"00059","1","a long, black stick","held","Wg1","","","","","","","2xHeal","111111111111111111","the dwarven healer","Dwarven Kingdom"
+
+"00060","1","a long, grey branch","wielded","Wg18","DD2d6 HR-2","","","","","","","111111111111111111","the ancient tree","Draconia"
+
+"00061","1","a long, pointed cutlass","wielded","Wg5","DD1d7","","","","","","AN","111111111111111111","the nomad warrior","Nomad Camp"
+
+"00062","1","a metal shield","as shield","Wg3","AC-3","","","","","","","111111111111111111","a bruiser","Godforsaken Slum (PKOK)"
+
+"00063","1","a mirror","held","Wg1","","","","","","10xBlindness","","111111111111111111","a gang member","Godforsaken Slum (PKOK)"
+
+"00064","1","a multicoloured key ring","around neck","Wg3","","","","","","","Cap+97","111111111111111111","the Minotaur Keymaster","Mahn-Tor"
+
+"00065","1","a needle and some thread","held","Wg1","DR+1","","","","","","","110111011110111111","Fritz (shop)","Dwarfen Undermountain Harbour"
+
+"00066","1","a Nelly doll","as shield","Wg3","AC-3","","","","","","","111111111111111111","Squish","?"
+
+"00067","1","a pair of bronze gauntlets","on hands","Wg8","AC-6","","","","","","","111111111111111111","the gnome","Northern Road"
+
+"00068","1","a pair of bronze leggings","on legs","Wg8","AC-6","","","","","","","111111111111111111","the gnome","Northern Road"
+
+"00069","1","a pair of bronze sleeves","on arms","Wg8","AC-6","","","","","","","111111111111111111","the halfling","Northern Road"
+
+"00070","1","a pair of fur mittens","on hands","Wg6","AC-6","","","","","","","111111111111111111","Jen Boaden the armourer (shop)",
+
+"00071","1","a pair of iron boots","on feet","Wg6","AC-4 HR-1","","","","","","Dex-2","111111111111111111","East wing of the city hall (the glass cabinet)","Thalos"
+
+"00072","1","a pair of iron gauntlets","on hands","Wg10","AC-7 HR-3 DR+1","","","","","","","111110111011011101","East wing of the city hall (the glass cabinet)","Thalos"
+
+"00073","1","a pair of iron sleeves","on arms","Wg10","AC-7 HR-4 DR+2","","","","","","","111110111011011101","East wing of the city hall (the glass cabinet)","Thalos"
+
+"00074","1","a pair of leather sandals","on feet","Wg2","AC-2","","","","","","","111111111111111111","the peddler","Rome"
+
+"00075","1","a pair of purple socks","on feet","Wg4","AC-3","","","","","","Dex+2","111111111111111111","Annie's under-the-bed monster","Tynstri"
+
+"00076","1","a pair of tight black leggings","on legs","Wg1","AC-5","","","","","","Dex+1","111111111111111111","the travelling saleself","Tynstri"
+
+"00077","1","a pale blue stone","held","Wg10","","","","","","","Str+1","111111111111111111","the lamia","Thalos"
+
+"00078","1","a pale lavender stone","held","Wg10","","","","MR+10","","","","111111111111111111","the lamia","Thalos"
+
+"00079","1","a patrol club","wielded","Wg1","DD1d12 HR+3","","","","","","","111111111111111111","a patrolman","Godforsaken Slum (PKOK)"
+
+"00080","1","a pearly white stone","held","Wg10","","","","","Hp+1","","","111111111111111111","the lamia","Thalos"
+
+"00081","1","a pewter ring","on finger","Wg5","","","","","Hp+10","","Dex+1","111111111111111111","the page","Rome"
+
+"00082","1","a pink stone","held","Wg10","","","","","","","Con+1","111111111111111111","the lamia","Thalos"
+
+"00083","1","a piton","wielded","Wg8","DD3d3","","","","","","","111111111111111111","the burly blacksmith (shop)","Geldenrock"
+
+"00084","1","a plain sword","wielded","Wg8","DD2d6 HR+2 DR+2","","","","","","","111111111111111111","Neb'Nvar","Heavy Forest"
+
+"00085","1","a revolution ring","on finger","Wg1","AC-5 HR+1","","","","","","Con+1","111111111111111111","Neb'Nvar","Heavy Forest"
+
+"00086","1","a safety lamp","as light","Wg4","","Invisibility","","","","","+Detect (NoInf)","111111111111111111","the bespectacled storekeeper (shop)","Geldenrock"
+
+"00087","1","a satchel","held","Wg8","","","","","","","Cap+112","111111111111111111","Rose (shop)","Tynstri"
+
+"00088","1","a scaling knife","wielded","Wg8","DD3d4","","","","","","","111111111111111111","the burly blacksmith (shop)","Geldenrock"
+
+"00089","1","a scarlet and blue stone","held","Wg10","","","","","","","Int+1","111111111111111111","the lamia","Thalos"
+
+"00090","1","a scruffy kitbag","about body","Wg5","","","","","","","Cap+95","111111111111111111","the Adventurer","Storm Dragons Fortress"
+
+"00091","1","a set of crampons","on feet","Wg6","AC-1 HR+1","","","","","","Dex+1","111111111111111111","the bespectacled storekeeper (shop)","Geldenrock"
+
+"00092","1","a set of iron greaves","on legs","Wg10","AC-7 HR-3","","","","","","Dex-3","111110111011011101","East wing of the city hall (the glass cabinet)","Thalos"
+
+"00093","1","a shining necklace","around neck","Wg12","","","","","","","+Curse (NoRent) OE","111111111111111111","Ma Glob","Ma Glob's Dancing Parlor"
+
+"00094","1","a small bag made from the belly of some beast","on legs","Wg1","","","","","","","Cap+19","111111111111111111","the well-disguised demon","Elysium Faire"
+
+"00095","1","a small leather pack","about body","Wg9","","","","","","","Cap+91","111111111111111111","Astyanax","Mahn-Tor"
+
+"00096","1","a small leather pouch","","Wg3","","","","","","","Cap+17","111111111111111111","a Runa woman","Village of Miqi'erke"
+
+"00097","1","a small sword","wielded","Wg3","DD1d6","","","","","","","111000110010011101","the Weaponsmith (shop)","City of Midgaard"
+
+"00098","1","a staff of sleep","held","Wg17","","","","","","","5x Sleep","111111111111111111","Frobozz's shopkeeper (shop)","Rome"
+
+"00099","1","a strong length of rope","about waist","Wg9","AC-3","","","","","","Dex+1","111111111111111111","the bespectacled storekeeper (shop)","Geldenrock"
+
+"00100","1","a sturdy iron shield","as shield","Wg5","AC-5","","","MR-2","","","SPh-2","111111111111111111","the mighty beholder","Thalos"
+
+"00101","1","a thick wooly blanket","about body","Wg4","AC-3","","","","","","","111111111111111111","the bespectacled storekeeper (shop)","Geldenrock"
+
+"00102","1","a thumbscrew","on finger","Wg1","","","","","","","Str-2 Con-2 Cha-2","111001110011111111","Brother John","Tynstri"
+
+"00103","1","a training sword","wielded","Wg7","DD1d4 HR-2","","","","","","","111111111111111111","Mick","King Welmar's Castle"
+
+"00104","1","a Troll gang jacket","on body","Wg2","AC-5","","","","","","","111111111111111111","a gang member","Godforsaken Slum (PKOK)"
+
+"00105","1","a troll signet ring","on finger","Wg1","AC-4","","","","","","Str+1","111111111111111111","a gang member","Godforsaken Slum (PKOK)"
+
+"00106","1","a tuxedo","on body","Wg3","AC-2","","","","","","","111111111111111111","the Tailor (shop)","City of Midgaard"
+
+"00107","1","a very studly leather vest","on body","Wg3","AC-6","","","","","","Con+1","111111111111111111","the studly dragon","Tynstri"
+
+"00108","1","a wand made of invisible stuff","held","Wg1","","","","","","","4xInvisibility","111111111111111111","Gemima (shop)","Geldenrock"
+
+"00109","1","a wand of invisibility","held","Wg2","","","","","","","2xInvisibility","111111111111111111","the Wizard (shop)","City of Midgaard"
+
+"00110","1","a wedding dress","on body","Wg3","AC-2","","","","","","","111111111111111111","the Tailor (shop)","City of Midgaard"
+
+"00111","1","a whisper light green gown","on body","Wg1","AC-3","","","","","","SPh+5 Int+2 Cha+2 AE","110111001110101011","the dryad","Tynstri"
+
+"00112","1","a white leather pants","on legs","Wg3","AC-6","","","","","","","111111111111111111","the gateguard","Tynstri"
+
+"00113","1","a white tunic embellished with gold braid","on body","Wg3","AC-7","","","","","","","111111111111111111","the gateguard","Tynstri"
+
+"00114","1","a wooden club","wielded","Wg3","DD1d3","","","","","","","111110111011011101","the Weaponsmith (shop)","City of Midgaard"
+
+"00115","1","a wooden spoon","wielded","Wg1","DD1d6","","","","","","","111111111111111111","the cook","Geldenrock"
+
+"00116","1","a wristlet of many colors","around wrist","Wg1","AC-1","","","","","","Con+1","111111111111111111","Jemara","Tynstri"
+
+"00117","1","a yak-skin rucksack","about body","Wg12","","","","","","","Cap+173","111111111111111111","the bespectacled storekeeper (shop)","Geldenrock"
+
+"00118","1","an elven ranger's longbow","wielded","Wg1","DD3d5 HR+3 DR+1","","","","","","","001010001000010000","the elven ranger","Heavy Forest"
+
+"00119","1","an incandescent blue stone","held","Wg10","","","","","","","Wis+1","111111111111111111","the lamia","Thalos"
+
+"00120","1","an iron girth","about waist","Wg6","AC-4","","","","","","","111111111111111111","East wing of the city hall (the glass cabinet)","Thalos"
+
+"00121","1","an Ogre gang jacket","on body","Wg2","AC-5","","","","","","","111111111111111111","a gang member","Godforsaken Slum (PKOK)"
+
+"00122","1","an orange staff","held","Wg26","","","","","","","1xCat Eyes","111111111111111111","Gemima (shop)","Geldenrock"
+
+"00123","1","Anastasia","as shield","Wg3","AC-3","","","","","","Cha+2","111111111111111111","Annie's under-the-bed monster","Tynstri"
+
+"00124","1","boots with very sharp high heels","on feet","Wg4","AC-3 DR+1","","","","","","Dex-1","111111111111111111","Jemara","Tynstri"
+
+"00125","1","bottled essence of glowworm","as light","Wg5","","","","","","","","111111111111111111","Seymour (shop)","Tynstri"
+
+"00126","1","comfortable leather gloves","on hands","Wg2","AC-2","","","","","","Str+1","111111111111111111","a bruiser","Godforsaken Slum (PKOK)"
+
+"00127","1","dark chainmail hood","on head","Wg7","AC-5","","","","","","","001110101001010100","Jen Boaden the armourer (shop)","Geldenrock"
+
+"00128","1","dark chainmail leggings","on legs","Wg8","AC-6","","","","","","","001110101001010100","Jen Boaden the armourer (shop)","Geldenrock"
+
+"00129","1","dark chainmail sleeves","on arms","Wg8","AC-6","","","","","","","001110101001010100","Jen Boaden the armourer (shop)","Geldenrock"
+
+"00130","1","dark chainmail smock","on body","Wg15","AC-5","","","","","","","001110101001010100","Jen Boaden the armourer (shop)","Geldenrock"
+
+"00131","1","Lady J's jewel casket","held","Wg1","","","","","","","Cap+49","111111111111111111","Lady J's personal dresser","Dwarf 'n' Glob Iron Mill"
+
+"00132","1","mining pick","wielded","Wg9","DD2d3","","","","","","","111111111111111111","the dwarven mineworker","Dwarf 'n' Glob Iron Mill"
+
+"00133","1","spiked heeled boots","on feet","Wg4","AC-3 DR+1","","","","","","Dex-1","111111111111111111","a doll","Godforsaken Slum (PKOK)"
+
+"00134","1","Sunshine's slippers","on feet","Wg2","AC-3 HR+1","","","","","","AE","111111111111111111","Sunshine","Tynstri"
+
+"00135","1","the branch","wielded","Wg3","DD2d4","","","","","","Str+1","111111111111111111","the rat","Dirt Path"
+
+"00136","1","the curling iron","wielded","Wg2","DD2d7","","","","Hp+10","","Cha+3","111111111111111111","the farmer's daughter","Dirt Path"
+
+"00137","1","the curse of the mummy","held","Wg1","","","","","Hp-50","","Str-3 Dex-3 Con-3 (NoRent)","111111111111111111","Ramses the Damned","Great Pyramid"
+
+"00138","1","the frying pan","wielded","Wg5","DD2d5 HR+1","","","","","","","111111111111111111","the farmer's wife","Dirt Path"
+
+"00139","1","the hoe","wielded","Wg1","DD3d4","","","","","","","111111111111111111","the farmer","Dirt Path"
+
+"00140","1","whispering slippers","on feet","Wg2","AC-2","","","","","","Dex+2 +Hide +Sneak","111111111111111111","Murmer Flightfoot","Geldenrock"
+
+"00141","2","a tar block","held","Wg50","","","","","Mv-20","","SPh-5","111111111111111111","Fritz (shop)","Dwarfen Undermountain Harbour"
+
+"00142","2","some Leisure Trousers","on legs","Wg6","","","","","","","Arm-4 Dex+1 Cha+2","111111111111111111","Fritz (shop)","Dwarfen Undermountain Harbour"
+
+"00143","2","some oil","held","Wg4","","","","","","","SPh-15","111111111111111111","Fritz (shop)","Dwarfen Undermountain Harbour"
+
+"00144","3","a fork","wielded","Wg1","DD3d3 DR+3","","","","","","","111111111111111111","a dining man","Ma Glob's Dancing Parlor"
+
+"00145","3","a knife","wielded","Wg1","DD3d3 HR+3","","","","","","","111111111111111111","a dining man","Ma Glob's Dancing Parlor"
+
+"00146","3","a spoon","wielded","Wg1","DD3d3","","","","","","Dex+2 Con+2","111111111111111111","a dining man","Ma Glob's Dancing Parlor"
+
+"00147","4","a bat ring","on finger","Wg2","AC-3","","","","Mv+45","","","111111111111111111","the chief gnome","Gnome Village"
+
+"00148","4","a hammer","wielded","Wg13","DD2d6","","","","","","","111001110010011100","Hagbard the Helpless","Dwarf 'n' Glob Iron Mill"
+
+"00149","4","a kopesh sword","wielded","Wg13","DD3d3","","","","","","","011011110011011101","the Minotaur Citizen","Mahn-Tor"
+
+"00150","4","a pair of gnome boots","on feet","Wg12","AC-12","","","","Mv+20","","","111111111111111111","a gnome armourer (shop)","Gnome Village"
+
+"00151","4","an amulet","around neck","Wg2","","","","","","","Con+2","111111111111111111","the myconoid shaman","Myconoid Temple"
+
+"00152","4","the shepherd's crook","wielded","Wg8","DD2d6 HR-1 DR+2","","","","","","","111111111111111111","the shepherd","Ultima"
+
+"00153","5","a banana yellow bandana","on head","Wg1","AC-3","","","MR+2","","","","111111111111111111","the elven woman","Tynstri"
+
+"00154","5","a bead necklace","around neck","Wg8","AC-3 HR+1","","","","","","","111111111111111111","the chief gnome","Gnome Village"
+
+"00155","5","a black bandana","on head","Wg1","AC-3","","","","","","","111111111111111111","the shadow","Tynstri"
+
+"00156","5","a black metal arm plates","on arms","Wg7","AC-7","","","","","","","011100110011010101","the troglodyte chief","Catacombs"
+
+"00157","5","a black metal breast plate","on body","Wg10","AC-8","","","","","","","011100110011010101","the troglodyte chief","Catacombs"
+
+"00158","5","a black metal gauntlets","on hands","Wg3","AC-7","","","","","","","011100110011010101","the troglodyte chief","Catacombs"
+
+"00159","5","a black metal helm","on head","Wg7","AC-7","","","","","","","011100110011010101","the troglodyte chief","Catacombs"
+
+"00160","5","a black metal leg plates","on legs","Wg6","AC-7","","","","","","","011100110011010101","the troglodyte chief","Catacombs"
+
+"00161","5","a bright blue bandana","on head","Wg1","AC-3","","","","","","","111111111111111111","Sneaker","Tynstri"
+
+"00162","5","a clean white bandana","on head","Wg1","AC-5","","","","","","OG","111111111111111111","Brother John","Tynstri"
+
+"00163","5","a commoner's longsword","wielded","Wg12","DD1d8 HR+1 DR+1","","","","","","","111111111111111111","the Drow commoner","Drow Underground City"
+
+"00164","5","a feather","held","Wg1","","","","","","","8xFly","111111111111111111","Elmer (shop)","Tynstri"
+
+"00165","5","a forest green bandana","on head","Wg1","AC-3","","","","","","","111111111111111111","the wild-eyed elf","Tynstri"
+
+"00166","5","a glowing orange bandana","on head","Wg1","AC-3","","","","","","","111111111111111111","Tweaker","Tynstri"
+
+"00167","5","a gnome belt","about waist","Wg5","AC-3","","","","","","","111111111111111111","a gnome armourer (shop)","Gnome Village"
+
+"00168","5","a hot pink bandana","on head","Wg1","AC-3","","","","","","","111111111111111111","the punk bunny","Tynstri"
+
+"00169","5","a long dagger","wielded","Wg6","DD3d4","","","","","","(BStab)","111011110111111111","a gnome weaponsmith (shop)","Gnome Village"
+
+"00170","5","a pair of sturdy leather gloves","on hands","Wg2","AC-3","","","","","","","111111111111111111","a gnome armourer (shop)","Gnome Village"
+
+"00171","5","a pearl studded collar","around neck","Wg3","AC-5","","","","","","Int+1 Wis+1","111111111111111111","Bluecat","Tynstri"
+
+"00172","5","a samurai bracer","around wrist","Wg2","AC-2 HR+1 DR+1","","","","","","AE","111111111111111111","a Samurai Apprentice","Samurai Tower"
+
+"00173","5","a serpentine wristguard","around wrist","Wg2","AC-2 HR+1 DR+1","","","","","","","111111111111111111","the mighty beholder","Thalos"
+
+"00174","5","a shovel","wielded","Wg16","DD1d17","","","","","","","111111101011011101","?","?"
+
+"00175","5","a small bright green hat","on head","Wg1","AC-10","","","","","","Age-15 Arm-2","111111111111111111","the Matron Mother","Drow Underground City"
+
+"00176","5","a soft dark green velvet hat with big red rose","on head","Wg1","AC-8","","","","","","Cha+2","111111111111111111","the hat seller (shop)","Elysium Faire"
+
+"00177","5","a strip of willow bark","held","Wg4","","","","","","","5xCure Light","111111111111111111","Climbing a tree (ground)","Tynstri"
+
+"00178","5","a teensy weensy bikini","on body","Wg1","AC-1","","","MR+5","","","Dex+1 Cha+6","111111111111111111","Veerle gnome","Dwarf 'n' Glob Iron Mill"
+
+"00179","5","a tempered sword","wielded","Wg16","DD3d8 HR-2","","","","","","","111111111111111111","Titus's shopkeeper (shop)","Rome"
+
+"00180","5","a very sharp knife","wielded","Wg9","DD8d1 HR+3","","","","","","Dex+2 (BStab)","111111111111111111","Arachnos","Arachnos"
+
+"00181","5","a wand of missiles","held","Wg4","","","","","","","5xMagic Missile","010111001100100010","a gnome scientist (shop)","Gnome Village"
+
+"00182","5","mining helmet","on head","Wg4","AC-4","","","","","","","111111111111111111","the dwarven mineworker","Dwarf 'n' Glob Iron Mill"
+
+"00183","5","the High Sheriff's Badge of Office","around neck","Wg1","AC-5","","","","","","","111111111111111111","the High Sheriff of Stanneg","Stanneg"
+
+"00184","6","a noble's longsword","wielded","Wg12","DD1d8 HR+2 DR+2","","","","","","","111111111111111111","the drow warrior noble","Drow Underground City"
+
+"00185","6","a short sword","wielded","Wg6","DD2d5","","","","","","","111001110111111111","the dwarven peon","Dwarven Kingdom"
+
+"00186","6","a sturdy pair of overalls","on body","Wg10","AC-7 HR+1","","","","","","Wis+1","111111111111111111","Elmer (shop)","Tynstri"
+
+"00187","6","a Sunhat","on head","Wg0","","","","","","","","110111011110101011","a tourist","Dwarfen Undermountain Harbour"
+
+"00188","6","a thick padded turban","on head","Wg15","","","","","","","Arm-1","111111111111111111","The main tent (a small wicker basket)","Nomad Camp"
+
+"00189","6","a very long black leather skirt","on legs","Wg3","HR+1","","","","","","Arm-7 Wis+1 Cha+1 4xCharm Person","110111001110101011","Lisette","Tynstri"
+
+"00190","6","highly polished white boots","on feet","Wg4","AC-6","","","","","","AE","111111111111111111","the gateguard","Tynstri"
+
+"00191","7","a bronze belt","about waist","Wg5","AC-4 HR+1","","","","","","Str-2","111111111111111111","the citizen","Rome"
+
+"00192","7","a harpoon","wielded","Wg5","DD3d4","","","","","","","111111111111111111","the burly blacksmith (shop)","Geldenrock"
+
+"00193","7","a Roman combat helmet","on head","Wg25","AC-8 HR+1","","","","","","Dex-2","111110111011011101","the Roman warrior","Rome"
+
+"00194","7","a silver and gold bracelet","around wrist","Wg14","AC-7 DR-2","","","","Mn+25","","","111111111111111111","the shopworker","Rome"
+
+"00195","8","a bulla","around neck","Wg1","HR+4 DR-3","","","","","","","111111111111111111","the Roman warrior","Rome"
+
+"00196","8","a glinting silver ring","on finger","Wg9","AC-5","","","","Hp+30","","","111111111111111111","?","?"
+
+"00197","8","a pair of muddy boots","on feet","Wg10","AC-5","","","","Mv+15","","","111111111111111111","?","?"
+
+"00198","8","a yellow and green ring","on finger","Wg1","AC-8","","","","","","Con+1 AG","111111111111111111","the orc","Moria Mountains"
+
+"00199","8","the small mace","wielded","Wg6","DD2d6 DR+1","","","","","","","111111111111111111","the junior mindflayer","Midgaard Sewers"
+
+"00200","9","a golden harp","held","Wg100","","","","","","","1xCall Lightning","111111111111111111","the lamia","Thalos"
+
+"00201","9","a jade pendant","around neck","Wg30","","","","","","","Int+2 Wis+2","111111111111111111","the master scheduler","Rome"
+
+"00202","9","a pair of Roman combat boots","on feet","Wg45","AC-8 DR-1","","","","","","Str+2","111110111011011101","the Roman warrior","Rome"
+
+"00203","9","a sapphire ring","on finger","Wg20","AC-10 HR+2","","","","","","","111111111111111111","the priest","Rome"
+
+"00204","9","a stiletto","wielded","Wg2","DD7d2 HR+4","","","","","","Arm+2 (BStab)","111111111111111111","a bruiser","Godforsaken Slum (PKOK)"
+
+"00205","10","a bent longsword","wielded","Wg8","DD3d6","","","","","","","111111111111111111","a skeletal cityguard","Rage of the Gods"
+
+"00206","10","a black bear fur","about body","Wg10","AC-6","","","","","","Con+1","111111111111111111","the black bear","Elven Forest of Namir"
+
+"00207","10","a broad leather belt","about waist","Wg1","AC-4","","","","Mn+10","","","111111111111111111","the deft magician","Elysium Faire"
+
+"00208","10","a broken sword","wielded","Wg10","DD4d5","","","","","","","111111111111111111","the Skeletal Warrior","Graveyard"
+
+"00209","10","a crude pirate's cutlass","wielded","Wg14","DD5d4 HR+2 DR+3","","","","","","Cha-4","111111111111111111","the Stalking Pirate","Pirates of Silver Raven"
+
+"00210","10","a deadly dagger","wielded","Wg5","DD4d3 HR+1 DR+3","","","","","","(evil) (BStab) AG","111001110110111111","the shadow","Tynstri"
+
+"00211","10","a dwarven wedding ring","on finger","Wg1","AC-2 HR+1 DR+1","","","","","","","111111111111111111","Queen Gwandolyn the Dragonslayer","Dwarf 'n' Glob Iron Mill"
+
+"00212","10","a gnome sword","wielded","Wg15","DD3d5","","","","","","","111001110111111111","a gnome weaponsmith (shop)","Gnome Village"
+
+"00213","10","a golden dwarven ring","on finger","Wg1","HR+1 DR+1","","","","","","","111111111111111111","the dwarf guard","Dwarven Kingdom"
+
+"00214","10","a green pointed wizard's hat","on head","Wg1","AC-10","","","","","","","111111111111111111","Slartiin","Shaalziran'dar"
+
+"00215","10","a jar of yak horn polish","held","Wg1","","","","","","3xRegeneration","","111111111111111111","the yakherder","Dwarf 'n' Glob Iron Mill"
+
+"00216","10","a long cylindrical tube","","Wg8","","","","","","","Cap+92","111111111111111111","the master scribe","High Tower of Sorcerery"
+
+"00217","10","a massive celt axe","wielded","Wg14","DD4d5 HR+2 DR+2","","","","","","Dex-1","111111111111111111","Jemara","Tynstri"
+
+"00218","10","a mind jewel","on finger","Wg1","AC-3","","","MR-1","Mn+10","","","000000000000100000","the novice","Psionicist School"
+
+"00219","10","a pair of dwarven gloves","on hands","Wg2","AC-1","","","","","","Dex+1 Con+1","111111111111111111","the dwarf guard","Dwarven Kingdom"
+
+"00220","10","a pair of silvery plated boots","on feet","Wg40","AC-6","","","","Mv+20","","OG","111110111011011101","the Grand Knight of Paladins","Redferne's Residence"
+
+"00221","10","a pair of swordman's gloves","on hands","Wg1","AC-2 HR+2 DR+2","","","","","","AG","111111111111111111","the Warrior","Moria Mountains"
+
+"00222","10","a pale green stone","held","Wg10","DR-5","","","","","","","111111111111111111","the lamia","Thalos"
+
+"00223","10","a pink and green stone","held","Wg10","HR-5","","","","","","","111111111111111111","the lamia","Thalos"
+
+"00224","10","a small cloth cap with Elysium on the crown","on head","Wg1","AC-8","","","","","","","111111111111111111","the hat seller (shop)","Elysium Faire"
+
+"00225","10","a small monocle","on head","Wg2","AC-2","","","","","","Wis+1","111111111111111111","Bilbo","Hobbit Village"
+
+"00226","10","a small ruby ring","on finger","Wg1","","","","","Hp+25","","","111111111111111111","the Matron Mother","Drow Underground City"
+
+"00227","10","a smooth quartz ball","as light","Wg30","","","","","","","","111111111111111111","the mimic","Thalos"
+
+"00228","10","a tiny axe","wielded","Wg7","DD2d6","","","","","","","111010111011011101","Frodo","Hobbit Village"
+
+"00229","10","a wide leather slave collar","around neck","Wg1","AC-8","","","","","","AG","111111111111111111","the slave","Rome"
+
+"00230","10","a yakherder hat","on head","Wg1","AC-8","","","","Mn+15","","Age+15","111111111111111111","the yakherder","Dwarf 'n' Glob Iron Mill"
+
+"00231","10","dwarven plate mail","on body","Wg80","AC-6","","","","","","","111111111111111111","the dwarf guard","Dwarven Kingdom"
+
+"00232","11","a quenched sword","wielded","Wg14","DD3d5","","","","","","","111111111111111111","Titus's shopkeeper (shop)","Rome"
+
+"00233","12","a pair of Moorish bracers","on arms","Wg15","AC-8 DR+2","","","","","","Dex-2","111110111011011101","the moorish soldier","Rome"
+
+"00234","12","a pair of soft black deerskin boots","on feet","Wg1","AC-4","","","","Hp+10","","","111111111111111111","the elven woman","Tynstri"
+
+"00235","12","a short rope","wielded","Wg6","DD1d3 HR+3 DR+1","","","","","","","110110011010001101","Sigourney (shop)","Dwarfen Undermountain Harbour"
+
+"00236","12","a steel breast plate","on body","Wg10","AC-6","","","","","","","111111111111111111","the Minotaur Warrior","Mahn-Tor"
+
+"00237","12","an electrum sword","wielded","Wg18","DD3d5 HR+2 DR+2","","","","","","","111001110111111111","the chief gnome","Gnome Village"
+
+"00238","12","tough scaly leggings","on legs","Wg7","AC-12","","","","Hp+20","","","001000000000000000","the lizardman","Tynstri"
+
+"00239","13","a bag of herbs","held","Wg5","","","","","","","4xRemove Poison","111111111111111111","the healer","Rome"
+
+"00240","13","a Kodarta staff","held","Wg6","","","","","","","3xCure Critic","111111111111111111","the healer","Rome"
+
+"00241","13","a mithril hammer","wielded","Wg18","DD2d6 HR+2","","","","","","Str+1","111111111111111111","A very hot room (ground)","High Tower of Sorcerery"
+
+"00242","13","a pair of silvery arm plates","on arms","Wg40","AC-6","","","","","","OG","111110111011011101","the Grand Knight of Paladins","Redferne's Residence"
+
+"00243","13","a pair of silvery greaves","on feet","Wg40","AC-8","","","","","","OG","111110111011011101","the Grand Knight of Paladins","Redferne's Residence"
+
+"00244","13","a silvery breast plate","on body","Wg110","AC-8","","","","","","","111111111111111111","the Grand Knight of Paladins","Redferne's Residence"
+
+"00245","13","a silvery helmet","on head","Wg40","AC-8","","","","Mn+15","","Wis+2 OG","111110111011011101","the Grand Knight of Paladins","Redferne's Residence"
+
+"00246","14","a two-handed sword","wielded","Wg22","DD3d6 HR-3 DR+4","","","","","","","111000110010011101","the stone golem","Thalos"
+
+"00247","15","a black amulet","around neck","Wg2","AC-5","","","","","","Con+2 AG","111111111111111111","the Black Orc","Moria Mountains"
+
+"00248","15","a black dragon scale shirt","on legs","Wg8","AC-6","","","","","","","111111111111111111","Isha the Dark Elf","Quifael's House"
+
+"00249","15","a broad silver belt","about waist","Wg4","AC-6","","","","","","","111111111111111111","Isha the Dark Elf","Quifael's House"
+
+"00250","15","a glowing dagger","wielded","Wg1","DD2d6 HR+3 DR+2","","","","","","(BStab)","111111111111111111","Master Bedroom (a desk)","Rand's Tower"
+
+"00251","15","a hunting knife","wielded","Wg6","DD3d5 DR+3","","","","","","(BStab)","111001110111111111","the hunter","Stanneg"
+
+"00252","15","a Jewel of the Rising Sun","around neck","Wg5","AC-15","","","","","","Int+1 Wis+1 AE","111111111111111111","Tokugawa Yoshikatsu","Samurai Tower"
+
+"00253","15","a leather vest","on body","Wg10","AC-8","","","","Hp+30","","","111111111111111111","Salle","Stanneg"
+
+"00254","15","a pair of blue steel vambraces","on arms","Wg8","AC-8","","","","","","","011011110011011101","the High Minotaur Guard","Mahn-Tor"
+
+"00255","15","a pair of muddy gauntlets","on hands","Wg10","AC-6","","","","","","Str+1","111111111111111111","?","?"
+
+"00256","15","a Roman combat breast plate","on body","Wg10","AC-8 HR-2","","","","","","Dex+1","111110111011011101","the Roman warrior","Rome"
+
+"00257","15","a small hammer","wielded","Wg5","DD1d18 HR+3","","","","","","","111111111111111111","Fritz (shop)","Dwarfen Undermountain Harbour"
+
+"00258","15","a small helmet","on head","Wg5","AC-1","","","","","","Int+3","111111111111111111","the Matron Mother","Drow Underground City"
+
+"00259","15","a studly dragon tattoo","on arms","Wg1","AC-5","","","","Mn+25","","","111111111111111111","the studly dragon","Tynstri"
+
+"00260","15","a two-handed dwarven axe","wielded","Wg14","DD2d7 HR+2","","","","","","Str+2","111000110010011101","the dwarf guard","Dwarven Kingdom"
+
+"00261","15","gnomish adventuring vest","on body","Wg1","AC-8","","","","","","","111111111111111111","the explorer","Dwarf 'n' Glob Iron Mill"
+
+"00262","15","Katrina's sword","wielded","Wg11","DD2d9 DR+2","","","","","","AE","111001110111111111","Katrina the Shepherd","Ultima"
+
+"00263","15","stainfree white shoes","on feet","Wg3","","","","","Mv+30","","Arm-1","110111011110101011","a tourist","Dwarfen Undermountain Harbour"
+
+"00264","15","Stanley's Stompin' Boots","on feet","Wg1","AC-7","","","","","","Str+2","111111111111111111","Stanley","Dwarf 'n' Glob Iron Mill"
+
+"00265","15","the Azami","wielded","Wg10","DD2d6 HR+1 DR+1","","","","","","(bless) OG","111000110010011101","the Shogun of Understanding","Samurai Tower"
+
+"00266","15","the Iaito","wielded","Wg10","AC-12 DD2d7 DR+1","","","","","","(bless) OG","111000110010011101","the Shogun of Truth","Samurai Tower"
+
+"00267","15","the Kora","wielded","Wg10","DD2d7","","","","","","(bless) Dex+1 Con+1 OG","111000110010011101","the Shogun of Knowledge","Samurai Tower"
+
+"00268","15","the Laroche","wielded","Wg10","AC-5 DD2d6","","","","","","(bless) OG","111000110010011101","a Samurai Apprentice","Samurai Tower"
+
+"00269","15","the staff of the dragon","held","Wg5","","","","","","","10xCall Lightning","010111001100110011","the Great Red Dragon","Draconia"
+
+"00270","16","a pair of Ultrabig Sunglasses","on head","Wg2","AC-4","","","","","+Blindness","SMa+3","111111111111111111","the old tourist","Dwarfen Undermountain Harbour"
+
+"00271","16","a small red wand","held","Wg4","","","","","","","8xFireball","010111000100100010","Took","Hobbit Village"
+
+"00272","16","the Ninjato","wielded","Wg10","DD2d6 HR+2 DR+2","","","","","","(bless) OG","111000110010011101","the Shogun of Loyalty","Samurai Tower"
+
+"00273","17","a snake headed whip","wielded","Wg12","DD3d6","","","","","","Str-2 Int-2 AG","111000110010011101","the Matron Mother","Drow Underground City"
+
+"00274","18","a black chain mail","on body","Wg60","AC-8","","","","","","AG","111111111111111111","the Black Orc Leader","Moria Mountains"
+
+"00275","18","a black scimitar","wielded","Wg8","DD3d6 HR+2 DR+1","","","","","","AG","111000110010011101","the Black Orc Leader","Moria Mountains"
+
+"00276","18","a black shield","as shield","Wg4","AC-5","","","","","","AG","111111111111111111","the Black Orc Leader","Moria Mountains"
+
+"00277","18","a grappling net","as shield","Wg5","AC-5","","","","","","","111111111111111111","the Lizardman Fisherman","Lizardmen Hometown"
+
+"00278","18","a purple cloak","about body","Wg20","AC-10","","","MR+10","","","","111111111111111111","Yevaud","Arachnos"
+
+"00279","18","a reinforced shield","as shield","Wg5","AC-5","","","","","","","111111111111111111","the Lizardman Hunter","Lizardmen Hometown"
+
+"00280","18","a trident","wielded","Wg10","DD2d8 HR+2 DR+2","","","","","","","111111111111111111","the Lizardman Fisherman","Lizardmen Hometown"
+
+"00281","18","the Kodachi","wielded","Wg10","AC-12 DD2d9","","","","","","(bless) OG","111000110010011101","a Samurai Trainee","Samurai Tower"
+
+"00282","18","the large mace","wielded","Wg10","DD2d10 DR+2","","","","","","","111111111111111111","the senior mindflayer","Midgaard Sewers"
+
+"00283","19","a golf club","wielded","Wg12","","","","","","","Cha+3","111111111111111111","Gretchen","Dwarf 'n' Glob Iron Mill"
+
+"00284","20","a big spoon","wielded","Wg10","DD2d5","","","","","","","111111111111111111","a slave cook","Assassin Caves"
+
+"00285","20","a black breast plate","on body","Wg100","AC-15","","","MR+4","Hp+30","","AG","001000110000000100","the Black Orc Chief","Moria Mountains"
+
+"00286","20","a black spear","wielded","Wg8","DD3d8 HR+2 DR+3","","","","","","AG","111000110010011101","?","?"
+
+"00287","20","a black, hooded cloak","around neck","Wg20","","","","MR-4","","","Arm-6","111111111111111111","Isha the Dark Elf","Quifael's House"
+
+"00288","20","a copper hammer","wielded","Wg12","DD3d6","","","","","","","111111111111111111","a bodyguard","Draconia"
+
+"00289","20","a drow noble's armband","on arms","Wg30","AC-10","","","","","","AG","111111111111111111","a drow noble","Shaalziran'dar"
+
+"00290","20","a golden bow","wielded","Wg20","DD4d6","","","","","","(bless)","111000110010011101","the nomad leader","Nomad Camp"
+
+"00291","20","a huge book of reservations","as shield","Wg100","AC-3","","","","Mv-20","","Str-1","011111111111111111","the head waiter","Ma Glob's Dancing Parlor"
+
+"00292","20","a jagged dagger","wielded","Wg15","DD4d6","","","","","","1","111000110011011101","?","?"
+
+"00293","20","a large club","wielded","Wg16","DD2d10","","","","","","","111111111111111111","the hobgoblin guard","Hobgoblin Mines"
+
+"00294","20","a linen shirt the color of ripe peaches","on body","Wg2","AC-10","","","","Hp+25 Mn+25","","","111111111111111111","the forest dwelling elf","Tynstri"
+
+"00295","20","a meat cleaver","wielded","Wg8","DD3d5","","","","","","","111001110111111111","Emerald","High Tower of Sorcerery"
+
+"00296","20","a pair of troll gauntlets","on hands","Wg8","AC-4","","","","","","Str+4","111111111111111111","General Woundwort","Crete"
+
+"00297","20","a rat talisman","around neck","Wg1","","","","","","","Int-1 (NoRent)","111111111111111111","a devious wererat","Werehome"
+
+"00298","20","a robe","about body","Wg5","AC-5","","","","Mn+20","","AE","000011000100100010","the mage","Ultima"
+
+"00299","20","a robe woven of butterfly wings","about body","Wg1","AC-10","","","MR+10","Mv+25","","Cha+2 AE","111111111111111111","the dryad","Tynstri"
+
+"00300","20","a vibrant purple stone","held","Wg10","","","","","Hp-50","","","111111111111111111","the lamia","Thalos"
+
+"00301","20","a voodoo doll","held","Wg1","","","","","","","5xCurse","110111101110110011","the voodoo child (shop)","Elysium Faire"
+
+"00302","20","an amulet","around neck","Wg3","","","","","","","Dex+3","111111111111111111","Hidden Treasure Room (a wooden chest)","Rand's Tower"
+
+"00303","20","an iron scepter","as light","Wg10","","","","","","","","111111111111111111","the Queen Spider","Arachnos"
+
+"00304","20","King Kwathoum's golden sceptre","wielded","Wg1","DD3d5 HR+2 DR+3","","","","","","","111111111111111111","King Kwathoum","Dwarf 'n' Glob Iron Mill"
+
+"00305","20","soft pale grey suede pants","on legs","Wg1","AC-2 DR+1","","","","","","","111111111111111111","the forest dwelling elf","Tynstri"
+
+"00306","20","staff of healing","held","Wg8","","","","","","","10xArea Cure Critic","111111111111111111","the Elder Druid","Heavy Forest"
+
+"00307","20","tall sharkskin boots","on feet","Wg1","AC-8","","","","","","","111111111111111111","the sturdy elf","Tynstri"
+
+"00308","20","the Amulet of Suun Lu","around neck","Wg5","AC-15","","","","Hp+20","","Con+3 AE","111111111111111111","Tokugawa Yoshikatsu","Samurai Tower"
+
+"00309","20","the glowing eye medallion","around neck","Wg1","AC-15","","","","Hp+20","","Con+3 OE","111111111111111111","the Balrog","Moria Mountains"
+
+"00310","20","the morning star","wielded","Wg10","DD2d10 HR+2 DR+4","","","","","","","111111111111111111","the Elder Druid","Heavy Forest"
+
+"00311","21","a long slender sword","wielded","Wg4","DD3d6 HR+4 DR+2","","","","","","OE","111000110010011101","?","?"
+
+"00312","21","a pitch black cloak","about body","Wg3","","","","","","","Cap+147 SPo-3","111111111111111111","Pythian","Mahn-Tor"
+
+"00313","21","a silvery sword","wielded","Wg13","DD5d4 HR+4 DR+2","","","","","","Dex+2","111111111111111111","?","?"
+
+"00314","21","a spider shaped dagger","wielded","Wg8","DD3d4 HR+3 DR+3","","","","","","(BStab) AG","111111111111111111","the yochlol","Drow Underground City"
+
+"00315","21","a thin two-handed sword","wielded","Wg16","DD6d4 HR+2 DR+4","","","","","","","111111111111111111","?","?"
+
+"00316","21","a wicked shortsword","wielded","Wg11","DD3d5 HR+1 DR+1","","","","","","","011010010010011000","Astyanax","Mahn-Tor"
+
+"00317","21","an irridescent stone","held","Wg10","","","","","Hp-100","","","111111111111111111","the lamia","Thalos"
+
+"00318","22","a pair of jackrabbit's shoes","on feet","Wg4","AC-7","","","","Mv+20","","","111111111111111111","the jackrabbit","Tynstri"
+
+"00319","22","a wet towel","wielded","Wg12","DD5d3","","","","","","","000111001100100010","?","?"
+
+"00320","22","the Katana","wielded","Wg10","DD2d8 HR+1 DR+2","","","","","","(bless) OG","111000110010011101","the Shogun of Ethics","Samurai Tower"
+
+"00321","22","the Naginata","wielded","Wg10","DD2d9 HR+2 DR+2","","","","","","(bless) OG","111000110010011101","the Shogun of Respect","Samurai Tower"
+
+"00322","22","the Wakisashi","wielded","Wg10","AC-10 DD2d8","","","","","","(bless) Dex+1 OG","111000110010011101","the Shogun of Authority","Samurai Tower"
+
+"00323","23","a red loincloth","about waist","Wg30","AC-15","","","","","","Str+2 Dex+2 AE","111000110010011101","the mighty warrior","Rome"
+
+"00324","23","an ice-axe","wielded","Wg8","DD4d5","","","","","","","111111111111111111","the burly blacksmith (shop)","Geldenrock"
+
+"00325","24","a black scabbard","about body","Wg5","","","","","","","Cap+20 Arm+4 AG","111111111111111111","a black pawn","Chessboard"
+
+"00326","24","a black morning star","wielded","Wg13","DD5d5 HR-1 DR+5","","","","","","AG","011110111011010101","?","?"
+
+"00327","24","a black sword","wielded","Wg14","DD5d5 HR+1 DR+2","","","","","","AG","111001110111111111","?","?"
+
+"00328","24","a black tunic","about body","Wg10","AC-5","","","","Hp+20 Mv+20","","AG","111111111111111111","a black pawn","Chessboard"
+
+"00329","24","a pair of runed bracers","around wrist","Wg2","AC-8","","","","","","","111111111111111111","ScreaMEr","Tynstri"
+
+"00330","24","a white morning star","wielded","Wg13","DD5d5 HR-1 DR+5","","","","","","AE","011110111011010101","?","?"
+
+"00331","24","a white scabbard","about body","Wg5","","","","","","","Cap+20 Arm+4 AE","111111111111111111","a pawn of the white court","Chessboard"
+
+"00332","24","a white sword","wielded","Wg14","DD5d5 HR+2 DR+2","","","","","","AE","111111111111111111","?","?"
+
+"00333","24","a white tunic","about body","Wg10","AC-5","","","","Hp+20 Mv+20","","AE","111111111111111111","a white pawn","Chessboard"
+
+"00334","24","platinum sash","about waist","Wg15","AC-14","","","","","","Int+2","000001000100100010","the apprentice","Psionicist School"
+
+"00335","24","the Mandarian dau","wielded","Wg10","DD2d10 HR+2 DR+2","","","","","","(bless) OG","111000110010011101","the Shogun of Caring","Samurai Tower"
+
+"00336","25","a bride's veil","on head","Wg5","AC-2","","","","","","","111111111111111111","the Tailor","City of Midgaard"
+
+"00337","25","a climbing rope","about waist","Wg8","AC-8","","","","","","","111111111111111111","the Adventurer","Storm Dragons Fortress"
+
+"00338","25","a dark minotaur's shield","as shield","Wg12","AC-10","","","","","","SPo+10","111111111111111111","King Crete the Minotaur","Crete"
+
+"00339","25","a dirty cloth turban","on head","Wg10","AC-7","","","","","","SPh+5 Dex+2","111111111111111111","Ali Baba","Great Pyramid"
+
+"00340","25","a dragon's eye","as light","Wg4","","","","","","","+Waterbreath (NoInf)","111111111111111111","a Dragonlady","Storm Dragons Fortress"
+
+"00341","25","a forest green trousers","on legs","Wg5","AC-8","","","","","","AE","011111011101110011","the sturdy elf","Tynstri"
+
+"00342","25","a golden scimitar","wielded","Wg10","DD3d7 HR+2 DR+3","","","","","","","111111111111111111","a bodyguard","Draconia"
+
+"00343","25","a long rope","held","Wg30","","","","","","","Con+2","111111111111111111","Sigourney (shop)","Dwarfen Undermountain Harbour"
+
+"00344","25","a long sword","wielded","Wg15","DD3d7 HR+3 DR+3","","","","","","","111000110010011101","?","?"
+
+"00345","25","a magic dagger","wielded","Wg7","DD4d5 HR+2 DR+3","","","","","","(BStab)","111011110111111111","Nystul the Librarian","Ultima"
+
+"00346","25","a Mystical loincloth","about waist","Wg30","AC-13","","","MR+5","Mn+25","","Str+1 Con+1","000011000000100010","Titania","Village of Faerise"
+
+"00347","25","a pair of black leather trousers","on legs","Wg25","AC-7","","","","","","","111111111111111111","the Tailor (shop)","City of Midgaard"
+
+"00348","25","a pair of climbing boots","on feet","Wg10","AC-8 HR+1","","","","Hp+25","","","111111111111111111","the Adventurer","Storm Dragons Fortress"
+
+"00349","25","a pair of glass slippers","on feet","Wg10","AC-7","","","","","","","111111111111111111","the Tailor (shop)","City of Midgaard"
+
+"00350","25","a pair of high leather boots","on feet","Wg25","AC-7","","","","","","","111111111111111111","the Tailor (shop)","City of Midgaard"
+
+"00351","25","a pair of lace gloves","on hands","Wg5","AC-4","","","","","","","111111111111111111","the Tailor","City of Midgaard"
+
+"00352","25","a ring of wisdom and high IQ","on finger","Wg5","","","","","","","Int+1 Wis+1","111111111111111111","the Jeweler (shop)","City of Midgaard"
+
+"00353","25","a scimitar","wielded","Wg10","DD3d6","","","","","","","111101110111110111","the bandit","Bandit Caves"
+
+"00354","25","a shield of the rose","as shield","Wg60","AC-6","","","","","","Dex+1 OG","111110111011011101","the Grand Knight of Paladins","Redferne's Residence"
+
+"00355","25","a silver dagger","wielded","Wg10","DD4d5","","","","","","(BStab)","111001111111111111","a concubine","Draconia"
+
+"00356","25","a silver flute","held","Wg3","","","","","","","2xCharm Person","111111111111111111","the lamia","Thalos"
+
+"00357","25","a small sickle","wielded","Wg3","DD5d3 HR+3 DR+3","","","","Mn+20","","","100111001110110011","Fritz (shop)","Dwarfen Undermountain Harbour"
+
+"00358","25","a small whistle","on hands","Wg3","DR-3","","","","Mv+50","","Age-10 +Curse","111111111111111111","a Jenka Dance Leader","Ma Glob's Dancing Parlor"
+
+"00359","25","a vine-embellished shirt","on body","Wg2","AC-15","","","MR+3","","","Dex+1 Cha+1","111110111111110111","the sturdy elf","Tynstri"
+
+"00360","25","a wedding corsage","around wrist","Wg5","AC-2","","","","","","","111111111111111111","the Tailor (shop)","City of Midgaard"
+
+"00361","25","an ankh","around neck","Wg9","AC-10","","","","","","Int+2 Wis+2 AE","111111111111111111","a gynosphinx","Great Pyramid"
+
+"00362","25","an elven cloak","about body","Wg10","AC-13","","","","","","AE","110111011110111111","The Attic of the Elven House (ground)","Great Elven City of Illir"
+
+"00363","25","Hagbard's Helmet","on head","Wg1","AC-10","","","","","","Str+2 Int-1","111111111111111111","Hagbard the Helpless","Dwarf 'n' Glob Iron Mill"
+
+"00364","25","Nelly's magic cape","about body","Wg1","AC-10","","","","","","","000000000000100000","Nelly the Mindslayer","Stanneg"
+
+"00365","25","the devil rod","wielded","Wg8","DD3d7 HR+4","","","","","","Str-1","111111111111111111","the master mindflayer","Midgaard Sewers"
+
+"00366","26","an icy white cloak","about body","Wg5","AC-8","","","","","","","111111111111111111","Thesus","Mahn-Tor"
+
+"00367","26","Jupiter's Thunderbolt","wielded","Wg22","DD4d6 HR+3 DR+3","","","","","","","111000110010011101","Jupiter","Rome"
+
+"00368","26","the basher mace","wielded","Wg15","DD4d6 HR+4 DR+4","","","","","","AE","111111111111111111","the Nameless Undead Hero","Graveyard"
+
+"00369","27","a black helmet","on head","Wg10","AC-5","","","","","","AG","001100110001000100","a black knight","Chessboard"
+
+"00370","27","a black lance","wielded","Wg18","DD3d10 HR-1 DR+5","","","","","","AG","001000110001000100","a black knight","Chessboard"
+
+"00371","27","a black mace","wielded","Wg15","DD4d6 DR+4","","","","","","AG","111111111111111111","a black bishop","Chessboard"
+
+"00372","27","a black shield","as shield","Wg40","AC-5","","","","Hp+30","","Dex-1 AG","111111111111111111","a black knight","Chessboard"
+
+"00373","27","a dark green cloak","around neck","Wg12","AC-5","","","","Hp+8","","","111111111111111111","the mighty beholder","Thalos"
+
+"00374","27","a pair of winged sandals","on feet","Wg14","AC-8","","","","Mv+100","","Dex+2 AN","111110111011011101","Mercury","Rome"
+
+"00375","27","a waterproof bag","held","Wg12","","","","","","","Cap+48","111111111111111111","Fritz (shop)","Dwarfen Undermountain Harbour"
+
+"00376","27","a white helmet","on head","Wg10","AC-5","","","","","","AE","001100110001000100","a white knight","Chessboard"
+
+"00377","27","a white mace","wielded","Wg15","DD4d6 DR+4","","","","","","AE","111111111111111111","a white bishop","Chessboard"
+
+"00378","27","a white shield","as shield","Wg40","AC-6","","","","Hp+30","","Dex-1 AE","111111111111111111","a white knight","Chessboard"
+
+"00379","27","an ebony bracelet","around wrist","Wg5","AC-1","","","","Hp+30 Mn+30","","AG","111111111111111111","a black bishop","Chessboard"
+
+"00380","27","an ivory bracelet","around wrist","Wg5","AC-1","","","","Hp+20 Mn+20","","Str+1 AE","111111111111111111","a white bishop","Chessboard"
+
+"00381","27","black arm plates","on arms","Wg20","AC-5","","","","","","AG","001100110001000100","a black knight","Chessboard"
+
+"00382","27","black boots","on feet","Wg20","AC-5","","","","Mv-5","","AG","001100110001000100","a black knight","Chessboard"
+
+"00383","27","black leg plates","on legs","Wg50","AC-5","","","","Mv-25","","Str+1 Dex-1 AG","001100110001000100","a black knight","Chessboard"
+
+"00384","27","black platemail","on body","Wg75","AC-13","","","","Mv-50","","Dex-2 AG","001100110001000100","a black knight","Chessboard"
+
+"00385","27","Bubba's slighty tattered overalls","on body","Wg45","AC-4 HR+1","","","","Mn+25","","Cap+5","111111111111111111","Bubba","Tynstri"
+
+"00386","27","white arm plates","on arms","Wg20","AC-5","","","","","","AE","001100110001000100","a white knight","Chessboard"
+
+"00387","27","white leg plates","on legs","Wg50","AC-6","","","","Mv-25","","Str-1 Dex-1 AE","001100110001000100","a white knight","Chessboard"
+
+"00388","27","white platemail","on body","Wg75","AC-13","","","","Mv-50","","Dex-2 AE","001100110001000100","a white knight","Chessboard"
+
+"00389","28","a black halberd","wielded","Wg20","DD5d6 HR-2 DR+6","","","","","","AG","001000110001010100","a black rook","Chessboard"
+
+"00390","28","a king-prawn shell","on finger","Wg3","AC-9 HR+1 DR+1","","","","","","","111111111111111111","King Prawn","The Lost City of Delray"
+
+"00391","28","a lava lamp","as light","Wg20","","","","","","","(NoInf)","111111111111111111","the lava beast","Elemental Canyon"
+
+"00392","28","a white halberd","wielded","Wg20","DD5d6 HR-2 DR+6","","","","","","AE","001000110001010100","a white rook","Chessboard"
+
+"00393","28","black gauntlets","on hands","Wg20","AC-6 HR+1 DR+3","","","","","","Str+1 Dex-1 AG","011100111001010101","a black rook","Chessboard"
+
+"00394","28","Iolo's bow","wielded","Wg10","DD3d6 HR+2 DR+2","","","","","","Dex+2","111000110111111111","Iolo the Bard","Ultima"
+
+"00395","28","white gauntlets","on hands","Wg10","AC-6 HR+1 DR+3","","","","","","Str+1 Dex-2 AE","011100111011010101","a white rook","Chessboard"
+
+"00396","30","a black silk belt","about waist","Wg25","AC-8 HR+1 DR+1","","","","","","","111111111111111111","the Draconian Queen","Draconia"
+
+"00397","30","a bright blue bandana","on head","Wg1","AC-12","","","","","","Str+2 Int-1","001000110001010100","the runner","Tynstri"
+
+"00398","30","a brown cloak","around neck","Wg5","AC-10","","","MR+10","Mv+100","","","111111111111111111","A passage (ground)","High Tower of Sorcerery"
+
+"00399","30","a chameleon poncho","about body","Wg4","AC-10","","","","Mv+50","","","111111111111111111","A passage (ground)","High Tower of Sorcerery"
+
+"00400","30","a colorful blouse","on body","Wg1","AC-10","","","","","","","111111111111111111","the Gypsy Queen","Elysium Faire"
+
+"00401","30","a crimson amulet","around neck","Wg2","AC-10","","","","","","Con+2 +Detect Magic (NoRent)","111111111111111111","the chapterhouse guardian","Barrow Citadel of the Crimson Fists"
+
+"00402","30","a crimson steel helm and visor","on head","Wg8","AC-10","","","","","","","011011110011011101","the Elite Minotaur Guard","Mahn-Tor"
+
+"00403","30","a deep crimson linen tunic and hauberk","on body","Wg10","AC-13 HR+1","","","","Mn+25","","AE","111111111111111111","the sturdy elf","Tynstri"
+
+"00404","30","a diamond brooch","around neck","Wg2","AC-7","","","","Mn+50","","","111111111111111111","?","?"
+
+"00405","30","a diamond rose","on head","Wg5","AC-12","","","","","","Wis+2 Cha+2","111111111111111111","Titania","Village of Faerise"
+
+"00406","30","a door guard jacket","on body","Wg12","AC-10 HR+1","","","","","","SMe+3 Int-4","110000010010011100","the door guard","Ma Glob's Dancing Parlor"
+
+"00407","30","a dragon skin bracelet","around wrist","Wg10","AC-10","","","","","","","111111111111111111","the Great White Dragon","Draconia"
+
+"00408","30","a drow's hand crossbow","wielded","Wg7","DD5d6 HR+3 DR+4","","","","","","AG","111011111111111111","a drow weaponsmith (shop)","Shaalziran'dar"
+
+"00409","30","a glowing globe","as light","Wg1","","","","","","","Arm-10 (NoInf)","000111001110100010","the Lizardman Mage","Lizardmen Hometown"
+
+"00410","30","a glowing plate mail","on body","Wg100","AC-12","","","","","","","111100111011011101","Hidden Treasure Room (a wooden chest)","Rand's Tower"
+
+"00411","30","a glowing suit of banded mail","on body","Wg40","AC-11","","","","","","Dex+2","111110111011011101","the dracolich","Myconoid Temple"
+
+"00412","30","a halfling sword","wielded","Wg7","DD4d8 HR+4 DR+4","","","","","","AE","011110111011001101","the halfling soldier","The Lost City of Delray"
+
+"00413","30","a heavy banded mail","on body","Wg50","AC-12","","","","Hp+25","","","101100110011010000","?","?"
+
+"00414","30","a holy symbol","around neck","Wg2","AC-15","","","","Mn+35","","","000110001001000000","the holy Draconian","Draconia"
+
+"00415","30","a mining helmet","on head","Wg1","AC-8","","","","Hp+25","","","111000110010111001","Helmet","Stanneg"
+
+"00416","30","a morning star","wielded","Wg12","DD2d14 DR+5","","","","","","","111111111111111111","?","?"
+
+"00417","30","a oddlooking amulet","around neck","Wg1","AC-5","","","","","","Dex+2 AG","111111111111111111","?","?"
+
+"00418","30","a pair of old boots","on feet","Wg2","AC-5","","","","Mv+100","","","111111111111111111","A passage (ground)","High Tower of Sorcerery"
+
+"00419","30","a pearl necklace","around neck","Wg2","AC-6","","","","Mn+30","","Int+2 AE","111111111111111111","the white queen","Chessboard"
+
+"00420","30","a pearl ring","on finger","Wg1","AC-4 DR+2","","","MR+3","","","Str+1 AE","111111111111111111","the white queen","Chessboard"
+
+"00421","30","a piece of glowing ore","held","Wg40","DR+2","","","","","","Cha+4","111111111111111111","?","?"
+
+"00422","30","a platinum bracelet","around wrist","Wg5","AC-8","","","","","","","111111111111111111","the holy Draconian","Draconia"
+
+"00423","30","a red steel greaves","on legs","Wg8","AC-9","","","","","","","011011110011011101","the Royal Minotaur Guard","Mahn-Tor"
+
+"00424","30","a ring of triskelion","on finger","Wg5","AC-11 HR+2","","","","","","Int+1","111111111111111111","the novice","Psionicist School"
+
+"00425","30","a seashell ring","on finger","Wg2","AC-5","","","","Mv+100","","","111111111111111111","A passage (a leather backpack)","High Tower of Sorcerery"
+
+"00426","30","a short sword","wielded","Wg10","DD4d5 HR+2 DR+2","","","","","","","111111111111111111","the Squire","Storm Dragons Fortress"
+
+"00427","30","a skirt of many colors","on legs","Wg1","AC-6","","","","","","","111111111111111111","the Gypsy Queen","Elysium Faire"
+
+"00428","30","a stone club","wielded","Wg16","DD2d12 DR+3","","","","","","","001000110001010100","the large elemental","Elemental Canyon"
+
+"00429","30","a stone club","wielded","Wg18","DD5d5","","","","","","","111111111111111111","the troll","Ultima"
+
+"00430","30","a tasteless tunic","on body","Wg3","AC-15 DR+1","","","","","","","011001010110111111","a travelling saleself","Tynstri"
+
+"00431","30","a thneed","on head","Wg4","AC-9 HR+1","","","","Hp+5 Mn+5","","Wis+2","111111111111111111","the truffla tree","Village of the Merkins"
+
+"00432","30","a tooth","wielded","Wg6","DD5d4 HR+2 DR+4","","","","","","(BStab)","111111111110111111","the Lhurgoif","Psionicist School"
+
+"00433","30","a very thin yard long wooden stick","wielded","Wg3","DD4d4 HR+4 DR-2","","","","","","Dex+2","110001010110111111","?","?"
+
+"00434","30","a white silk belt","about waist","Wg25","AC-5","","","","Hp+40","","Str+2","111111111111111111","the holy Draconian","Draconia"
+
+"00435","30","a wood and brass linked waist chain","about waist","Wg1","AC-5","","","","Hp+15","","","111111111111111111","the Gypsy Queen","Elysium Faire"
+
+"00436","30","an onyx necklace","around neck","Wg2","AC-6","","","","Mn+30","","Int+2 AG","111111111111111111","the black queen","Chessboard"
+
+"00437","30","an onyx ring","on finger","Wg1","AC-4 DR+2","","","MR+3","","","Str+2 AG","111111111111111111","the black queen","Chessboard"
+
+"00438","30","Horn of the Unicorn","wielded","Wg3","DD4d6 HR+2 DR+3","","","","","","","000011000100100010","Oberon","Village of Faerise"
+
+"00439","30","Hulio's wide open shirt","on body","Wg3","AC-3","","","","","","Dex+2 Cha+2","111111111111111111","Hulio","Ma Glob's Dancing Parlor"
+
+"00440","30","Kithy's sneaky boots","on feet","Wg1","AC-8","","","","Hp+15","","+Sneak","110100001111101011","Kithy","Stanneg"
+
+"00441","30","leather armour","on body","Wg30","AC-8","","","","","","","111111111111111111","the Squire","Storm Dragons Fortress"
+
+"00442","30","Luminous Leggings","on legs","Wg10","AC-10 HR+1 DR+1","","","","","","Dex+1","100111001110100011","Oberon","Village of Faerise"
+
+"00443","30","rainbow striped leggings","on legs","Wg4","AC-3","","","","Hp+40","","","111111111111111111","Jemara","Tynstri"
+
+"00444","30","some cloth wrappings","on head","Wg15","AC-6","","","","Hp+40","","","111111111111111111","a tomb thief","Great Pyramid"
+
+"00445","30","some small warm boots","on feet","Wg5","AC-4","","","","Mv+60","","SMe+2","111111111111111111","Fritz (shop)","Dwarfen Undermountain Harbour"
+
+"00446","30","the glowing platemail","on body","Wg100","AC-12","","","","","","","111100111011011101","Hidden Treasure Room (a wooden chest)","Rand's Tower"
+
+"00447","30","the Shaman amulet","around neck","Wg5","AC-15","","","","Hp+20","","","111111111111111111","the Shaman","Black Lagoon"
+
+"00448","31","a crystal necklace","around neck","Wg35","","","","","","","Int+6 Wis+6","111111111111111111","Venus","Rome"
+
+"00449","31","a grubby loincloth","about waist","Wg8","AC-13 HR+2 DR-1","","","MR-10","Hp+15","","","111111111111111111","a wicked bog-goblin","Village of the Merkins"
+
+"00450","31","a snail shell","on finger","Wg2","AC-10 HR-1 DR-1","","","","Mn+30","","","010011001000100010","a witch","Village of the Merkins"
+
+"00451","32","a black staff","held","Wg15","","","","","","","5xMagic Missile AG","010111000100100010","the black king","Chessboard"
+
+"00452","32","a handful of leaves","as shield","Wg2","","","","","","","Arm-5 +Sense Life 5xProtection From Evil ON","111111111111111111","an elder merkin","Village of the Merkins"
+
+"00453","32","a pair of platinum arm bands","on arms","Wg32","AC-7","","","","","","Str+1 Wis-2 AG","011000110011010100","a particle","Elemental Canyon"
+
+"00454","32","a pearl crown","on head","Wg20","AC-6","","","MR+5","Mn+30","","AE","111111111111111111","the white king","Chessboard"
+
+"00455","32","a razor sharp hindquarters","on legs","Wg6","AC-8 HR+1 DR+1","","","","","","","111111111111111111","Licky-Kicky","The Lost City of Delray"
+
+"00456","32","a sharp rock","wielded","Wg12","DD5d4 HR+5 DR+3","","","","Mv-40","","","111001110110111111","a merkin","Village of the Merkins"
+
+"00457","32","a white staff","held","Wg15","","","","","","","5xRimefang AE","010111000100100010","the white king","Chessboard"
+
+"00458","32","an onyx crown","on head","Wg20","AC-6","","","MR+5","Mn+30","","Age+30 AG","111111111111111111","the black king","Chessboard"
+
+"00459","32","some platinum leg bands","on legs","Wg32","AC-7","","","","","","Str+1 Int-2 AG","011000110011010100","the cyclops","Elemental Canyon"
+
+"00460","32","the sacred acorn","as light","Wg10","HR+1","","","","","","Con+2 OG","110110011011001001","the merkin shaman","Village of the Merkins"
+
+"00461","33","a foraging sack","on arms","Wg3","","","","","Mv-50","","Cap+73 Arm+10 Dex-2","111111111111111111","a merkin gatherer","Village of the Merkins"
+
+"00462","33","a halfling poleaxe","wielded","Wg10","DD5d6 HR+1 DR+1","","","","","","AE","011110111011001101","the palace guard","The Lost City of Delray"
+
+"00463","33","a halfling's breastplate","on body","Wg10","AC-13","","","","","","AE","111110111011011101","the palace guard","The Lost City of Delray"
+
+"00464","33","a lucky feather","held","Wg2","","","","","","5xSanctuary","OG","111111111111111111","a merkin lover","Village of the Merkins"
+
+"00465","33","a necklace of animal teeth","around neck","Wg2","AC-10 HR+1","","","","Hp+20","","ON","110111011110101011","the merkin chieftain","Village of the Merkins"
+
+"00466","33","a pair of bog boots","on feet","Wg6","AC-10 DR+2","","","","Mv+40","","Dex-2","111111111111111111","a merkin","Village of the Merkins"
+
+"00467","33","a pair of flippers","on feet","Wg8","AC-5 HR-1","","","","Mv-50","","Dex-1 Cha-1 +Waterbreath","111111111111111111","Jakat the Junkmaster (shop)","The Lost City of Delray"
+
+"00468","33","a Proud to be a Troll shirt","on body","Wg1","AC-15","","","","Hp+8","","","111111111111111111","a mean ol' ugly troll","Stanneg"
+
+"00469","34","a bamboo club","wielded","Wg6","DD4d6 HR+7 DR+3","","","","","","","000000000010000000","a merkin guard","Village of the Merkins"
+
+"00470","34","a bamboo spear","wielded","Wg12","DD5d6 HR+4 DR+3","","","","","","","111111111111111111","a merkin guard","Village of the Merkins"
+
+"00471","34","a broken lamp","as light","Wg6","","","","","Mv+10","","(NoInf)","111111111111111111","Jakat the Junkmaster (shop)","The Lost City of Delray"
+
+"00472","34","a pair of pixie wings","on body","Wg1","AC-5","","","MR+5","Mn+30","","Dex+2 Cha+4 OG","010111001101100011","a pixie","Village of the Merkins"
+
+"00473","34","a wooden spear","wielded","Wg5","DD3d9","","","","","","","111001110111111111","?","?"
+
+"00474","34","an elemental amulet","around neck","Wg3","AC-7","","","MR-4","","","SPh+2 SMe+2 SMa+2 ON","111111111111111111","the elemental guardian","Elemental Canyon"
+
+"00475","34","an elemental bracelet","around wrist","Wg3","AC-7","","","","Hp+25","","ON","111111111111111111","the elemental guardian","Elemental Canyon"
+
+"00476","35","a black night's visor","on head","Wg5","AC-8","","","","","","Str+1 Con+2","111110111011011101","Arachnos","Arachnos"
+
+"00477","35","a blue shield","as shield","Wg25","AC-12","","","","","","","111111111111111111","the Nameless Undead Hero","Graveyard"
+
+"00478","35","a copper ring","on finger","Wg1","AC-8","","","","","","Wis+2","111111111111111111","a powerful mage","Draconia"
+
+"00479","35","a dark shadowsword","wielded","Wg12","DD5d6 HR+3 DR+3","","","","","","AG","111111111111111111","a Swordwraith","Undertemple"
+
+"00480","35","a halberd","wielded","Wg16","DD3d12 HR-2 DR+6","","","","","","","001000110001000100","Aglandiir","Three of Swords"
+
+"00481","35","a hat made of mud and sticks","on head","Wg5","AC-12","","","","","","Int-2 Wis-2 Cha-2","111111111111111111","a merkin","Village of the Merkins"
+
+"00482","35","a knife","wielded","Wg8","DD4d6 HR+4 DR+4","","","","","","Dex+2 (BStab)","111101110111110111","Duwick","Bandit Caves"
+
+"00483","35","a large round shield","as shield","Wg15","AC-10","","","","Hp+40","","","111111111111111111","the Ancient Green Dragon","Draconia"
+
+"00484","35","a long raincoat","about body","Wg8","AC-7","","","","","","","111111111111111111","Fritz (shop)","Dwarfen Undermountain Harbour"
+
+"00485","35","a long scraper","held","Wg10","DD6d3 HR-1 DR+5","","","","","","Con+1","011001111101110111","a croupier","Ma Glob's Dancing Parlor"
+
+"00486","35","a nice jacket","on body","Wg5","AC-4","","","","Hp+20","","Cha+2","111111111111111111","Bunny","Ma Glob's Dancing Parlor"
+
+"00487","35","a nicely folded sail","held","Wg65","","","","","Mv-150","","Arm-2","111111111111111111","Fritz (shop)","Dwarfen Undermountain Harbour"
+
+"00488","35","a pair of Troll Power!!! gauntlets","on hands","Wg1","AC-4","","","","","","Str+4","111111111111111111","a mean ol' ugly troll","Stanneg"
+
+"00489","35","a pentagram medallion","around neck","Wg5","","","","","Mn+20","3xBlindness","Arm-5 OE","111111111111111111","a small satanic","Gragloy Castle"
+
+"00490","35","pointiff's headress","on head","Wg5","AC-6","","","","Mn+13","","Wis+3","111111111111111111","Arachnos","Arachnos"
+
+"00491","35","a shadow armor","on body","Wg45","AC-15","","","","","","SPo+20","111111111111111111","the Poisonlord","Assassin Caves"
+
+"00492","35","a short sword","wielded","Wg10","DD5d5 HR+4","","","","","","Dex+3","111000110010011101","Aglandiir","Three of Swords"
+
+"00493","35","a Uncle-Juan's T-shirt","on body","Wg10","AC-7","","","","","","","011111111101110111","a man drying dishes","Ma Glob's Dancing Parlor"
+
+"00494","35","a wizard's hat","on head","Wg5","AC-6","","","","Mn+17","","Int+3","111111111111111111","Arachnos","Arachnos"
+
+"00495","35","an egyptian mace","wielded","Wg14","DD6d5 HR-2 DR+5","","","","","","","111111111111111111","a tomb thief","Great Pyramid"
+
+"00496","35","an obsidian dirk","wielded","Wg8","DD6d5 HR+1 DR+2","","","","","","","111111111111111111","a tomb thief","Great Pyramid"
+
+"00497","35","Chastity's belt","about waist","Wg8","AC-15","","","","Mn+25","","Str+2 Int+2","010111001101110011","Chastity","Tynstri"
+
+"00498","35","sand-colored robes","about body","Wg5","AC-15","","","","","","SPh+5","000001000000000010","a pyramid watcher","Great Pyramid"
+
+"00499","35","sapphire-eyed sssilver ssnake","on arms","Wg5","AC-10 HR+1","","","","Mn+25","","AG","000001000000100010","AudreyII","Tynstri"
+
+"00500","35","scale mail","on body","Wg20","AC-15","","","","","","","111111111111111111","?","?"
+
+"00501","35","some thick furlined trousers","on legs","Wg6","AC-7","","","","Mv-20","","SMe+3 Cha+2","111111111111111111","Fritz (shop)","Dwarfen Undermountain Harbour"
+
+"00502","36","a dark belt","about waist","Wg5","AC-7","","","","","","AG","111111111111111111","the torturer","Assassin Caves"
+
+"00503","36","a flame lance","wielded","Wg16","DD3d11","","","","","","","001000110001000100","the blue flame","Elemental Canyon"
+
+"00504","36","a little pixie crown","around wrist","Wg1","AC-9 HR+2","","","","Mv+40","","Dex+1 OG","010111001101100011","the pixie queen","Village of the Merkins"
+
+"00505","36","a little silver star","around neck","Wg3","AC-13","","","","","","","111111111111111111","Jakat the Junkmaster (shop)","The Lost City of Delray"
+
+"00506","36","a morning star","wielded","Wg12","DD4d7","","","","","","","111110111011011101","?","?"
+
+"00507","36","a rulebook","held","Wg5","","","","","","","Wis+2","111111111111111111","Hopper","Chessboard"
+
+"00508","36","a spiked mace","wielded","Wg5","DD4d8 HR+2 DR+6","","","","","","AG","111110111011011101","?","?"
+
+"00509","36","a thin flexible stick","wielded","Wg6","DD5d7 HR+5 DR+4","","","","","","ON","010111011110100011","the merkin chieftain","Village of the Merkins"
+
+"00510","36","an avalanche","held","Wg18","DD4d8 HR-7 DR+21","","","","","","","001000100001000100","the rock monster","Elemental Canyon"
+
+"00511","36","an hourglass","held","Wg5","","","","","","","Int+2","111111111111111111","Hermes","Chessboard"
+
+"00512","36","an icicle","wielded","Wg4","DD3d6","","","","","","","111111111111111111","?","?"
+
+"00513","36","elemental wand of lightning","held","Wg6","","","","","","","7xLightning Breath","000001000100100010","the illusionist","Elemental Canyon"
+
+"00514","36","the cloak of stench","about body","Wg8","AC-10 HR+2","","","MR+5","","","Con-1 Cha-2 OE","111111111111111111","the greater stench beast","Village of the Merkins"
+
+"00515","36","the shock whip","wielded","Wg10","DD2d12","","","","","","","111111111111111111","the magneto","Elemental Canyon"
+
+"00516","38","a carved and polished ruby","as light","Wg5","","","","MR+5","","","(NoInf)","111111111111111111","Aaron's Chambers (ground)","Barrow Citadel of the Crimson Fists"
+
+"00517","38","the Stone of Surrender","held","Wg10","","","","","","","4xSleep","010001000100100010","?","?"
+
+"00518","39","a robe of triskelion","about body","Wg3","AC-9","","","","Mn+50","","Int+1","010111001101100011","the apprentice","Psionicist School"
+
+"00519","40","a banded ring","on finger","Wg2","AC-1","","","","Mn+30","","Age+10","001010010001100010","Haemon","Mahn-Tor"
+
+"00520","40","a beautiful ice pendant","around neck","Wg5","HR+5 DR+5","","","","Hp+50 Mn+50","","(NoRent)","111111111111111111","the mad general","The Lost City of Delray"
+
+"00521","40","a big zither","held","Wg20","","","","","Mn+90","","10xMystic Shield","010000000000000000","Aglandiir","Three of Swords"
+
+"00522","40","a billowing white cape","about body","Wg5","AC-5","","","","","","Age+20","011010010011011000","Creon","Mahn-Tor"
+
+"00523","40","a black drow cloak","about body","Wg4","AC-12 DR+1","","","","","","AG","111111111111111111","a drow noble","Shaalziran'dar"
+
+"00524","40","a black drow longsword","wielded","Wg5","DD6d6 HR+6 DR+3","","","","","","AG","111111111111111111","a drow commoner","Shaalziran'dar"
+
+"00525","40","a black leather hood","on head","Wg5","AC-5","","","","","","","011010010011011000","?","?"
+
+"00526","40","a black minotaur's vambraces","on legs","Wg9","AC-9","","","","","","","001011110000000100","Aegithus","Mahn-Tor"
+
+"00527","40","a black plate neckguard","around neck","Wg10","AC-9","","","","","","Wis+1 AG","001010010101100010","?","?"
+
+"00528","40","a blood red stone","held","Wg2","","","","","Hp+20","","Arm-3","011010010011011000","the lamia","Thalos"
+
+"00529","40","a broach of life","around neck","Wg5","AC-2","","","","Hp+50","","","101110011111100011","Jocasta","Mahn-Tor"
+
+"00530","40","a carved wooden ring","on finger","Wg3","AC-1 HR+1 DR+1","","","","","","","011010010011011000","Balthazar","Mahn-Tor"
+
+"00531","40","a catnip charm","around neck","Wg2","HR+1","","","","","","Con+1","111111111111111111","a villager","Village of Miqi'erke"
+
+"00532","40","a crested shield","as shield","Wg20","AC-11","","","","","","SPh+10 Con+2","111111111111111111","the Draconian King","Draconia"
+
+"00533","40","a crystal scarab","as light","Wg1","","","","","Mn+50","","","111111111111111111","the Zombie Guardian","Undertemple"
+
+"00534","40","a dragon tailed whip","wielded","Wg14","DD6d6 HR+3 DR+5","","","","","","","111111111111111111","the Ancient Green Dragon","Draconia"
+
+"00535","40","a drow crossbow","wielded","Wg7","DD8d8 HR+5 DR+5","","","","","","AG","000000000000010000","a drow weaponsmith (shop)","Shaalziran'dar"
+
+"00536","40","a folded white cloth","on arms","Wg4","AC-8","","","","","","SPh+10 Cha+4 +Dodge","110111011110101001","a Waiter","Ma Glob's Dancing Parlor"
+
+"00537","40","a foul spider scarab","as light","Wg5","DR+1","","","","","","AG","111111111111111111","a drow noble","Shaalziran'dar"
+
+"00538","40","a Fugu blade","wielded","Wg10","DD4d6 HR+5 DR+5","","","","","","","111000110010011101","Tokugawa Yoshikatsu","Samurai Tower"
+
+"00539","40","a fur cloak","about body","Wg10","AC-10","","","","Hp+50","","Str+1","111111111111111111","the Draconian King","Draconia"
+
+"00540","40","a gilded gold breast plate","on body","Wg18","AC-15","","","","Hp+25","","","101110011011000000","Creon","Mahn-Tor"
+
+"00541","40","a gleaming sword","wielded","Wg12","DD5d6 HR+4 DR+4","","","","","","","111111111111111111","the Knight","Storm Dragons Fortress"
+
+"00542","40","a glowing mace","wielded","Wg24","DD4d6 HR+1 DR+6","","","","","","(bless) AE","001110101001010100","Friar Fredrick","Shaalziran'dar"
+
+"00543","40","a gnarled magius staff","wielded","Wg10","DD4d4 HR+3 DR+3","","","","","","","001010010101100010","Haemon","Mahn-Tor"
+
+"00544","40","a golden armor","on body","Wg30","AC-15","","","","","","AE","001000110001000100","an angel guard","Heaven"
+
+"00545","40","a golden holy symbol","around neck","Wg3","AC-2","","","","Mn+10","","","101110011011000000","Jocasta","Mahn-Tor"
+
+"00546","40","a golden wedding ring","on finger","Wg1","HR+3 DR+3","","","","","","","111111111111111111","the Jeweler (shop)","City of Midgaard"
+
+"00547","40","a green bladed spear","wielded","Wg15","DD4d6 HR+5 DR+2","","","","","","Str+8 AG","100000010010000100","Pem","Shaalziran'dar"
+
+"00548","40","a green helmet","on head","Wg8","AC-10","","","","Hp+40","","","111111111111111111","the General","Graveyard"
+
+"00549","40","a heavy woolen robe","about body","Wg10","AC-15","","","","","","","101110011011000000","Jocasta","Mahn-Tor"
+
+"00550","40","a helm of dragon kind","on head","Wg15","AC-8","","","","Hp+50","","","111111111111111111","the Great Red Dragon","Draconia"
+
+"00551","40","a holy sword","wielded","Wg7","DD6d6 HR+5 DR+5","","","","","","AE","011111111101110111","Akkadian","Shaalziran'dar"
+
+"00552","40","a horn of life","held","Wg5","","","","","","","8xCure Light","011010010011011000","Balthazar","Mahn-Tor"
+
+"00553","40","a horned minotaur helm","on head","Wg8","AC-10","","","","","","","001011110001000100","Xanthias","Mahn-Tor"
+
+"00554","40","a huge crossbow","wielded","Wg15","DD3d5 HR+1 DR+1","","","","","","","011010010011011000","Balthazar","Mahn-Tor"
+
+"00555","40","a huge mace named Dawnbringer","wielded","Wg14","DD5d5 HR+3 DR+3","","","","","","","101110011011000000","?","?"
+
+"00556","40","a huge mithril mace","wielded","Wg13","DD4d4 HR+2 DR+2","","","","","","","101110011011000000","Jocasta","Mahn-Tor"
+
+"00557","40","a huge tower shield","as shield","Wg14","AC-10","","","","","","","101110011011000000","Creon","Mahn-Tor"
+
+"00558","40","a major globe of invulnerability","about body","Wg1","AC-15","","","MR-5","","","","011011110011011101","Xanthias","Mahn-Tor"
+
+"00559","40","a minor globe of invulnerability","about body","Wg1","AC-15","","","MR-5","","","SPo-5","101110011111100011","Xanthias","Mahn-Tor"
+
+"00560","40","a necklace of accuracy","around neck","Wg2","AC-10 HR+2","","","","","","","111111111111111111","Jonas the Dungeon Keeper","Gigantia"
+
+"00561","40","a pair of black combat boots","on feet","Wg4","AC-8","","","","","","Dex-1","111111110011011111","?","?"
+
+"00562","40","a pair of black leather pants","on legs","Wg5","AC-7","","","","","","","011010010011011000","Astyanax","Mahn-Tor"
+
+"00563","40","a pair of black leather sleeves","on arms","Wg5","AC-7","","","","","","","011010010011011000","Astyanax","Mahn-Tor"
+
+"00564","40","a pair of black minotaur greaves","on legs","Wg9","AC-9","","","","","","","001011110001000100","Aegithus","Mahn-Tor"
+
+"00565","40","a pair of dragon scale leggings","on legs","Wg15","AC-8","","","","","","","111110111011011101","Tiamat","Draconia"
+
+"00566","40","a pair of dragon skin gloves","on hands","Wg5","AC-8","","","","","","Dex+2","111111111111111111","the dragon master","Draconia"
+
+"00567","40","a pair of drow boots","on feet","Wg1","AC-10 HR+1","","","","Hp+25","","+Sneak AG","111111111111111111","a drow commoner","Shaalziran'dar"
+
+"00568","40","a pair of elastic gloves","on hands","Wg4","AC-9","","","","Hp-10","","Dex+2 Cha-2","110111011110111111","a dish washer","Ma Glob's Dancing Parlor"
+
+"00569","40","a pair of elven boots","on feet","Wg1","AC-10 HR+1","","","","Hp+25","","","111111111111111111","the Elven archer","Great Elven City of Illir"
+
+"00570","40","a pair of minotaur combat gloves","on hands","Wg6","AC-8 HR+1 DR+1","","","","","","","011010010011011000","Aegithus","Mahn-Tor"
+
+"00571","40","a pair of sphinxian leggings","on legs","Wg20","AC-9","","","","Mv+100","","Str+3","111111111111111111","Through the Hole in the Sand (ground)","Great Pyramid"
+
+"00572","40","a pair of spiked gauntlets","on hands","Wg10","AC-8 HR+4 DR+2","","","","","","","111111111111111111","the Draconian King","Draconia"
+
+"00573","40","a pair of tight leather pants","on legs","Wg5","AC-11","","","","Mv+70","","AG","111111111111111111","a drow commoner","Shaalziran'dar"
+
+"00574","40","a pair of wire rimmed spectacles","on head","Wg2","AC-1","","","","","","Int+4","001011110001000100","Haemon","Mahn-Tor"
+
+"00575","40","a piece of catnip","on head","Wg1","","","","","","","+Berzerk (NoRent)","111111111111111111","a villager","Village of Miqi'erke"
+
+"00576","40","a ring with a very small diamond","on finger","Wg1","AC-10","","","","Mn+20","","Int+2 Wis+2","111111111111111111","Bunny (a small jacket)","Ma Glob's Dancing Parlor"
+
+"00577","40","a robust wooden stick","wielded","Wg13","DD6d3 HR+4 DR+5","","","","","","Arm+2 Str+2 +Berzerk","001000010000000100","one completely insane drummer","Ma Glob's Dancing Parlor"
+
+"00578","40","a ruby dagger","wielded","Wg8","DD5d6 HR+5 DR+5","","","","","","(BStab)","111011110111111111","the battle mistress","High Tower of Sorcerery"
+
+"00579","40","a runic scepter","as light","Wg3","HR+2 DR+2","","","","","","(NoInf)","111111111111101111","Bob the Mad Alchemist","Gigantia"
+
+"00580","40","a scourge","wielded","Wg7","DD6d5 DR+8","","","","","","AG","111111111111111111","a drow torturer","Shaalziran'dar"
+
+"00581","40","a shiny shield","as shield","Wg15","AC-10","","","","","","","111111111111111111","the Knight","Storm Dragons Fortress"
+
+"00582","40","a spiked buckler","as shield","Wg5","AC-10 DR+2","","","","","","","001011110001000100","Xanthias","Mahn-Tor"
+
+"00583","40","a studded ring","on finger","Wg1","AC-5 DR+1","","","","","","","001011110001000100","Xanthias","Mahn-Tor"
+
+"00584","40","a studded spider necklace","around neck","Wg5","AC-10 DR+2","","","","","","AG","111111111111111111","a drow noble","Shaalziran'dar"
+
+"00585","40","a suit of black minotaur chainmail","on body","Wg12","AC-15","","","","","","Str+1 Con+1","001011110001000100","Xanthias","Mahn-Tor"
+
+"00586","40","a suit of spiked garde armor","on body","Wg8","AC-7 DR+2","","","","","","","001011110001000100","Aegithus","Mahn-Tor"
+
+"00587","40","a thick marble bracelet","around wrist","Wg8","AC-4","","","","","","Con+1","001011110001000100","Thesus","Mahn-Tor"
+
+"00588","40","a thick marble ring","on finger","Wg5","AC-4","","","","","","","001011110001000100","Thesus","Mahn-Tor"
+
+"00589","40","a thinking cap","on head","Wg5","","","","","Mn+50","","Age+50 Int+2 Wis+2 AG","010111001100100010","Turing","Chessboard"
+
+"00590","40","a troll belt","about waist","Wg10","AC-12 DR+1","","","","","","Int-2","111111111111111111","Troll King","Troll Caves"
+
+"00591","40","a waterfall cloak","about body","Wg20","AC-8","","","MR+2","","","ON","111111111111111111","the Water Ruler","Elemental Canyon"
+
+"00592","40","a white knight's belt","about waist","Wg14","AC-16","","","","","","AE","011100101011010101","Akkadian","Shaalziran'dar"
+
+"00593","40","an angel's halo","about waist","Wg1","AC-10","","","","","","AE","111111111111111111","Saint Petrus","Heaven"
+
+"00594","40","an elven bow","wielded","Wg12","DD8d8 HR+5 DR+5","","","","","","","000000000000010000","the Elven archer","Great Elven City of Illir"
+
+"00595","40","an emerald sword","wielded","Wg14","DD5d8 HR+5 DR+5","","","","","","","111001111111111111","the Draconian King","Draconia"
+
+"00596","40","an ivory hilted longsword","wielded","Wg15","DD6d7 HR+2 DR+2","","","","","","","111111111111111111","?","?"
+
+"00597","40","an well made elven chainmail","on body","Wg40","AC-15","","","","Hp+57 Mn+75","","","111111111111111111","the Elven archer","Great Elven City of Illir"
+
+"00598","40","boots of striding","on feet","Wg5","AC-5","","","","Mv+30","","","001011110001000100","Thesus","Mahn-Tor"
+
+"00599","40","burnished chainmail","on body","Wg50","AC-15","","","","","","","111111111111111111","the Knight","Storm Dragons Fortress"
+
+"00600","40","crown of magic","on head","Wg10","AC-10","","","","Mn+50","","","000111001101100010","Bob the Mad Alchemist","Gigantia"
+
+"00601","40","drow chainmail","on body","Wg30","AC-15 HR+1 DR+1","","","","","","AG","111111111111111111","a drow armourer (shop)","Shaalziran'dar"
+
+"00602","40","Gontran's garrote","wielded","Wg1","DD5d6 HR+2 DR+4","","","","","","AG","100000000010001000","the Master of Assassins","Assassin Caves"
+
+"00603","40","rod of security","held","Wg3","","","","","","10xSanctuary","","111111111111111111","Atrolicus master giant","Gigantia"
+
+"00604","40","the belt of life","about waist","Wg9","AC-8","","","","","","Con+3","011010010011011000","Balthazar","Mahn-Tor"
+
+"00605","40","the mimicry of a saddened face","on head","Wg40","AC-8","","","","Hp+20","","Age+5 Str+1 Cha-2 AE","111111111111111111","a sad wallflower","Ma Glob's Dancing Parlor"
+
+"00606","40","the ring of Galadriel","on finger","Wg1","AC-12","","","","Mn+50","","Int+2 Wis+2 Cha+5","010111001100100010","Queen Galadriel","Great Elven City of Illir"
+
+"00607","40","the rod of weaponry","wielded","Wg24","DD5d5 HR+3 DR+3","","","","","","(bless)","001011110001000100","Aegithus","Mahn-Tor"
+
+"00608","40","the shadow shield","as shield","Wg15","AC-15","","","","","","SPh-3","001010010101100010","Pythian","Mahn-Tor"
+
+"00609","40","Trollish loincloth","about waist","Wg12","AC-15","","","","","","","111111111111111111","Troll","Troll Caves"
+
+"00610","40","Xanthias' Great Axe","wielded","Wg20","DD7d7 HR+3 DR+3","","","","","","(bless)","011011110011011101","Xanthias","Mahn-Tor"
+
+"00611","42","a dowsing rod","wielded","Wg10","DD6d6 HR+10 DR+10","","","","","","(bless) (2Hand) ON","011110111001010011","the ghost of Wally the Watermaster","Rage of the Gods"
+
+"00612","42","a gavel","held","Wg8","","","","","Mn+70","","Wis+2 ON","111111111111111111","the judge","Ultima"
+
+"00613","42","a suit of chainmail","on body","Wg20","AC-16","","","","","","AG","111100111011010101","a gnoll","Swamp"
+
+"00614","42","rare herbs","held","Wg1","","","","","","1xRegeneration","","010111001100100010","the baby rainbow dragon","Elemental Canyon"
+
+"00615","43","a bracelet of deadly nightshade","around wrist","Wg1","AC-12","","","","Hp+50","","","111111111111111111","the strawberry blond wood nymph","Tynstri"
+
+"00616","43","a HUGE golden necklace","around neck","Wg40","AC-13 HR+2","","","","Hp+40","","Con+1 Cha+3","010000000000000000","Hulio","Ma Glob's Dancing Parlor"
+
+"00617","44","some big soft boots","on feet","Wg8","AC-8","","","","Mv+40","","","111111111111111111","Pudlum (shop)","Dwarfen Undermountain Harbour"
+
+"00618","45","a crimson platemail","on body","Wg25","AC-20 HR-1 DR+2","","","","Hp+40","","AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00619","45","a crimson platemail","on body","Wg25","AC-16","","","","","","AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00620","45","a dragon's tooth knife","wielded","Wg8","DD4d8 DR+6","","","","","","Dex+1 (BStab)","111011110111111111","the dragon master","Draconia"
+
+"00621","45","a fiery dagger","wielded","Wg11","DD3d7 HR+2 DR+6","","","","","","(BStab) AE","110111011111111111","the Fire Ruler","Elemental Canyon"
+
+"00622","45","a flame red cape","about body","Wg20","","","","","Hp+45 Mn+45","","SPh+2 SMe-1 ON","111111111111111111","the Fire Ruler","Elemental Canyon"
+
+"00623","45","a flaming sword","wielded","Wg8","DD4d10 HR+2 DR+5","","","","","","AG","111001110111111111","the Fire Ruler","Elemental Canyon"
+
+"00624","45","a flaming whip","wielded","Wg12","DD5d8 HR+4 DR+2","","","","","","AG","111001110111111111","the Balrog","Moria Mountains"
+
+"00625","45","a fleshform tire","about waist","Wg80","","","","","Hp+50 Mv-50","","Arm-14 Dex-2 AG","011110111001000101","a very fat Fryer","Ma Glob's Dancing Parlor"
+
+"00626","45","a floppy-brimmed sunhat","on head","Wg2","AC-10","","","","Hp+25","","SPh+5 AE","010011001000100010","Rose (shop)","Tynstri"
+
+"00627","45","a full white chef suit","on body","Wg23","","","","","Mn+30","","Arm-15 SPo+15 Cha+3","010111001010101011","a Chef","Ma Glob's Dancing Parlor"
+
+"00628","45","a golden mask","on head","Wg10","AC-5","","","","Hp+25 Mn+100 Mv+100","","","111111111111111111","Ramses the Damned","Great Pyramid"
+
+"00629","45","a guard spear","wielded","Wg15","DD1d25 HR-2","","","MR+5","","","","111001110110111111","the guard","Psionicist School"
+
+"00630","45","a humming hurricane helmet","on head","Wg10","AC-7","","","","","","SPo-5 ON","001000110001010100","the Air Ruler","Elemental Canyon"
+
+"00631","45","a lion's paw","wielded","Wg8","DD4d12 DR+6","","","","","","Arm+5","111111111111111111","an androsphinx","Great Pyramid"
+
+"00632","45","a necklace of power","around neck","Wg2","AC-10 DR+2","","","","","","AE","111111111111111111","Jonas the Dungeon Keeper","Gigantia"
+
+"00633","45","a robe of protection","on body","Wg20","AC-20","","","","","","SPh+10 SPo+10","010011001111100011","the master summoner","High Tower of Sorcerery"
+
+"00634","45","a shadow robes","about body","Wg10","AC-15","","","","Hp+20","","","100000000010001000","the shadowy elf","Tynstri"
+
+"00635","45","a small sizzling box","held","Wg38","","","","","","","5xLightning Bolt","010111011100100011","Clara the Blue Dragoness","Ma Glob's Dancing Parlor"
+
+"00636","45","a sparking lightning sword","wielded","Wg14","DD3d12 HR+2 DR+4","","","","","","ON","011000110001010100","the Lightning Ruler","Elemental Canyon"
+
+"00637","45","a stone scimitar","wielded","Wg17","DD6d7 HR-2 DR+6","","","","","","","111000110011011101","a caryatid","Great Pyramid"
+
+"00638","45","a stoney hide","on body","Wg125","AC-17","","","","Mv-90","","Dex-2 Con+2 ON","111111111111111111","the Earth Ruler","Elemental Canyon"
+
+"00639","45","a troll club","wielded","Wg20","DD6d8 HR-2 DR+10","","","","","","","011100111011000101","Troll Guard","Troll Caves"
+
+"00640","45","a Trollish Shield","as shield","Wg30","AC-15","","","","Mv-100","","AG","011100110010010100","Troll Guard","Troll Caves"
+
+"00641","45","a trumpet","held","Wg17","","","","","","","2xPsyhic Scream","010000000000000000","?","?"
+
+"00642","45","an icy girth","about waist","Wg9","AC-5","","","","","","SPh-2 SMe+4 ON","111111111111111111","the Water Ruler","Elemental Canyon"
+
+"00643","45","gauntlets of ogre power","on arms","Wg5","AC-8 HR+1 DR+1","","","","","","","111000110011011101","the mountain giant commander","Gigantia"
+
+"00644","45","miniature dragon","as light","Wg7","","","","","Hp+20","","AE","111111111111111111","Malaig's secret store (ground)","The Lost City of Delray"
+
+"00645","45","the earth ring","on finger","Wg8","AC-5","","","","Hp+45","","SPo+2 Dex-1 Con+1","111111111111111111","the Earth Ruler","Elemental Canyon"
+
+"00646","45","the wind boots","on feet","Wg5","DR-1","","","","Mv+180","","Dex+2 ON","111111111111111111","the Air Ruler","Elemental Canyon"
+
+"00647","45","well-made wizards walking boots","on feet","Wg4","AC-10","","","","Hp+25 Mn+30","","","000001000000100010","the warrior wizard","Elysium Faire"
+
+"00648","45","white linen loincloth","about waist","Wg5","AC-15","","","","","","Str+1 Con+2 AE","111111111111111111","the runner","Tynstri"
+
+"00649","46","a blackened newspaper","wielded","Wg4","DD5d8 HR+4 DR+4","","","","","","","111111111111111111","the ghost of Rufus","Rage of the Gods"
+
+"00650","46","a crimson mailshirt","on body","Wg20","AC-18 HR+1","","","","Hp+20 Mv+50","","AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00651","47","a pair of crimson gauntlets","on hands","Wg12","AC-7 HR+3 DR+3","","","","","","Str+2 AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00652","47","a pair of crimson gauntlets","on hands","Wg12","AC-9","","","","","","AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00653","48","a crimson backplate","about body","Wg25","AC-12","","","","Hp+20 Mv-40","","Dex-1 AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00654","48","a crimson backplate","about body","Wg25","AC-9","","","","","","AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00655","48","a quarterstaff","wielded","Wg12","DD3d14","","","","","","Int+2 Wis+3 AE","111111111111111111","Jaana the Druid","Ultima"
+
+"00656","49","a pair of crimson legplates","on legs","Wg15","AC-9 DR+1","","","","Hp+20 Mv-10","","Dex-1 AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00657","49","a pair of crimson legplates","on legs","Wg15","AC-11","","","","","","AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00658","50","a black cape","around neck","Wg2","AC-12","","","","Mv+100","","Con+2 AG","111111111111111111","Count Vladamir","Undertemple"
+
+"00659","50","a bloodstone medallion","around neck","Wg1","AC-10","","","","Hp+50 Mn+50","","AG","111111111111111111","Count Vladamir","Undertemple"
+
+"00660","50","a circle of tiny flowers","on head","Wg1","AC-10","","","","Hp+25 Mn+75","","AE","010011001000100010","the dryad","Tynstri"
+
+"00661","50","a crystal pendant","around neck","Wg5","AC-15","","","MR+5","","","","111111111111111111","Demona","Gragloy Castle"
+
+"00662","50","a curved scimitar","wielded","Wg10","DD4d12 HR+3 DR+3","","","","","","","111001110111111111","The master Enchanter's chamber (a chest)","High Tower of Sorcerery"
+
+"00663","50","a Deerskin Loincloth","about waist","Wg30","AC-17","","","","","","Str+2 Dex+2","111111111111111111","a Cannibal","Black Lagoon"
+
+"00664","50","a diamond ring","on finger","Wg6","AC-6 HR+2 DR+2","","","","","","","111111111111111111","Tiamat","Draconia"
+
+"00665","50","a drow noble's longsword","wielded","Wg10","DD4d12 HR+6 DR+6","","","","","","AG","111111111111111111","a drow noble","Shaalziran'dar"
+
+"00666","50","a dwarven mithril plate","on body","Wg10","AC-22","","","","","","Str+3 Con+3","001000110001000100","The Tomb of the Dwarven king (ground)","Moria Mountains"
+
+"00667","50","a dwarven two-handed mithril axe","wielded","Wg15","DD5d10 HR-3 DR+8","","","","","","","001000110001000100","The Tomb of the Dwarven king (ground)","Moria Mountains"
+
+"00668","50","a golden rudder","wielded","Wg15","DD10d7 HR+5 DR+8","","","","","","","000000010000000000","the elven steward","Great Elven City of Illir"
+
+"00669","50","a huge, wicked-looking scythe","wielded","Wg16","DD5d10 HR+4 DR+4","","","","","","AG","111000110011011101","a Death Slaad","Swamp"
+
+"00670","50","a jeweled dagger","wielded","Wg5","DD5d7 HR+5 DR+3","","","","","","Dex+2 (BStab) AE","110001010110101011","the Tomb Guardian","Ancient Battlefield"
+
+"00671","50","a lodge membership ring","on finger","Wg1","AC-12 DR+2","","","","","","SPh+10 Str+2 OE","111111111111111111","BOB","Ma Glob's Dancing Parlor"
+
+"00672","50","a multicoloured shield","as shield","Wg16","AC-12","","","","","","SPh+5 SMe+5 SMa+5 SPo+5","111111111111111111","an Avatar Dragonlord","Storm Dragons Fortress"
+
+"00673","50","a pair of crimson footplates","on feet","Wg16","AC-10 HR-1 DR+1","","","","Hp+10","","AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00674","50","a pair of crimson footplates","on feet","Wg16","AC-10","","","","","","AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00675","50","a plain black robe","about body","Wg4","AC-12 HR+2","","","","","","","111111111111111111","Tiamat","Draconia"
+
+"00676","50","a piece of bone","held","Wg3","","","","","","","5xCharm Person","000111001101100010","the dracolich","Ancient Battlefield"
+
+"00677","50","a piece of bone","held","Wg3","","","","","","","5xEarthquake","000111001101100010","the dracolich","Ancient Battlefield"
+
+"00678","50","a piece of bone","held","Wg3","","","","","","","10xArea Strength","000111001101100010","the dracolich","Ancient Battlefield"
+
+"00679","50","a piece of bone","held","Wg3","","","","","","","5xArmor","000111001101100010","the dracolich","Ancient Battlefield"
+
+"00680","50","a piece of bone","held","Wg3","","","","","","","10xMagic Missile","000111001101100010","the dracolich","Ancient Battlefield"
+
+"00681","50","a piece of bone","held","Wg3","","","","","","5xBlindness","","000111001101100010","the dracolich","Ancient Battlefield"
+
+"00682","50","a ruby long sword","wielded","Wg8","DD4d12 HR+5 DR+5","","","","","","","111001110111111111","the Enchanter","High Tower of Sorcerery"
+
+"00683","50","a sandy-colored ring","on finger","Wg5","AC-12","","","","Mn+75","","Int+2","111111111111111111","Through the Hole in the Sand (ground)","Great Pyramid"
+
+"00684","50","a silver dagger","wielded","Wg5","DD5d7 HR+5 DR+5","","","","","","(BStab)","111011110111111111","The master Enchanter's chamber (a chest)","High Tower of Sorcerery"
+
+"00685","50","a silver longsword","wielded","Wg10","DD6d5","","","","","","AE","001000111001000100","the elven guard","Great Elven City of Illir"
+
+"00686","50","a small hot ball of fire","as light","Wg10","","","","","","","Arm+5 SMe+5","111111111111111111","a tomb thief","Great Pyramid"
+
+"00687","50","a stone ring","on finger","Wg2","AC-10 HR+2 DR+1","","","","","","","111111011111111111","the stone giant commander","Gigantia"
+
+"00688","50","a sumptuous black velvet cloak","about body","Wg15","AC-12","Invisibility","","","Hp+40","","+Detect AE","111111111111111111","a Dragonlady","Storm Dragons Fortress"
+
+"00689","50","a torn cape","about body","Wg12","AC-13","","","","Mn+30","","+Hide AG","111111111111111111","the vampire","Ancient Battlefield"
+
+"00690","50","a very pointy dart","held","Wg2","DD6d6 HR+4 DR+6","","","","Mv-40","","(flaming) Dex+2","010000010010001000","a skilled dart player","Ma Glob's Dancing Parlor"
+
+"00691","50","a wizardly tunic","on body","Wg1","AC-20","","","","Mn+50","","Int+2 Wis+2","000001000000100010","the warrior wizard","Elysium Faire"
+
+"00692","50","an ancient elven ring","on finger","Wg1","AC-15","","","","Hp+50","","Wis+1","111111111111111111","the ancient elf","Tynstri"
+
+"00693","50","an elven healer's pouch","about waist","Wg5","","","","","","","Cap+165 Arm-10","001111011011010001","Brother Russ","Tynstri"
+
+"00694","50","Chainmail of the Eternal One","on body","Wg75","AC-16","","","","Hp+45 Mn+45","","AE","001110101001010100","the Tomb Guardian","Ancient Battlefield"
+
+"00695","50","Egainon's Crown of compassion","on head","Wg15","AC-11","","","","Hp+50 Mn+50","","Cha+2 AE","011010101001010000","King El'Egainon","Ancient Battlefield"
+
+"00696","50","gloves of the titans","on hands","Wg5","AC-8 HR+2 DR+2","","","","","","","111111111111111111","the Tomb Guardian","Ancient Battlefield"
+
+"00697","50","Halberd of a Battlerager","wielded","Wg15","DD4d11 HR+10 DR+13","","","","","","(2Hand)","001000100000010100","the Tomb Guardian","Ancient Battlefield"
+
+"00698","50","Heart of the brave","around neck","Wg6","AC-15","","","","Mn+35","","Cha+2","111111111111111111","the Tomb Guardian","Ancient Battlefield"
+
+"00699","50","Hulio's fan-club pin","around neck","Wg1","AC-12 HR+2","","","","","","Age-5 Int-2 Dex+2","111111111111111111","a Hulio wannabe","Ma Glob's Dancing Parlor"
+
+"00700","50","north star shield","as shield","Wg1","AC-10","","","","Mn+25 Mv+25","","","001100110001010110","Atrolicus master giant","Gigantia"
+
+"00701","50","the Banner of the Winds","as light","Wg7","","","","","Hp+20 Mn+20","","","011000110001000100","the Tomb Guardian","Ancient Battlefield"
+
+"00702","50","the Blade of light","wielded","Wg8","DD1d3 HR+5 DR+1","","","","","","(bless) (flaming) OG","001000100001010100","the Tomb Guardian","Ancient Battlefield"
+
+"00703","50","the Blade of night","wielded","Wg8","DD1d3 HR+5 DR+1","","","","","","(bless) (flaming) OG","001000100001010100","the Tomb Guardian","Ancient Battlefield"
+
+"00704","50","the Crown of roses","on head","Wg7","AC-11","","","","Mn+60","","Cha+3 AE","010110100001010000","the Tomb Guardian","Ancient Battlefield"
+
+"00705","50","the lamp","held","Wg5","","","","","","","6xArea Heal","111111111111111111","the djinn","Great Pyramid"
+
+"00706","50","the Phantom mirror","as shield","Wg16","AC-8 DR+1","","","","Mn+45","","","001111101101110111","the Tomb Guardian","Ancient Battlefield"
+
+"00707","50","the Staff of Paya","held","Wg10","","","","","","","Wis+4 3xArea Sense Life","111111111111111111","Paya","Village of Miqi'erke"
+
+"00708","50","Wardancer's blade","wielded","Wg8","DD4d12 HR+8 DR+3","","","","","","Dex+3 AE","011000010001000100","the Tomb Guardian","Ancient Battlefield"
+
+"00709","50","wizard sleeves","on arms","Wg1","AC-10","","","","Mn+35","","","000001000000100010","the deft magician","Elysium Faire"
+
+"00710","51","a crimson helmet","on head","Wg20","AC-11 HR-1 DR+1","","","","Hp+50","","AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00711","51","a crimson helmet","on head","Wg20","AC-12","","","","","","AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00712","52","a girdle of storm giant strength","about waist","Wg10","AC-15","","","","Hp+30","","Str+4","111111111111111111","the storm giant commander","Gigantia"
+
+"00713","52","a hammer","wielded","Wg10","DD3d14","","","","","","","111111111111111111","the tinker","Ultima"
+
+"00714","52","odd looking spear","wielded","Wg10","DD4d7","","","","","","","111111111111111111","a Deep One","Black Lagoon"
+
+"00715","52","Signet ring of the Black Altar","on finger","Wg2","AC-10 HR+1","","","","Hp+10 Mn+10","","OE","001000100000000100","the Deathknight","Ancient Battlefield"
+
+"00716","52","the war banner of the Crimson Fists","held","Wg40","HR+8","","","","Mv-30","","Cha+4 5xHeal AE","001000100001000000","Knight Captain Sir Stephen","Barrow Citadel of the Crimson Fists"
+
+"00717","53","a pair of crimson armplates","on arms","Wg21","AC-9 HR+1 DR+2","","","","","","Str+4 AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00718","53","a pair of crimson armplates","on arms","Wg21","AC-10","","","","","","AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00719","54","a Crimson Fist pendant","around neck","Wg3","AC-12","","","MR+5","Hp+20","","AE","001000100001000000","Knight Captain Sir Stephen","Barrow Citadel of the Crimson Fists"
+
+"00720","54","Deceiver's helm","on head","Wg18","AC-12 HR+1","","","","Hp+15","","OE","001000100000000100","the Deathknight","Ancient Battlefield"
+
+"00721","55","a hairy chest","on body","Wg35","AC-3","","","","Hp+30","","Age+10 Cha+3","010001000000000000","a Hulio wannabe","Ma Glob's Dancing Parlor"
+
+"00722","55","a red belt","about waist","Wg10","AC-18","","","","","","SPh+5","100000011000011000","a Monk","Japan"
+
+"00723","55","a red embroidered cape","around neck","Wg18","AC-10","","","","Hp+25 Mn+25","","Cha+1","111111111111111111","the bard","Ancient Battlefield"
+
+"00724","55","a Tetsubo","wielded","Wg19","DD6d7 HR+7 DR+7","","","","","","","111100110011011101","the Shikome","Japan"
+
+"00725","55","a very dirty towel","held","Wg21","","","","","","","3xColor Spray 1xPoison","010111011100100011","a dirty towel","Ma Glob's Dancing Parlor"
+
+"00726","55","Breastplate of atrocities","on body","Wg20","AC-19 HR+1 DR+1","","","","Hp+40","","OE","001000100000000100","Lord Gaheen","Ancient Battlefield"
+
+"00727","55","robes of stars","about body","Wg5","AC-12 HR+1 DR+1","","","","","","","111111111111111111","Pool Cavern (treasure chest)","Gigantia"
+
+"00728","55","sword of the planes","wielded","Wg8","DD4d13 HR+6 DR+6","","","","","","","001000100000000100","the cloud giant commander","Gigantia"
+
+"00729","55","the evil grin of BOB","on head","Wg1","AC-12 DR+2","","","","","","Age+10 Int+2 Cha-4 OE","110011111111111111","BOB","Ma Glob's Dancing Parlor"
+
+"00730","55","the Primarch's Signet Ring","on finger","Wg1","AC-10 HR+1 DR+1","","","","Hp+15","","AE","001000100001000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00731","56","a pair of spiked armplates","on arms","Wg12","AC-10 HR+2","","","","","","OE","001000100000010100","Sir Wyneh","Ancient Battlefield"
+
+"00732","56","the Crimson Fist","wielded","Wg16","DD8d6 HR+6 DR+7","","","","","","Str-1 AE","001000100000000000","Primarch Morgan","Barrow Citadel of the Crimson Fists"
+
+"00733","56","the Rod of Ruling","held","Wg4","","","","","","","1xCharm Person AE","010111010101100011","the Mayor","Dwarfen Undermountain Harbour"
+
+"00734","57","a Chaplain's War Hammer","wielded","Wg8","DD5d9 HR+6 DR+7","","","","","","AE","001000100001000000","the Crimson Fist Chaplain","Barrow Citadel of the Crimson Fists"
+
+"00735","57","a pair of night black steel greaves","on legs","Wg14","AC-10 HR+1","","","","Hp+15","","OE","001000100000000100","Sir Wyneh","Ancient Battlefield"
+
+"00736","57","a sword","wielded","Wg16","DD3d15 HR+2 DR+4","","","","","","AE","111000110011011101","Geoffrey the Fighter","Ultima"
+
+"00737","57","Lucifer's ring of treason","on finger","Wg3","AC-12","","","","","","+Invisibility +Sneak +Hide AG","100010011010011000","Lucifer the fallen angel","Heaven"
+
+"00738","57","the ripper claws","wielded","Wg8","DD4d12 HR+6 DR+5","","","","","","AG","110001011110101011","Lord Xamon","Werehome"
+
+"00739","58","footplates of the Nightwanderer","on feet","Wg14","AC-10 DR+1","","","","Hp+15","","OE","001000100000000100","Lord Gaheen","Ancient Battlefield"
+
+"00740","59","dark gauntlets","on hands","Wg12","AC-8 DR+4","","","","Hp+15","","OE","001000100000000100","Lord Gaheen","Ancient Battlefield"
+
+"00741","59","graceful golden robes","about body","Wg3","AC-10","","","","Mn+100","","Int+1 AE","000011000000100000","the dryad","Tynstri"
+
+"00742","60","a beautiful diamond necklace","around neck","Wg3","AC-12 HR+1 DR+2","","","","Hp+40","","Cha+3","111111111111111111","Property of King Azoun IV (Crates and boxes)","Pirates of Silver Raven"
+
+"00743","60","a bluring gem","held","Wg6","","","","","","","6xArea Phase Blur","010111001100100010","The spellbinder's cache (a silver chased cabinet)","High Tower of Sorcerery"
+
+"00744","60","a clean white toga with a purple stripe","about body","Wg1","AC-10","","","","","+Regeneration","","111111111111111111","the Consul","Rome"
+
+"00745","60","a crystal ball","held","Wg5","","","","","","","5xPhase Blur","111111111111111111","the Lich","Undertemple"
+
+"00746","60","a crystal headband","on head","Wg1","AC-12","","","","Mn+100","","","111111111111111111","the Lich","Undertemple"
+
+"00747","60","a crystal quarterstaff","wielded","Wg10","DD6d9 HR+4 DR+6","","","","","","","111111111111111111","the Lich","Undertemple"
+
+"00748","60","a deeply engraved greatsword","wielded","Wg32","DD2d1 HR+2 DR+40","","","","","","(2Hand) AE","001000110001000100","Knight Lieutenant Sir Gravin","Barrow Citadel of the Crimson Fists"
+
+"00749","60","a dragon-tooth bracer","around wrist","Wg3","AC-10 HR+1 DR+3","","","","Hp-50","","","111001110111111111","the elder gargoyle","Gragloy Castle"
+
+"00750","60","a gleaming sword","wielded","Wg12","DD6d9 HR+5 DR+5","","","","","","AE","001000101001010100","the King's Champion","Storm Dragons Fortress"
+
+"00751","60","a golden locket","around neck","Wg6","AC-15","","","","","","Cha+2","111111111111111111","Yuraq","Village of Miqi'erke"
+
+"00752","60","a heavy fur coat","about body","Wg22","AC-10","","","","Hp+20","","SPh-2 SMe+4","111111111111111111","Fritz (shop)","Dwarfen Undermountain Harbour"
+
+"00753","60","a kings new scepter","as light","Wg3","DR+1","","","","Hp+20","","Str+4 Cha+2","111111111111111111","Property of King Azoun IV (Crates and boxes)","Pirates of Silver Raven"
+
+"00754","60","a pair of human wimpy boots","on feet","Wg0","AC-7","","","","Hp-25","","Dex+4 +Sneak","110111011110111011","a terrified prisoner","Dwarfen Undermountain Harbour"
+
+"00755","60","a pair of shoulder pads","about body","Wg12","AC-12","","","","","","Str+2 Dex+2 Con+2","111000110011011101","?","?"
+
+"00756","60","a pure white robe","about body","Wg20","AC-10","","","","Hp+25 Mn+25","","Age+100 OG","000010001001000000","the high priest","Ancient Battlefield"
+
+"00757","60","a red wand","held","Wg10","","","","","","","10xMaelstrom","010111001100100010","The spellbinder's cache (a silver chased cabinet)","High Tower of Sorcerery"
+
+"00758","60","a runed chisel","wielded","Wg8","DD4d10 HR+5 DR+5","","","","","","(BStab)","111001110111111111","the golem maker","High Tower of Sorcerery"
+
+"00759","60","a shadow","on body","Wg70","AC-20","","","","","","","111111111111111111","Oqe","Village of Miqi'erke"
+
+"00760","60","a silvery chainmail","on body","Wg75","AC-25","","","","","","AE","001000101001010100","the King's Champion","Storm Dragons Fortress"
+
+"00761","60","a small wedding ring","on finger","Wg2","AC-10 HR+2","","","","Mn+40","","+Light","011111111111111111","Peter, the Captain of the Royal guard","King Welmar's Castle"
+
+"00762","60","a soaking wet evening dress","on body","Wg17","","","","","Mv-100","","Arm-90 SMa+22 Dex-2 OE","110111011110101011","Ma Glob","Ma Glob's Dancing Parlor"
+
+"00763","60","a stone belt","about waist","Wg4","AC-10","","","","Hp+50","","","111111111111111111","the golem maker","High Tower of Sorcerery"
+
+"00764","60","a sturdy oaken staff","wielded","Wg15","DD7d8 HR+4 DR+10","","","","Hp+50 Mn+50","","","000010000000000000","the ancient elf","Tynstri"
+
+"00765","60","a tonfa","wielded","Wg14","DD6d4 HR+3 DR+3","","","","","","Arm-10","000000001000000000","the monk","Ancient Battlefield"
+
+"00766","60","an old ring","on finger","Wg1","AC-15","","","","Mn+100","","","010111001101110011","Behind the Cabinet (a jar)","Moria Mountains"
+
+"00767","60","boots of the north","on feet","Wg4","AC-10 HR+2 DR+1","","","","","","SMe+10","111111111111111111","the frost giant commander","Gigantia"
+
+"00768","60","diligaf's cane","wielded","Wg10","DD3d5","","","","Mv+100","","Dex+8","111111111111111111","the visiting mage","Psionicist School"
+
+"00769","60","Merlins sword","wielded","Wg8","DD6d7","","","","Mn+50","","","000001000000100010","the warrior wizard","Elysium Faire"
+
+"00770","60","Reaper of the night","wielded","Wg15","DD4d10 HR+6 DR+3","","","","Mn+10","","(evil) OE","001000100000000100","Lord Gaheen","Ancient Battlefield"
+
+"00771","60","shiny armour","on body","Wg120","AC-30","","","MR+12","Mv-60","","","000000000001000000","Paladin","Ultima"
+
+"00772","60","silk royal pants","on legs","Wg2","","","","","Mv+100","","SPh+5 Dex+4 Cha+1","111111111111111111","Property of King Azoun IV (Crates and boxes)","Pirates of Silver Raven"
+
+"00773","60","the Ancient Vessel of Aquarius","held","Wg12","","","","","","","Wis+2 10xArea Mystic Shield AE","111111111111111111","Aquarius","Galaxy"
+
+"00774","60","the boots of stealth","on feet","Wg5","AC-6","","","","","","+Sneak","111111111111111111","Phuyu","Village of Miqi'erke"
+
+"00775","60","the claws of power","on hands","Wg5","AC-5 HR+2 DR+5","","","","","","","111111111111111111","Rey","Village of Miqi'erke"
+
+"00776","60","the Crystal Bracelet of Virgo","around wrist","Wg4","AC-10","","","","Mn+50","","Cha+2 AE","111111111111111111","Virgo","Galaxy"
+
+"00777","60","the dark of night","about body","Wg10","AC-15","","","","","","","111111111111111111","Mikhu","Village of Miqi'erke"
+
+"00778","60","the Hammer of the Illuminator","wielded","Wg15","DD6d8 HR+7 DR+6","","","","","","2 AE","001110100001010100","the Tomb Guardian","Ancient Battlefield"
+
+"00779","60","the holy avenger","wielded","Wg10","DD5d10 HR+10 DR+5","","","","","","AE","000000000001000000","Paladin","Ultima"
+
+"00780","60","the orb of Galadriel","as light","Wg2","","","","","","","Arm-10 (NoInf) AE","111111111111111111","Queen Galadriel","Great Elven City of Illir"
+
+"00781","60","tiger-striped leggings","on legs","Wg15","AC-7","","","","Mv+25","","","111111111111111111","Tigri","Village of Miqi'erke"
+
+"00782","64","the Amulet of Love","around neck","Wg1","AC-10","","","MR+10","","","SPo+10 AE","111111111111111111","the Lady of Empath Abbey","Ultima"
+
+"00783","65","a black robe","on body","Wg8","AC-30","","","","","","OE","010011001010110010","a black robed apprentice","High Tower of Sorcerery"
+
+"00784","65","a bracer of defense","around wrist","Wg3","AC-12 HR+1 DR+1","","","","","","","111111111111111111","the cloud giant commander","Gigantia"
+
+"00785","65","a cloak of midnight","about body","Wg20","AC-15","","","","Hp+50","","AG","111111111111111111","Mercurien","Shaalziran'dar"
+
+"00786","65","a glinting silver bracelet","around wrist","Wg5","AC-10 HR+2 DR+1","","","","","","","111111111111111111","the master's apprentice","High Tower of Sorcerery"
+
+"00787","65","a grey robe","on body","Wg8","AC-30","","","","","","ON","010011001010110010","the master of Neutrality","High Tower of Sorcerery"
+
+"00788","65","a ninja mask","on head","Wg2","AC-12","","","MR+15","","","Dex+2 AG","100000011010011000","the Ninja","Japan"
+
+"00789","65","a pair of darksteel vambraces","on arms","Wg10","AC-12 HR+1 DR+1","","","","","","AG","011100111010110101","Balazar","Shaalziran'dar"
+
+"00790","65","a pair of drow steel-toed boots","on feet","Wg15","AC-10 HR+2 DR+1","","","","Mv+100","","AG","011100111010110101","Arziana","Shaalziran'dar"
+
+"00791","65","a spiked collar","around neck","Wg9","DR+5","","","","","","","111111111111111111","a calico cat","High Tower of Sorcerery"
+
+"00792","65","a suit of darksteel chainmail","on body","Wg45","AC-30","","","","","","AG","011100111010110101","Tashken","Shaalziran'dar"
+
+"00793","65","a white gold bracelet","around wrist","Wg5","AC-10 HR+3","","","","","","","111111111111111111","a white robed apprentice","High Tower of Sorcerery"
+
+"00794","65","an onyx bracelet","around wrist","Wg6","AC-10 DR+3","","","","","","","111111111111111111","a black robed apprentice","High Tower of Sorcerery"
+
+"00795","65","the Golden Fleece","around neck","Wg15","AC-12","","","","Hp+60","","AE","111111111111111111","Aries","Galaxy"
+
+"00796","65","the Horns of Capricorn","on hands","Wg6","AC-10 HR+3 DR+4","","","","","","AE","111111111111111111","Capricorn","Galaxy"
+
+"00797","65","the Salamander's leggings","on legs","Wg20","AC-10","","","","Mv-50","","SPh+10","111111111111111111","the Salamander","Storm Dragons Fortress"
+
+"00798","65","the Shell of Cancer","on body","Wg75","AC-30","","","","","","AE","111111111111111111","Cancer","Galaxy"
+
+"00799","65","the whip of a boatloader","wielded","Wg6","DD1d40 HR+14 DR-2","","","","","","OE","111111111111111111","a very Evil Drow","Dwarfen Undermountain Harbour"
+
+"00800","67","a rusty shield","as shield","Wg22","AC-10 HR+3 DR+3","","","","","","OE","111111111111111111","the skeleton","Ultima"
+
+"00801","67","a rusty sword","wielded","Wg16","DD3d18","","","","","","OE","111000010010010100","the skeleton","Ultima"
+
+"00802","67","Orion's Hunting Belt","about waist","Wg7","AC-10 HR+2","","","","","","Con+2 AE","111111111111111111","Orion the Hunter","Galaxy"
+
+"00803","68","a gold wedding ring","on finger","Wg1","AC-10 HR+3 DR+3","","","","","","","111111111111111111","the baby-faced warrior","Elysium Faire"
+
+"00804","68","a Ninja suit","about body","Wg15","AC-17","","","","","","AG","100000000010001000","the Ninja","Japan"
+
+"00805","68","a pair of tabi boots","on feet","Wg20","AC-10 HR+2","","","","Mv+80","","Dex+2 AG","111000011010011101","the Ninja","Japan"
+
+"00806","68","the Sting of Scorpio","wielded","Wg9","DD6d7 HR+7 DR+7","","","","","","(BStab) AE","111111111111111111","Scorpio","Galaxy"
+
+"00807","68","the Tail of Pisces","on legs","Wg10","AC-10 HR+1 DR+1","","","","","","AE","111111111111111111","Pisces the mermaid","Galaxy"
+
+"00808","69","Gauntlets of Necromancy","on hands","Wg8","AC-11 HR+3 DR+3","","","","Hp+1 Mn+1","","(NoRent) OE","000001000000100010","the Lord of Necromancy","Ancient Battlefield"
+
+"00809","70","a black opal necklace","around neck","Wg10","AC-13 HR+2","","","","Mn+80","","AG","111111111111111111","Mercurien","Shaalziran'dar"
+
+"00810","70","a black pearl medallion","around neck","Wg10","AC-13 HR+1 DR+1","","","","Hp+20","","AG","111111111111111111","Arziana","Shaalziran'dar"
+
+"00811","70","a Boatguard spetum","wielded","Wg17","DD12d4 HR+8 DR+19","","","","","","(2Hand)","010000011000010100","a boat guard","Dwarfen Undermountain Harbour"
+
+"00812","70","a crooked pirate's dagger","wielded","Wg15","DD4d9 HR+3 DR+4","","","","","","AG","111010011010011011","the On sails pirate","Pirates of Silver Raven"
+
+"00813","70","a fire opal ring","on finger","Wg1","AC-15 HR+2","","","","Mn+80","","SPh+10 AG","111111111111111111","the firedragon","Tynstri"
+
+"00814","70","a golden wolfshead sceptre","held","Wg4","","","","","","","5xLightning Bolt AG","011110011110101011","the Wolf Shaman","Werehome"
+
+"00815","70","a guard's chainmail hauberk","on body","Wg80","AC-25","","","","","","","111111111111111111","Peter, the Captain of the Royal guard","King Welmar's Castle"
+
+"00816","70","a moon ring","on finger","Wg3","AC-13","","","","Hp+50 Mn+50","","AG","010111001101100011","the High Seat","Werehome"
+
+"00817","70","a pair of studded leather gloves","on hands","Wg6","AC-15 HR+3 DR+3","","","","","","AG","111111111111111111","Denzar","Shaalziran'dar"
+
+"00818","70","a pair of troll-hide greaves","on legs","Wg10","AC-10 DR+1","","","","Hp+30","","AG","111111111111111111","Balazar","Shaalziran'dar"
+
+"00819","70","a pirate's hook","wielded","Wg10","DD6d6 HR+6 DR+6","","","","","","(evil) Cha-3 AG","111010011010011011","a Peg-legged pirate","Pirates of Silver Raven"
+
+"00820","70","a priest's robes","on body","Wg10","AC-33","","","MR+5","Hp+50","","AG","000011000000000010","the High Priest of the wereboars","Werehome"
+
+"00821","70","a skull of a beast","on head","Wg20","AC-14","","","","Hp+30","","Str+5","100011001110111111","a Chained beast","Pirates of Silver Raven"
+
+"00822","70","a vorpal blade","wielded","Wg8","DD7d6 HR+7 DR+8","","","","","","(bless) (BStab) AE","111000000010001000","a ghostly assassin","Rage of the Gods"
+
+"00823","70","Spelljamming helmet","on head","Wg12","AC-10","","","MR+10","Mn+75","","AG","010001000100100010","Pirate Spelljammer","Pirates of Silver Raven"
+
+"00824","70","the Arrow of Saggitarius","held","Wg0","HR+12","","","","","","","111111111111111111","Saggitarius","Galaxy"
+
+"00825","70","the Bow of Saggitarius","wielded","Wg20","DD7d8 HR+6 DR+6","","","","","","AE","111111111111111111","Saggitarius","Galaxy"
+
+"00826","70","the sword of goodness","wielded","Wg10","DD10d4","","","","","","(bless) AE","010000100001010100","Celeborn, the King of the Elves","Great Elven City of Illir"
+
+"00827","71","the Hoof of Taurus","on feet","Wg15","AC-10 DR+3","","","","Mv+100","","AE","111111111111111111","Taurus","Galaxy"
+
+"00828","72","a moulded leather mask","on head","Wg10","AC-15","","","","Mv+50","","+Waterbreath +Sneak","111111111111111111","Lord Birt","Werehome"
+
+"00829","72","a Nemean Lion Skin","about body","Wg45","AC-15","","","","Hp+50","","AE","111111111111111111","Leo","Galaxy"
+
+"00830","73","Kralian's collar","around neck","Wg8","AC-17","","","","Hp+20 Mn+20","","AG","111111111111111111","Lord Kralian","Werehome"
+
+"00831","73","the Mighty Arm plates of Hercules","on arms","Wg20","AC-10 DR+3","","","","","","Str+5 AE","111111111111111111","the mighty Hercules","Galaxy"
+
+"00832","75","a drow assassin face mask","on head","Wg10","AC-13 HR+1","","","","","","AG","111111111111111111","a drow assassin","Shaalziran'dar"
+
+"00833","75","a large broadsword","wielded","Wg18","DD8d8 HR+5 DR+10","","","","","","","001000110001010000","Peter, the Captain of the Royal guard","King Welmar's Castle"
+
+"00834","75","a large forest green helmet","on head","Wg3","AC-20","","","","","","Int-3 Wis-3","001000110000010100","the hat seller (shop)","Elysium Faire"
+
+"00835","75","a rapier","wielded","Wg13","DD4d17 HR+5 DR+5","","","","","","AE","000000000001000000","Dupre the Paladin","Ultima"
+
+"00836","75","a red mantle","about body","Wg15","AC-15 HR+1 DR+1","","","MR+5","","","AG","010111011110100011","Lord Dorlan","Werehome"
+
+"00837","75","a red scythe of death","wielded","Wg14","DD7d6 DR+12","","","","","","AG","111000110010011101","a minor demon","Hell"
+
+"00838","75","a starched white apron","about waist","Wg2","AC-14","","","","Hp+25 Mn+25","","SPh+25","111111111111111111","the magnificent chef","Tynstri"
+
+"00839","75","a wooden leg","on feet","Wg25","AC-10 HR+2","","","","Mv-75","","Cha-3","111111010110101011","a Peg-legged pirate","Pirates of Silver Raven"
+
+"00840","75","Chef's knife","wielded","Wg5","DD7d7 HR+7 DR+7","","","","","","(BStab)","111001110111111111","the magnificent chef","Tynstri"
+
+"00841","75","Conan's two-handed sword","wielded","Wg0","DD4d20","","","","","","Str+5 Con+5","001000100001000100","Conan the Librarian","High Tower of Sorcerery"
+
+"00842","75","Dirty pirate's eye-patch","on head","Wg2","AC-15","","","","","","Cha-6 AG","111101011010101111","a Dirty pirate","Pirates of Silver Raven"
+
+"00843","75","Jack's knife","wielded","Wg8","DD2d25 HR+5 DR+10","","","","","","(BStab) AG","111111111110111111","Jack the Ripper","Hell"
+
+"00844","75","Libra's Scale of Injustice","as shield","Wg15","AC-6 HR+2 DR+2","","","","","","Wis-2 AG","111111111111111111","Libra","Galaxy"
+
+"00845","75","Libra's Scale of Justice","as shield","Wg15","AC-11","","","","Hp+50 Mn+50","","Wis+1 AE","111111111111111111","Libra","Galaxy"
+
+"00846","75","Liz's axe","wielded","Wg18","DD2d25 HR+5 DR+10","","","","","","AG","111111111111111111","Liz Borden","Hell"
+
+"00847","75","Pirate's long rusty sabre","wielded","Wg14","DD7d8 HR+6 DR+6","","","","","","(evil) Str+2 AG","111000110111011101","?","?"
+
+"00848","75","the Mask of Gemini","on head","Wg7","AC-16","","","","","","AE","111111111111111111","Gemini","Galaxy"
+
+"00849","75","the Moonshard staff","wielded","Wg15","DD6d6 HR+7 DR+5","","","","Mn+50","","OG","000001000000100010","the Tomb Guardian","Ancient Battlefield"
+
+"00850","75","the spear of a undermountain cityguard","wielded","Wg15","DD3d20 HR+6 DR+8","","","","","","ON","011000110001010100","the Cityguard","Dwarfen Undermountain Harbour"
+
+"00851","76","Sentri's armour","on body","Wg25","AC-45","","","","Hp+65 Mn+30","","OG","001000110001010100","Sentri","Ultima"
+
+"00852","76","Sentri's boots","on feet","Wg25","AC-10","","","","Mv+50","","OG","001000110001010100","Sentri","Ultima"
+
+"00853","76","Sentri's girth","about waist","Wg25","AC-10 HR+2 DR+2","","","","","","OG","001000110001010100","Sentri","Ultima"
+
+"00854","76","Sentri's gloves","on hands","Wg25","AC-10 HR+2 DR+2","","","","","","OG","001000110001010100","Sentri","Ultima"
+
+"00855","76","Sentri's helmet","on head","Wg25","AC-15","","","","","","OG","001000110001010100","Sentri","Ultima"
+
+"00856","76","Sentri's leggings","on legs","Wg25","AC-12","","","","","","Dex+2 OG","001000110001010100","Sentri","Ultima"
+
+"00857","76","Sentri's sleeves","on arms","Wg25","AC-19","","","","","","OG","001000110001010100","Sentri","Ultima"
+
+"00858","76","Sentri's two-handed sword","wielded","Wg18","DD5d15 DR+9","","","","","","OG","001000110001010100","Sentri","Ultima"
+
+"00859","77","a melted chainmail","on body","Wg52","AC-42 HR-1","","","","Mv-50","","Dex-2","001000100001000100","the armorer's ghost","Rage of the Gods"
+
+"00860","77","a ragged tuxedo","about body","Wg12","AC-15","","","","","","SMa+10 SPo+10 Cha+4 AN","111111111111111111","a ghostly tailor","Rage of the Gods"
+
+"00861","77","a ruby scale","as shield","Wg15","AC-15","","","","Mn+25","","","111111111111111111","the ruby dragon","Tynstri"
+
+"00862","77","a stout cudgel","wielded","Wg8","DD7d9 HR+7 DR+8","","","","","","","111111111111111111","the weaponsmith's ghost","Rage of the Gods"
+
+"00863","77","a thick black robe","on body","Wg4","AC-35","","","","","","","000001000100100010","Selvius, Grand Wizard of the blood watch","Small Temple"
+
+"00864","78","a top hat","on head","Wg8","AC-15","","","MR+5","Hp+20","","AE","011101000100100010","a ghostly templar","Rage of the Gods"
+
+"00865","78","the staff of benedictions","wielded","Wg15","DD10d4 HR+2 DR+2","","","MR+5","Mn+100","","OG","000110001000000000","the high priest","Ancient Battlefield"
+
+"00866","79","a tam'o'shanter","on head","Wg10","AC-18","","","","","","+Waterbreath AE","110000011010001000","the sailor's ghost","Rage of the Gods"
+
+"00867","79","scorched robes","about body","Wg20","AC-12","","","MR+8","","","SPh+8 SMe+8","010111001100100010","the ghost of a wizard","Rage of the Gods"
+
+"00868","79","the fluffy slippers of pain","on feet","Wg1","HR-1 DR+3","","","","Mv-30","","Arm+2 AG","010011011000101010","the old tourist","Dwarfen Undermountain Harbour"
+
+"00869","80","a black drow assassin dagger","wielded","Wg10","DD5d10 HR+10 DR+7","","","","","","(BStab) AG","111111111111111111","a drow hunter","Shaalziran'dar"
+
+"00870","80","a crown of candles","on head","Wg15","AC-12","","","","Hp+100","","Cha+3 AE","011011111001110001","Sainte Lucia","Heaven"
+
+"00871","80","a dark black cloak","around neck","Wg8","AC-15 HR+2 DR+2","","","","","","OE","110111101111110011","the master of the black robes","High Tower of Sorcerery"
+
+"00872","80","a dragon shield","as shield","Wg15","AC-13","","","","","","SPh+15 AE","001000100001000100","Saint George","Heaven"
+
+"00873","80","a dragon slayer lance","wielded","Wg16","DD6d10 HR+8 DR+8","","","","","","(bless) AE","001000100001000100","Saint George","Heaven"
+
+"00874","80","a fatal charm","held","Wg10","","","","","","","5xCharm Person","000001000000100010","the gentle dragon","Tynstri"
+
+"00875","80","a Femur","wielded","Wg22","DD8d7 DR+12","","","","","","Cha-1 AG","111001110110111111","the Lord of disgust","Demon Empire"
+
+"00876","80","a golden apple","as light","Wg5","","","","","","","AE","111111111111111111","King Welmar","King Welmar's Castle"
+
+"00877","80","a golden crown","on head","Wg40","AC-25","","","","Hp+100 Mn+100","","AE","111011111011110011","King Welmar","King Welmar's Castle"
+
+"00878","80","a golden sceptre","wielded","Wg19","DD10d7 HR+6 DR+10","","","","","","AE","001000110001000000","King Welmar","King Welmar's Castle"
+
+"00879","80","a harness of a dwarf town guard","on body","Wg40","AC-30","","","","","","Dex-2 Cha+2","001000100001000100","the Cityguard","Dwarfen Undermountain Harbour"
+
+"00880","80","a hellfire whip","wielded","Wg16","DD6d8 HR+5 DR+10","","","","","","AG","111000110010011111","a major demon","Hell"
+
+"00881","80","a long grey cloak","around neck","Wg7","AC-10","","","","Mn+100","","ON","110111101111110011","the master of Neutrality","High Tower of Sorcerery"
+
+"00882","80","a masterwork broad sword","wielded","Wg12","DD8d8 HR+8 DR+11","","","","","","","011000110001010000","Malpheus, the mouth of Orcus","Small Temple"
+
+"00883","80","a pair of dangling gold earrings","on head","Wg1","AC-10","","","","","","","111111111111111111","Madame K","Elysium Faire"
+
+"00884","80","a ring of lost souls","on finger","Wg2","AC-20","","","","","","AG","111111111111111111","a walking satanic","Hell"
+
+"00885","80","a sharp shard of obsidian","wielded","Wg8","DD4d12 HR+3 DR+8","","","","","","AG","111001110111111111","the master of the black robes","High Tower of Sorcerery"
+
+"00886","80","a ward minor","held","Wg5","","","","","","","Arm-10","010011001000100010","the master of Neutrality","High Tower of Sorcerery"
+
+"00887","80","a white cloak","around neck","Wg7","AC-15","","","","Hp+100","","OG","110111101111110011","the master of goodness","High Tower of Sorcerery"
+
+"00888","80","an ancient regalia","about body","Wg1","AC-17","","","MR+5","Hp+15","","","111000110011011101","Soldack","Small Temple"
+
+"00889","80","an emerald ring","on finger","Wg4","AC-15 HR+3 DR+3","","","","","","","111111111111111111","Soldack","Small Temple"
+
+"00890","80","an emerald scale armplates","on arms","Wg20","AC-15 HR+2 DR+2","","","","Hp+75","","OE","001000100000010100","the emerald dragon","Tynstri"
+
+"00891","80","Santas lantern","as light","Wg5","","","","","Hp+50 Mv+40","","Cha+3 (NoInf) AE","111111111111111111","Saint Nicholas","Heaven"
+
+"00892","80","Shreds of Terror","wielded","Wg14","DD7d8 HR+5 DR+15","","","","","","AG","111000110010011101","the guardian of pain","Demon Empire"
+
+"00893","80","tekagi","on hands","Wg5","AC-2 DR+8","","","MR-35","","","AG","100000000000001000","the evil Daimyo","Japan"
+
+"00894","80","the Ring of Dignity","on finger","Wg3","AC-15","","","","Hp+85","","AE","111111111111111111","Cassiopeia the Queen","Galaxy"
+
+"00895","80","the Shield of the Harbour Town guards","as shield","Wg30","AC-12","","","","","","","001000100001000100","a boat guard","Dwarfen Undermountain Harbour"
+
+"00896","80","the tanto","wielded","Wg11","DD5d6 HR+4 DR+4","","","","","","(BStab) OE","100000000010001000","The secret store (ground)","Japan"
+
+"00897","80","tough dragonskin boots","on feet","Wg5","AC-10","","","","Mn+50","","Dex+3","000010000000010000","the Master Ranger","Tynstri"
+
+"00898","80","Wizardly fighting robes robe","on body","Wg5","AC-40","","","","","","","000001000100000010","Magus of the blood watch","Small Temple"
+
+"00899","81","a Fellowship medallion","around neck","Wg6","AC-15","","","","Mn+40","","OE","111111111111111111","Batlin","Ultima"
+
+"00900","82","a cracked shield","as shield","Wg35","AC-13 HR+1","","","","","","Con+6 +Detect Magic AE","000110101001000100","a ghostly templar","Rage of the Gods"
+
+"00901","84","a magic cloak","about body","Wg8","AC-15","","","","Mn+75","","AE","111111111111111111","Shamino the Ranger","Ultima"
+
+"00902","84","a tricorn","on head","Wg31","AC-25","","","MR+10","Hp+100","","+Light","000000010000000000","the captain's ghost","Rage of the Gods"
+
+"00903","84","aura of power","on body","Wg1","","","","","Mn+168","","","010111001111110011","the Timelord","Ultima"
+
+"00904","84","Sickle of the Ancients","held","Wg15","DD7d8 HR+3 DR+3","","","","Mn+200","","OE","000001000000100010","the necromancer","Ancient Battlefield"
+
+"00905","85","a black belt","about waist","Wg20","AC-21","","","","","","AG","100000000010000000","the Dai-Oni","Japan"
+
+"00906","85","a Crystal Trident","wielded","Wg15","DD8d6 HR+10 DR+6","","","","","","(evil) (BStab) OE","111111111111111111","the crystal dragon","Tynstri"
+
+"00907","85","a Dagger of the Shadows","wielded","Wg10","DD5d8 HR+10 DR+8","","","","","","(evil) (BStab) AG","100000000010001000","the shadow demon","Demon Empire"
+
+"00908","85","a druid's sharp sickle","wielded","Wg15","DD7d9 HR+5 DR+12","","","","","","(bless) AE","000010000000000000","Brother John","Tynstri"
+
+"00909","85","a glowing golden chainmail","on body","Wg90","AC-45 HR+3 DR+3","","","","","","AE","111111111111111111","a projection of the Avatar","Small Temple"
+
+"00910","85","a glowing topaz bracelet","around wrist","Wg2","AC-15 HR+1 DR+1","","","","Hp+15","","","111111111111111111","the topaz dragon","Tynstri"
+
+"00911","85","a golden aura","about body","Wg15","AC-12","","","","","","+Fly","111111111111111111","Qoyllor","Village of Miqi'erke"
+
+"00912","85","a hellstaff","held","Wg10","","","","","Mn+400","","AG","000001000000000010","Satan","Hell"
+
+"00913","85","a pair of shiny bracers","around wrist","Wg5","AC-15 HR+3","","","","","","AE","111111111111111111","a projection of the Avatar","Small Temple"
+
+"00914","85","a pitch fork","wielded","Wg18","DD7d10 HR+10 DR+10","","","","","","AG","001000110000010000","Satan","Hell"
+
+"00915","85","a Shadowy Cloak","about body","Wg3","AC-18","","","MR+10","","","+Sneak +Hide AG","100000000010001000","the shadow demon","Demon Empire"
+
+"00916","85","a Spear of the Shadows","wielded","Wg12","DD6d10 HR+7 DR+10","","","","","","(evil) AG","111000110010011101","the shadow demon","Demon Empire"
+
+"00917","85","a steel dagger with an ebony handle","wielded","Wg8","DD6d10 HR+9 DR+5","","","","","","","110000000010001000","the philosophical thief","Elysium Faire"
+
+"00918","85","a suit of fire","on body","Wg140","AC-50","","","","","","SPh+20 AG","111111111111111111","Satan","Hell"
+
+"00919","85","a wizards fighting stave","wielded","Wg8","DD7d8 HR+13 DR+20","","","","","","(2Hand)","000001000100000010","Magus of the blood watch","Small Temple"
+
+"00920","85","an adamantite breastplate","on body","Wg140","AC-50","","","","","","AN","111111111111111111","Grummash, the eyes of Orcus","Small Temple"
+
+"00921","85","priestly robes","about body","Wg2","AC-15","","","","Hp+15","","","111111111111111111","a priest of Orcus","Small Temple"
+
+"00922","85","some glowing leg plates","on legs","Wg15","AC-12","","","","Mn+50","","OE","111111111111111111","the small aquamarine dragon","Tynstri"
+
+"00923","85","the avatars glowing spear","wielded","Wg16","DD6d10 HR+6 DR+15","","","","","","AE","111111111111111111","a projection of the Avatar","Small Temple"
+
+"00924","85","the holy hammer","wielded","Wg20","DD7d10 HR+4 DR+15","","","MR+10","","","AE","001110101001000000","a projection of the Avatar","Small Temple"
+
+"00925","85","the shield of protection","as shield","Wg10","AC-10","","","MR+5","","","AE","001000100001000100","Michael the arch angel","Heaven"
+
+"00926","85","the ugly skull of Draco","held","Wg20","","","","","","Blindness","10xArea","111111111111111111","the Head of Draco","Galaxy"
+
+"00927","86","a shiny white cloak","about body","Wg10","AC-15","","","","Hp+25 Mn+25","","AE","111111111111111111","the large white dragon","Tynstri"
+
+"00928","87","a deep purple belt","about waist","Wg5","AC-1 HR-1 DR+3","","","","","","AG","111111111111111111","the purple dragon","Tynstri"
+
+"00929","88","an amethyst ankle bracelet","on feet","Wg1","AC-2 HR+1 DR+5","","","MR-25","","","AG","111111111111111111","the amethyst dragon","Tynstri"
+
+"00930","88","the Heart of Hawthorn Staff","held","Wg15","","","","","Hp+150","","15xHeal","000011001001100010","Tamric","Tynstri"
+
+"00931","90","a big red face","on head","Wg98","AC-18","","","","Mn+100","","OE","111111111111111111","the Guardian","Ultima"
+
+"00932","90","a black drow longbow","wielded","Wg10","DD9d9 HR+17 DR+26","","","","","","(2Hand) AG","000000000000010000","Bandar Nazet","Shaalziran'dar"
+
+"00933","90","a Bloodstained Chainmail","on body","Wg26","AC-40 HR+3 DR+3","","","","","","AG","111000110011011101","the daemonette","Demon Empire"
+
+"00934","90","a bloodstained darksteel helm","on head","Wg6","AC-30","","","MR-10","Mn+70","","OE","001000100001000000","Eandros, the fallen paladin","Small Temple"
+
+"00935","90","a bloodstained mithril breastplate","on body","Wg60","AC-49 HR+2","","","MR-15","Mv-38","","Cha-1 OE","001000100001000000","Eandros, the fallen paladin","Small Temple"
+
+"00936","90","a completely black armour","on body","Wg188","AC-45","","","","Hp+100 Mv-50","","OE","011000000010011100","Exodus","Ultima"
+
+"00937","90","a Crown of Thorns","on head","Wg2","AC-15 HR+1 DR+2","","","","","","Dex-1 AG","111110111011011101","the demon Lord","Demon Empire"
+
+"00938","90","a DeepGnome PickAxe","wielded","Wg13","DD7d7 HR+13 DR+8","","","","","","(BStab) AG","110100010010001000","a deep gnome scavenger","Dwarfen Undermountain Harbour"
+
+"00939","90","a Fiery Blade","wielded","Wg15","DD8d8 HR+5 DR+5","","","","","","(flaming) SMa+10 AG","111000110010011101","the Dethguard","Demon Empire"
+
+"00940","90","a floor-length robe of midnight-blue velvet","on body","Wg5","AC-33","","","","Hp+50 Mn+50","","AE","010111001101100011","the dryad","Tynstri"
+
+"00941","90","a heart shaped medallion","around neck","Wg3","AC-20","","","","","","","111111111111111111","The altar (a golden altar)","High Tower of Sorcerery"
+
+"00942","90","a knight's lance","wielded","Wg16","DD6d8 HR+7 DR+10","","","","","","AE","101000111011010101","the Powerful Drake","Storm Dragons Fortress"
+
+"00943","90","a long shimmering icicle","held","Wg5","DD4d3 HR+6 DR+18","","","","","","AG","111111111111111111","the ice dragon","Tynstri"
+
+"00944","90","a moonstone ring","on finger","Wg2","AC-20","","","","Mn+50","","SMe+5 SPo+5","111111111111111111","Tuta","Village of Miqi'erke"
+
+"00945","90","a pair of slightly charred handprotections","on hands","Wg16","AC-15","","","","","","Age+10 SPh+10","111111111111011101","?","?"
+
+"00946","90","a pair of leggings of elvenkind","on legs","Wg15","AC-10","","","","Mn+30","","AE","000010000000010000","the Master Ranger","Tynstri"
+
+"00947","90","a plain bandana","on head","Wg2","AC-25","","","","","","+Light +Waterbreath","111011111011110011","an Ancient Great Drake","Storm Dragons Fortress"
+
+"00948","90","a rapier","wielded","Wg0","DD8d9 HR+12 DR+10","","","","","","","001000000000000000","Walter Wall","Geldenrock"
+
+"00949","90","a Ring of Thorns","on finger","Wg1","AC-20 DR+2","","","","","","Dex-1 AG","111110111011011101","the demon Lord","Demon Empire"
+
+"00950","90","a shiny golden breastplate","on body","Wg140","AC-50","","","","Hp+80","","AE","001000100001000000","a paladin of Eilel","Small Temple"
+
+"00951","90","a shiny golden helm","on head","Wg30","AC-30","","","","Hp+100","","AE","001000100001000000","a paladin of Eilel","Small Temple"
+
+"00952","90","a shopkeeper assistant assistants vest","on body","Wg16","AC-16","","","","Hp+80","","Age+12 Con+3 Cha+3","100110001100001100","?","?"
+
+"00953","90","a simple ring","on finger","Wg1","AC-20","","","","","","+Invisibility","111111111111111111","a Golden Drake","Storm Dragons Fortress"
+
+"00954","90","a slightly burned leather wristwear","around wrist","Wg14","AC-8","","","","Hp+5","","SPh+8 SMa+8","110111011100111111","?","?"
+
+"00955","90","a spiked mace","wielded","Wg16","DD6d13 HR+3 DR+7","","","","","","OE","111110011010110101","Blacktorn","Ultima"
+
+"00956","90","a tight fitting green dragon scale shirt","on body","Wg15","AC-35","","","","Mn+200","","","010111001110111111","the Grand Mistress","High Tower of Sorcerery"
+
+"00957","90","a ward major","held","Wg6","","","","","","","Arm-20","010011001000100010","the Grand Mistress","High Tower of Sorcerery"
+
+"00958","90","a Whip of Talons","wielded","Wg14","DD7d7 HR+8 DR+6","","","","","","AG","111000110010011101","the daemonette","Demon Empire"
+
+"00959","90","a wicked looking dagger","wielded","Wg5","DD7d8 HR+8 DR+8","","","","","","(BStab)","111111111111111111","a Dragonlady","Storm Dragons Fortress"
+
+"00960","90","a wide-brimmed floppy hat with a blue plume","on head","Wg12","AC-18","","","","Hp+100","","","001000000000000000","Walter Wall","Geldenrock"
+
+"00961","90","an amulet of true armor","around neck","Wg10","AC-25","","","","","","AG","111111111111111111","a Fury","Hell"
+
+"00962","90","an evil charm","around neck","Wg1","DR+1","","","","","","Arm-23 OE","111111111111111111","Minax","Ultima"
+
+"00963","90","an intricate torc","around neck","Wg5","","","","MR+20","","","Arm-6","111111111111111111","the Genial Avatar Dragonlord","Storm Dragons Fortress"
+
+"00964","90","an ornate gold ring","on finger","Wg1","AC-30","","","","Mn+75","","","000000000000100000","the bright gold dragon","Tynstri"
+
+"00965","90","black adamantite bracers","around wrist","Wg12","AC-8 HR+4","","","","","","Cha+3","000000000010000000","Zindrake, Master of the blood watch","Small Temple"
+
+"00966","90","bloodstained darksteel footplates","on feet","Wg5","AC-15","","","MR-5","Hp+20 Mv-50","","OE","001000100001000000","Eandros, the fallen paladin","Small Temple"
+
+"00967","90","bloodstained darksteel legplates","on legs","Wg30","AC-16 HR+1","","","MR-10","","","OE","001000100001000000","Eandros, the fallen paladin","Small Temple"
+
+"00968","90","bloodstained dragonscale shoulder plates","on arms","Wg7","AC-20","","","MR-10","","","OE","001000100001000000","Eandros, the fallen paladin","Small Temple"
+
+"00969","90","bloodstained mithril gauntlets","on hands","Wg8","AC-15 HR+5 DR+5","","","MR-10","","","OE","001000100001000000","Eandros, the fallen paladin","Small Temple"
+
+"00970","90","British's amulet","around neck","Wg1","AC-20","","","MR+10","","","AE","001111101111110111","Lord British","Ultima"
+
+"00971","90","British's crown","on head","Wg10","AC-18","","","MR+5","Mn+100","","AE","001111101111110111","Lord British","Ultima"
+
+"00972","90","British's sceptre","wielded","Wg8","DD6d10 DR+8","","","","Mn+100","","AE","001111101111110111","Lord British","Ultima"
+
+"00973","90","Da'miqi","wielded","Wg10","DD4d16 HR+6 DR+6","","","","","","(BStab)","011111111111111111","Yanaquri","Village of Miqi'erke"
+
+"00974","90","Ferrix's diamond armor","on body","Wg150","AC-40","","","","Hp+75","","AG","011000110001010100","Queen Ferrix","Hell"
+
+"00975","90","loose white training pants","on legs","Wg20","AC-8 HR+2","","","","Mv+50","","","000000000010000000","Zindrake, Master of the blood watch","Small Temple"
+
+"00976","90","Lucifer's damned ring of treason","on finger","Wg3","AC-20","","","","Mn+50","","+Curse AG","010011001000100010","Lucifer the fallen angel","Heaven"
+
+"00977","90","shiny golden armplates","on arms","Wg40","AC-20","","","","","","AE","001000100001000000","a paladin of Eilel","Small Temple"
+
+"00978","90","shiny golden footplates","on feet","Wg20","AC-15","","","","Mv-50","","AE","001000100001000000","a palaidn of Eilel","Small Temple"
+
+"00979","90","shiny golden gauntlets","on hands","Wg30","AC-12 HR+5 DR+5","","","","","","AE","001000100001000000","a paladin of Eilel","Small Temple"
+
+"00980","90","shiny golden leg plates","on legs","Wg30","AC-20","","","","Mv-50","","AE","001000100001000000","a paladin of Eilel","Small Temple"
+
+"00981","90","the bracelet of wizardry","around wrist","Wg5","AC-10","","","","Mn+200","","","010001000000100010","the Grand Mistress","High Tower of Sorcerery"
+
+"00982","90","the Cap'n's shield","as shield","Wg15","AC-6 HR+2","","","MR+5","Mv+60","","AE","001000100001000100","the Master Ranger","Tynstri"
+
+"00983","90","the Cloak of Darkness","around neck","Wg1","AC-20","","","MR+10","","","+Sneak +Hide AG","100000000010001000","the philosophical thief","Elysium Faire"
+
+"00984","90","the Dagger of the Wicked","wielded","Wg10","DD9d5 HR+5 DR+10","","","","","","(BStab)","111111111111111111","the soulhunter","Demon Empire"
+
+"00985","90","the Dai-Katana","wielded","Wg18","DD8d8 HR+5 DR+10","","","","","","(evil) AG","101000111010011101","the Dai-Oni","Japan"
+
+"00986","90","the ebony kris","wielded","Wg9","DD10d5 HR+10 DR+10","","","","","","(BStab)","111001110111111111","the Grand Mistress","High Tower of Sorcerery"
+
+"00987","90","the Girth of the Forests","about waist","Wg10","AC-12","","","","Hp+100","","ON","000010000000010000","the Master Ranger","Tynstri"
+
+"00988","90","the Glass Sword","wielded","Wg1","DD8d8 HR+10 DR+10","","","","","","OG","111001110111111111","the Avatar","Ultima"
+
+"00989","90","the Great Dipper of the Skies","wielded","Wg16","DD6d12 HR+10 DR+5","","","","","","(bless)","000010001001000000","Polaris, the polar star","Galaxy"
+
+"00990","90","the Great Hunting Bow","wielded","Wg10","DD9d7 HR+17 DR+26","","","MR+10","","","(bless) (2Hand) ON","000000000000010000","the Master Ranger","Tynstri"
+
+"00991","90","the Master Ranger's hunting knife","wielded","Wg8","DD6d9 HR+10 DR+8","","","","","","(BStab) AE","111001110111111111","the Master Ranger","Tynstri"
+
+"00992","90","the Necronomicon","held","Wg10","","","","","Mn+200","","6xDragon Breath (NoRent) OE","000001000000100010","the Empress","Demon Empire"
+
+"00993","90","the Ring of Ophiuchus","on finger","Wg1","AC-20","","","MR+3","Mn+80","","","111111111111111111","the Gypsy Queen","Elysium Faire"
+
+"00994","90","the ring of the universe","on finger","Wg3","AC-30","","","","","","","111111111111111111","Polaris, the polar star","Galaxy"
+
+"00995","90","the Sceptre of Might","as light","Wg4","HR+4 DR+4","","","","","","(NoInf) AE","111111111111111111","Cepheus the King","Galaxy"
+
+"00996","90","the Serpent Neckchain of Ophiuchus","around neck","Wg1","AC-15","","","","Mn+80","","","111111111111111111","the Gypsy Queen","Elysium Faire"
+
+"00997","90","two giant shoulder pads","about body","Wg68","AC-14","","","","Mv-25","","Dex-2","111111111111111111","a giant","Dwarf 'n' Glob Iron Mill"
+
+"00998","95","a Black and Deadly Dagger","wielded","Wg10","DD6d8 HR+8 DR+10","","","","","","(BStab) AG","100000000010001000","the Vampire Dragonlord","Storm Dragons Fortress"
+
+"00999","95","a book or arcane ponderings","as light","Wg5","","","","","Hp+75 Mn+75","","Int+5 Wis+5 (NoInf)","000111001100100010","Selvius, Grand Wizard of the blood watch","Small Temple"
+
+"01000","95","a cloak of shadows","around neck","Wg2","AC-20 HR+1 DR+1","","","","Hp+100","","OE","111111011110111111","the shadow dragon","Tynstri"
+
+"01001","95","a crimson long sword","wielded","Wg7","DD8d8 HR+10 DR+10","","","","","","AG","001000110001010100","Hades","Hell"
+
+"01002","95","a fingerbone necklace","around neck","Wg2","AC-12","","","MR+12","","","AG","111000110010011101","the spirit of Prince Orcus","Small Temple"
+
+"01003","95","a full set of polished plate armour","on body","Wg200","AC-50","","","","Hp+40 Mv+40","","","000000100000000000","Grimmfast the Warrior","Geldenrock"
+
+"01004","95","a heavy helm","on head","Wg66","AC-30","","","","Hp+40 Mv-40","","+Detect Alignment AG","001000100001000000","the Master Smithy","Dwarf 'n' Glob Iron Mill"
+
+"01005","95","a heavy shield","as shield","Wg57","AC-15","","","","Hp+50 Mv-40","","AG","001100100001000000","the Master Smithy","Dwarf 'n' Glob Iron Mill"
+
+"01006","95","a huge longsword","wielded","Wg24","DD8d9 HR+11 DR+11","","","MR+4","","","AE","000000100000000000","Grimmfast the Warrior","Geldenrock"
+
+"01007","95","a Huge sword","wielded","Wg15","DD6d10 HR+6 DR+15","","","","","","AE","111001110111111111","a Mighty Avatar Dragonlord","Storm Dragons Fortress"
+
+"01008","95","a long tooth","wielded","Wg8","DD10d5 HR+8 DR+10","","","MR+2","","","(BStab) AE","111111111111111111","the High Drake","Storm Dragons Fortress"
+
+"01009","95","a pair of golden gauntlets","on hands","Wg5","AC-8 HR+4 DR+4","","","","","","AE","111001110111111111","a Mighty Avatar Dragonlord","Storm Dragons Fortress"
+
+"01010","95","a pair of heavy boots","on feet","Wg100","AC-12 DR+2","","","","Hp+25 Mv-60","","Dex-4 AG","001000100001000000","the Master Smithy","Dwarf 'n' Glob Iron Mill"
+
+"01011","95","a pair of heavy leg irons","on legs","Wg80","AC-15","","","","Hp+40 Mv-80","","Str+1 Con+3 AG","001000100001000000","the Master Smithy","Dwarf 'n' Glob Iron Mill"
+
+"01012","95","a pair of light mithril gauntlets","on hands","Wg15","AC-10 DR+5","","","","Hp+50","","AG","100000000010000000","the Vampire Dragonlord","Storm Dragons Fortress"
+
+"01013","95","a set of battlearmour","on body","Wg100","AC-45","","","","Hp+75","","AE","101011110111111111","a Mighty Avatar Dragonlord","Storm Dragons Fortress"
+
+"01014","95","a shimmering shield of air","as shield","Wg0","AC-8","","","","Mn+40","","","011101110001010000","an air elemental Ruler","Dwarf 'n' Glob Iron Mill"
+
+"01015","95","a shimmering war band","on head","Wg25","AC-10 HR+2 DR+2","","","","","","AG","011000010001011100","a hell spawn","Hell"
+
+"01016","95","a standard dwarven full plate","on body","Wg190","AC-40 HR+3","","","","Mv-150","","Hg-75 AE","001000100001000100","the Blacksmith Shopkeeper (shop)","Dwarf 'n' Glob Iron Mill"
+
+"01017","95","a suit of death","on body","Wg180","AC-55 HR-5","","","","Mn-300","","AG","011000110000010100","Hades","Hell"
+
+"01018","95","an aura of light","as light","Wg5","","","","","","","Arm-25 (NoInf) AG","111111111111111111","Hades","Hell"
+
+"01019","95","an emerald bracer","around wrist","Wg10","AC-5 HR+3 DR+3","","","","","","AG","111111111111111111","Hades","Hell"
+
+"01020","95","an eye","as light","Wg1","","","","MR+5","","","(NoInf) AE","111111111111111111","the High Drake","Storm Dragons Fortress"
+
+"01021","95","Gabriel's flaming sword","wielded","Wg16","DD5d10 HR+10 DR+7","","","","","","(bless) (flaming) AE","001000100001000100","Gabriel the arch angel","Heaven"
+
+"01022","95","polished steel armplates","on arms","Wg80","AC-15 HR+1 DR+1","","","","","","","000000100000000000","Grimmfast the Warrior","Geldenrock"
+
+"01023","95","some heavy iron chain","wielded","Wg20","DD7d10 HR+4 DR+2","","","MR+5","","","AE","111111111111111111","the High Drake","Storm Dragons Fortress"
+
+"01024","95","the Bonker's massive forearms","wielded","Wg37","DD8d7 HR+23 DR+7","","","","Mv+80","","Str+2 +Infra (2Hand) OE","110000010000011100","the Bonker","Dwarf 'n' Glob Iron Mill"
+
+"01025","97","a monsterous ball of flame","wielded","Wg20","DD10d5 HR+10 DR+30","","","","Hp-100","","(flaming) (2Hand)","010001000000100010","Dagga","Rage of the Gods"
+
+"01026","97","War's apocalyptic axe of destruction","wielded","Wg24","DD7d10 DR+18","","","","Mn-200","","AG","001000100001010100","War","Heaven"
+
+"01027","97","War's apocalyptic helmet","on head","Wg15","AC-30","","","MR+5","Hp+50 Mn-200","","AG","001000100001010100","War","Heaven"
+
+"01028","97","War's resistant plate","on body","Wg140","AC-45","","","MR+10","Mn-200","","AG","001000100001010100","War","Heaven"
+
+"01029","98","Pestilence's dagger of disease","wielded","Wg6","DD4d12 HR+12 DR+12","","","","","","+Poison (BStab) AG","110000000010001000","Pestilence","Heaven"
+
+"01030","99","an apocalyptic scythe of Death","wielded","Wg14","DD6d9 HR+10 DR+13","","","","","","(evil) AG","110001010110111111","Death","Heaven"
+
+"01031","99","the cape of Death","about body","Wg10","AC-20","","","MR+10","Mn+50","","Cha-2 AG","110001010110111111","Death","Heaven"
+
+"01032","100","a belt of triskelion","about waist","Wg10","AC-18","","","MR+10","Mn+50","","","010000000000100010","Creston","Psionicist School"
+
+"01033","100","a Burning Soul","wielded","Wg8","DD6d6 HR+15 DR+10","","","","","","(flaming) OE","000001000000100010","the guardian of pain","Demon Empire"
+
+"01034","100","a Cape of Repulsion","about body","Wg24","AC-15","","","MR+10","","","SPh+10 SMa+10 Cha-2","000001000000100010","the Lord of disgust","Demon Empire"
+
+"01035","100","a crude pike helm","on head","Wg12","AC-12 DR+2","","","","Mv-50","","Int-3 Dex-2","011110110001010101","Mill Stair Guard","Dwarf 'n' Glob Iron Mill"
+
+"01036","100","a darkling dagger","wielded","Wg9","DD7d8 HR+12 DR+11","","","","","","(evil)","000001000100100010","Selvius, Grand Wizard of the blood watch","Small Temple"
+
+"01037","100","a diffuse glow","as light","Wg1","","","","","Mn+75","","AE","111111111111111111","the Genial Avatar Dragonlord","Storm Dragons Fortress"
+
+"01038","100","a girdle of warmth","about waist","Wg7","AC-15","","","","Mn+30","","SMe+10 SPo+10 Con+2","111111111111111111","?","?"
+
+"01039","100","a golden staff","wielded","Wg12","DD6d10 HR+8 DR+8","","","","Mn+100","","AE","111111111111111111","the Genial Avatar Dragonlord","Storm Dragons Fortress"
+
+"01040","100","a harness of a dwarven mill guard","on body","Wg60","AC-35","","","","Hp+40 Mv-50","","Age+10 Con+2","001100100001000100","?","?"
+
+"01041","100","a huge anchor","wielded","Wg40","DD1d100 HR-15 DR+35","","","","","","(2Hand)","000000010000000100","Fritz (shop)","Dwarfen Undermountain Harbour"
+
+"01042","100","a Mace of Slaughter","wielded","Wg32","DD9d9 HR+12 DR+10","","","","","","OE","001000100001000000","the crimson Lord","Demon Empire"
+
+"01043","100","a magical ball of wildfire","as light","Wg14","HR+2","","","","Mn+80","","","111111111111111111","the Master Ranger","Tynstri"
+
+"01044","100","a ninja priest robe","about body","Wg12","","","","","Mn+100","","Cap+48 Age+50 Arm-10 Dex+2 +Sneak","000100000010000000","the Red Eye Ninja Priest","Dwarfen Undermountain Harbour"
+
+"01045","100","a pair of crude metal boots","on feet","Wg22","AC-12 HR-2 DR+2","","","","Mv-50","","Cha-4 OE","011000100001000100","Mill Stair Guard","Dwarf 'n' Glob Iron Mill"
+
+"01046","100","a Pair of Fairy Wings","about body","Wg5","AC-5","","","MR+10","","","+Fly AE","000001000100100010","Mchoro Mchaeren","Demon Empire"
+
+"01047","100","a pair of metallic armbands","on arms","Wg20","AC-10 DR+2","","","MR+5","","","AE","111111111111111111","the High Drake","Storm Dragons Fortress"
+
+"01048","100","a pair of white gloves","on hands","Wg2","AC-10","","","","Mv+100","","Dex+2 AE","111111111111111111","the Genial Avatar Dragonlord","Storm Dragons Fortress"
+
+"01049","100","a psionic whip","wielded","Wg15","DD6d12 HR+9 DR+6","","","","Mn+100","","","000000000000100000","Creston","Psionicist School"
+
+"01050","100","a Shield of Fear","as shield","Wg6","AC-12 HR+1 DR+1","","","","","","AG","111111111111111111","the guardian of pain","Demon Empire"
+
+"01051","100","a Skull Mace","wielded","Wg26","DD7d9 HR+8 DR+12","","","","","","OE","000111000100100010","the Lord of the dead","Demon Empire"
+
+"01052","100","a soul gem","as light","Wg0","HR+2 DR+2","","","","","","AG","110111011110101011","the spirit of Prince Orcus","Small Temple"
+
+"01053","100","a Staff of Screams","wielded","Wg16","DD4d20 HR+6","","","","Mn+80","","(evil) AG","000001000000100010","the Mistress of the dead","Demon Empire"
+
+"01054","100","a Veil of Insanity","on head","Wg6","AC-15 HR+3 DR+2","","","","Mn-100","","","001000100000010100","the chaos Guardian","Demon Empire"
+
+"01055","100","a Wand of Madness","held","Wg2","","","","","","","3xUnleash Mind","000001000100100010","the plaguebearer","Demon Empire"
+
+"01056","100","a wand of sudden death","held","Wg10","","","","","","","2xTerrorweave AG","000001000100100010","the gentle dragon","Tynstri"
+
+"01057","100","an ivory hilted dagger","wielded","Wg8","DD4d12 HR+5 DR+5","","","","","","(BStab) AE","111111111111111111","the master of goodness","High Tower of Sorcerery"
+
+"01058","100","an oaken staff","held","Wg12","HR+7 DR+7","","","MR+5","","","7xDragon Breath AG","000001000100100010","the Vampire Dragonlord","Storm Dragons Fortress"
+
+"01059","100","an onyx hilted dagger","wielded","Wg8","DD7d8 HR+7 DR+8","","","","","","(BStab) AG","111111111111111111","Tashken","Shaalziran'dar"
+
+"01060","100","an onyx hilted longsword","wielded","Wg7","DD8d8 HR+7 DR+10","","","","","","(evil)","000000000000000100","Michael","Shaalziran'dar"
+
+"01061","100","Bag of Souls","held","Wg20","","","","","","","Cap+130 AG","111111111111111111","the soulhunter","Demon Empire"
+
+"01062","100","Battered Steel Chainmail","on body","Wg75","AC-45 HR+3 DR+3","","","MR+5","","","OE","001000100001000000","the crimson Lord","Demon Empire"
+
+"01063","100","black velvet slippers with long pointy toes","on feet","Wg5","AC-10","","","","","","","010111001100100010","Henrietta Hennapy","Tynstri"
+
+"01064","100","Blood Covered Chain Gauntlets","on hands","Wg20","AC-15 HR+4 DR+4","","","","","","OE","001000100001000000","the crimson Lord","Demon Empire"
+
+"01065","100","Bloody Braids of a Red Haired Wench","about waist","Wg10","AC-12 HR+2 DR+2","","","","","","OE","001000100001000000","the crimson Lord","Demon Empire"
+
+"01066","100","Crimson Red Metallic Greaves","on legs","Wg45","AC-15 HR+1 DR+1","","","","Mv-50","","OE","001000100001000000","the crimson Lord","Demon Empire"
+
+"01067","100","Darkred Beast Skull","on head","Wg20","AC-25 HR+1 DR+1","","","","","","OE","001000100001000000","the crimson Lord","Demon Empire"
+
+"01068","100","Dented and Bloodied Armplates","on arms","Wg25","AC-17 HR+1 DR+1","","","","","","OE","001000100001000000","the crimson Lord","Demon Empire"
+
+"01069","100","finely made mithril chainmail","on body","Wg50","AC-50","","","","Hp+25 Mv+100","","AE","000010000000010000","the Master Ranger","Tynstri"
+
+"01070","100","Josephine's protective banner","as shield","Wg12","AC-13 HR+2","","","","","","Str+2 Dex+2","011100110001010100","Josephine","Dwarfen Undermountain Harbour"
+
+"01071","100","Kazlyn's Dark-Oak Staff","wielded","Wg9","DD6d9 HR+7 DR+9","","","","Mn+150","","AG","000001010001100010","Kazlyn","Shaalziran'dar"
+
+"01072","100","Sharp Pointed Battle Boots","on feet","Wg16","AC-13 HR+1 DR+1","","","","Mv-50","","OE","001000100001000000","the crimson Lord","Demon Empire"
+
+"01073","100","Soulsphere","as light","Wg4","","","","","","+Regeneration","","000110001001000000","the dying fairy","Demon Empire"
+
+"01074","100","the Axe of the Berzerker","wielded","Wg36","DD10d8 HR+10 DR+10","","","","Mv+100","","(2Hand)","001000100000000100","Cloaked death","Demon Empire"
+
+"01075","100","the Blade of the Crazed","wielded","Wg24","DD9d8 HR+6 DR+13","","","","","","","111000110010011101","the chaos Guardian","Demon Empire"
+
+"01076","100","the Emperor's new clothes","about body","Wg80","AC-20","","","MR+18","","","Dex+2 AE","111000110011011101","Emperor Nazaki","Japan"
+
+"01077","100","the golden unicorn's horn","wielded","Wg15","DD14d3 HR+12 DR+12","","","","","","(BStab) AE","111001110111111111","the unicorn","Tynstri"
+
+"01078","100","the hand of God","held","Wg17","DD6d10 HR+6 DR+10","","","","Mn+200","","(bless) OG","011111111101110111","God","Heaven"
+
+"01079","100","the Necklace of the Dead","around neck","Wg12","AC-14","","","","Hp+50 Mn+100","","Cha-2 OE","010111001101100011","the Lord of the dead","Demon Empire"
+
+"01080","100","the Orb of Repulsion","as shield","Wg30","AC-13","","","","","","SPh+5 SMa+5 Cha-1","000001000000100010","the Mistress of disgust","Demon Empire"
+
+"01081","100","the Soul of a Believer","as light","Wg1","DR+1","","","MR+10","Mn+75","","OE","000101000100100010","the Mistress of the dead","Demon Empire"
+
+"01082","100","Torn off Face of a Man","on head","Wg10","AC-25","","","","Hp+100 Mn+100","","AG","111011111011110011","Mchoro Mhaeren","Demon Empire"
+
+"01083","100","Vial of Glowing Magma","as light","Wg12","DR+4","","","","","","SPh-10 SMe+30 (NoInf)","000111100101010111","the cremator","Demon Empire"
+
+"01084","102","staff of the high seer","wielded","Wg4","DD7d8 HR+9 DR+9","","","","Mn+100","","(evil) AG","000111001101100010","Grummash, the eyes of Orcus","Small Temple"
+
+"01085","102","the Bonker's armwraps of war","on arms","Wg68","AC-15 HR+2 DR+2","","","","","","Str+3 Con+1 OG","010111111010100101","the Bonker","Dwarf 'n' Glob Iron Mill"
+
+"01086","105","a Broken Crown","on head","Wg15","AC-30 HR+2 DR+2","","","","","","OG","000000000001000000","the avenger","Demon Empire"
+
+"01087","105","a Carving of Utter Evil","around wrist","Wg10","AC-15 HR+2 DR+2","","","","","","OE","100000000010000000","Dark reaper","Demon Empire"
+
+"01088","105","a circlet of power","on head","Wg2","AC-25 HR+2 DR-2","","","","","","","111011111011110011","Kendasis","Small Temple"
+
+"01089","105","a gentle death","held","Wg10","","","","","","","10xSleep","000001000000100010","the gentle dragon","Tynstri"
+
+"01090","105","a Jug of Blood","held","Wg20","DD9d6 HR+5 DR+7","","","","Mn+200","","OE","000000000000100000","the Bloodthirster","Demon Empire"
+
+"01091","105","a Red Velvet Cloak","about body","Wg30","AC-15","","","MR+15","Mn+50","","OE","001101100111001111","the Bloodthirster","Demon Empire"
+
+"01092","105","a Ribcage Armor","on body","Wg100","AC-30","","","","Mn+225","","Cha-2 OE","000001000100100010","the Mistress of disgust","Demon Empire"
+
+"01093","105","a Runic Ring of Sorrow","on finger","Wg6","AC-20 HR+3 DR+3","","","","","","OE","100000000010000000","Dark reaper","Demon Empire"
+
+"01094","105","a Stone Axe","wielded","Wg30","DD7d9 HR+5 DR+16","","","","","","Str+3","000010000000010100","the Dethguard champion","Demon Empire"
+
+"01095","105","a Tubular Bell Banger","wielded","Wg23","DD8d7 HR+12 DR+10","","","MR+8","Mv+30","","(bless) (flaming) OG","010000000000000000","the Master Smithy","Dwarf 'n' Glob Iron Mill"
+
+"01096","105","an Aura of Souls","about body","Wg2","AC-7","","","","Hp+25 Mn+100","","OG","111111111111111111","the avenger","Demon Empire"
+
+"01097","105","an axe called 'Deliverer of Insight'","wielded","Wg29","DD8d8 HR+12 DR+7","","","","Mv+50","","(evil) OE","010000110001010000","the Master Smithy","Dwarf 'n' Glob Iron Mill"
+
+"01098","105","Belt of Skulls","about waist","Wg24","AC-15 HR+1 DR+1","","","","Mn+25","","OE","111001110110111111","the Emperor","Demon Empire"
+
+"01099","105","Claymore","wielded","Wg30","DD8d9 HR+15 DR+20","","","","","","(bless) (2Hand) OG","000000000001000000","the avenger","Demon Empire"
+
+"01100","105","Dark Shroud of Swirling Blackness","about body","Wg40","AC-10","","","MR+20","","","","111111111111111111","Cloaked death","Demon Empire"
+
+"01101","105","Henrietta's favorite dress","on body","Wg5","AC-45","","","","Hp+75 Mn+150","","AE","010111001101110011","Henrietta Hennapy","Tynstri"
+
+"01102","105","Lashes of Darkness","wielded","Wg18","DD2d40 HR+10 DR+10","","","","","","","111111111111111111","Cloaked death","Demon Empire"
+
+"01103","105","long spiderweb sleeves","on arms","Wg1","AC-12","","","","Mn+50","","","000001000000100010","the warrior wizard","Elysium Faire"
+
+"01104","105","Shield of Everglowing Purity","as shield","Wg18","AC-15 HR+2 DR+2","","","","","","OG","000000000001000000","the avenger","Demon Empire"
+
+"01105","105","the Badge of the Champion","around neck","Wg15","AC-20 HR+3 DR+3","","","","","","Str+3 OE","001000100001010100","the Dethguard champion","Demon Empire"
+
+"01106","105","the black robes of archmagi","about body","Wg1","AC-15","","","MR+15","Hp+30","","Sph+15 OE","000001000100000010","Kendasis","Small Temple"
+
+"01107","105","the Bowl of Souls","held","Wg10","","","","","","","5xPhantasmal Killer (NoRent)","000001000100100010","the Empress","Demon Empire"
+
+"01108","105","the Elfking's superhero cape","about body","Wg1","AC-25","","","","","","","000000100001000000","the Mighty Elfking","Elysium Faire"
+
+"01109","105","the Elfking's white gold crown","on head","Wg23","AC-26","","","","Hp+80 Mn+80","","Int+1 Wis+1 AE","000000100001000000","the Mighty Elfking","Elysium Faire"
+
+"01110","105","the Emperor's Sceptre","held","Wg28","DD15d5 HR+12 DR+8","","","","","","+Light OE","111110111011011101","the Emperor","Demon Empire"
+
+"01111","105","the Mighty Hammer of Justice","wielded","Wg21","DD8d8 HR+5 DR+10","","","","","","Age+50","000000100001000000","the Mighty Elfking","Elysium Faire"
+
+"01112","105","the rod of Orcus","wielded","Wg10","DD8d8 HR+13 DR+7","","","","","","AG","111111111111111111","the spirit of Prince Orcus","Small Temple"
+
+"01113","105","the Soulsmasher","wielded","Wg35","DD10d9 HR+10 DR+10","","","MR+5","","","(2Hand) AG","001000000000000000","the demon knight","Demon Empire"
+
+"01114","105","Three Headed Nightbringer","wielded","Wg20","DD20d2 HR+10 DR+10","","","","","","(BStab)","111111111111111111","Cloaked Death","Demon Empire"
+
+"01115","105","Unholy Blade of the Dark","wielded","Wg8","DD8d6 HR+12 DR+12","","","","","","(BStab) OE","100000000010000000","Dark reaper","Demon Empire"
+
+"01116","105","Witchblade","wielded","Wg16","DD8d6 HR+12 DR+6","","","","","","(flaming) AG","110001010110101011","the Empress","Demon Empire"
+
+"01117","109","Maxwell's Silver Hammer","wielded","Wg16","DD10d7 HR+6 DR+15","","","MR+10","","","OG","001100001001000000","Governor Maxwell","Geldenrock"

@@ -1,0 +1,24 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00401,30,a crimson amulet,around neck,Wg2,AC-10,,,,,,Con+2 +Detect Magic (NoRent),111111111111111111,the chapterhouse guardian,Barrow Citadel of the Crimson Fists
+00516,38,a carved and polished ruby,as light,Wg5,,,,MR+5,,,(NoInf),111111111111111111,Aaron's Chambers (ground),Barrow Citadel of the Crimson Fists
+00618,45,a crimson platemail,on body,Wg25,AC-20 HR-1 DR+2,,,,Hp+40,,AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00619,45,a crimson platemail,on body,Wg25,AC-16,,,,,,AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00650,46,a crimson mailshirt,on body,Wg20,AC-18 HR+1,,,,Hp+20 Mv+50,,AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00651,47,a pair of crimson gauntlets,on hands,Wg12,AC-7 HR+3 DR+3,,,,,,Str+2 AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00652,47,a pair of crimson gauntlets,on hands,Wg12,AC-9,,,,,,AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00653,48,a crimson backplate,about body,Wg25,AC-12,,,,Hp+20 Mv-40,,Dex-1 AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00654,48,a crimson backplate,about body,Wg25,AC-9,,,,,,AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00656,49,a pair of crimson legplates,on legs,Wg15,AC-9 DR+1,,,,Hp+20 Mv-10,,Dex-1 AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00657,49,a pair of crimson legplates,on legs,Wg15,AC-11,,,,,,AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00673,50,a pair of crimson footplates,on feet,Wg16,AC-10 HR-1 DR+1,,,,Hp+10,,AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00674,50,a pair of crimson footplates,on feet,Wg16,AC-10,,,,,,AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00710,51,a crimson helmet,on head,Wg20,AC-11 HR-1 DR+1,,,,Hp+50,,AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00711,51,a crimson helmet,on head,Wg20,AC-12,,,,,,AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00716,52,the war banner of the Crimson Fists,held,Wg40,HR+8,,,,Mv-30,,Cha+4 5xHeal AE,001000100001000000,Knight Captain Sir Stephen,Barrow Citadel of the Crimson Fists
+00717,53,a pair of crimson armplates,on arms,Wg21,AC-9 HR+1 DR+2,,,,,,Str+4 AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00718,53,a pair of crimson armplates,on arms,Wg21,AC-10,,,,,,AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00719,54,a Crimson Fist pendant,around neck,Wg3,AC-12,,,MR+5,Hp+20,,AE,001000100001000000,Knight Captain Sir Stephen,Barrow Citadel of the Crimson Fists
+00730,55,the Primarch's Signet Ring,on finger,Wg1,AC-10 HR+1 DR+1,,,,Hp+15,,AE,001000100001000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00732,56,the Crimson Fist,wielded,Wg16,DD8d6 HR+6 DR+7,,,,,,Str-1 AE,001000100000000000,Primarch Morgan,Barrow Citadel of the Crimson Fists
+00734,57,a Chaplain's War Hammer,wielded,Wg8,DD5d9 HR+6 DR+7,,,,,,AE,001000100001000000,the Crimson Fist Chaplain,Barrow Citadel of the Crimson Fists
+00748,60,a deeply engraved greatsword,wielded,Wg32,DD2d1 HR+2 DR+40,,,,,,(2Hand) AE,001000110001000100,Knight Lieutenant Sir Gravin,Barrow Citadel of the Crimson Fists

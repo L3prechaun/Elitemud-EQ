@@ -1,0 +1,4 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00225,10,a small monocle,on head,Wg2,AC-2,,,,,,Wis+1,111111111111111111,Bilbo,Hobbit Village
+00228,10,a tiny axe,wielded,Wg7,DD2d6,,,,,,,111010111011011101,Frodo,Hobbit Village
+00271,16,a small red wand,held,Wg4,,,,,,,8xFireball,010111000100100010,Took,Hobbit Village

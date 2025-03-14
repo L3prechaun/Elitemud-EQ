@@ -1,0 +1,4 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00054,1,a large leg bone,wielded,Wg5,DD1d4,,,,,,,111111111111111111,Giant cave (ground),Myconoid Temple
+00151,4,an amulet,around neck,Wg2,,,,,,,Con+2,111111111111111111,the myconoid shaman,Myconoid Temple
+00411,30,a glowing suit of banded mail,on body,Wg40,AC-11,,,,,,Dex+2,111110111011011101,the dracolich,Myconoid Temple

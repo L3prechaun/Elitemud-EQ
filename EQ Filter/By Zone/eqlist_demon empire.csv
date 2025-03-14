@@ -1,0 +1,58 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00875,80,a Femur,wielded,Wg22,DD8d7 DR+12,,,,,,Cha-1 AG,111001110110111111,the Lord of disgust,Demon Empire
+00892,80,Shreds of Terror,wielded,Wg14,DD7d8 HR+5 DR+15,,,,,,AG,111000110010011101,the guardian of pain,Demon Empire
+00907,85,a Dagger of the Shadows,wielded,Wg10,DD5d8 HR+10 DR+8,,,,,,(evil) (BStab) AG,100000000010001000,the shadow demon,Demon Empire
+00915,85,a Shadowy Cloak,about body,Wg3,AC-18,,,MR+10,,,+Sneak +Hide AG,100000000010001000,the shadow demon,Demon Empire
+00916,85,a Spear of the Shadows,wielded,Wg12,DD6d10 HR+7 DR+10,,,,,,(evil) AG,111000110010011101,the shadow demon,Demon Empire
+00933,90,a Bloodstained Chainmail,on body,Wg26,AC-40 HR+3 DR+3,,,,,,AG,111000110011011101,the daemonette,Demon Empire
+00937,90,a Crown of Thorns,on head,Wg2,AC-15 HR+1 DR+2,,,,,,Dex-1 AG,111110111011011101,the demon Lord,Demon Empire
+00939,90,a Fiery Blade,wielded,Wg15,DD8d8 HR+5 DR+5,,,,,,(flaming) SMa+10 AG,111000110010011101,the Dethguard,Demon Empire
+00949,90,a Ring of Thorns,on finger,Wg1,AC-20 DR+2,,,,,,Dex-1 AG,111110111011011101,the demon Lord,Demon Empire
+00958,90,a Whip of Talons,wielded,Wg14,DD7d7 HR+8 DR+6,,,,,,AG,111000110010011101,the daemonette,Demon Empire
+00984,90,the Dagger of the Wicked,wielded,Wg10,DD9d5 HR+5 DR+10,,,,,,(BStab),111111111111111111,the soulhunter,Demon Empire
+00992,90,the Necronomicon,held,Wg10,,,,,Mn+200,,6xDragon Breath (NoRent) OE,000001000000100010,the Empress,Demon Empire
+01033,100,a Burning Soul,wielded,Wg8,DD6d6 HR+15 DR+10,,,,,,(flaming) OE,000001000000100010,the guardian of pain,Demon Empire
+01034,100,a Cape of Repulsion,about body,Wg24,AC-15,,,MR+10,,,SPh+10 SMa+10 Cha-2,000001000000100010,the Lord of disgust,Demon Empire
+01042,100,a Mace of Slaughter,wielded,Wg32,DD9d9 HR+12 DR+10,,,,,,OE,001000100001000000,the crimson Lord,Demon Empire
+01046,100,a Pair of Fairy Wings,about body,Wg5,AC-5,,,MR+10,,,+Fly AE,000001000100100010,Mchoro Mchaeren,Demon Empire
+01050,100,a Shield of Fear,as shield,Wg6,AC-12 HR+1 DR+1,,,,,,AG,111111111111111111,the guardian of pain,Demon Empire
+01051,100,a Skull Mace,wielded,Wg26,DD7d9 HR+8 DR+12,,,,,,OE,000111000100100010,the Lord of the dead,Demon Empire
+01053,100,a Staff of Screams,wielded,Wg16,DD4d20 HR+6,,,,Mn+80,,(evil) AG,000001000000100010,the Mistress of the dead,Demon Empire
+01054,100,a Veil of Insanity,on head,Wg6,AC-15 HR+3 DR+2,,,,Mn-100,,,001000100000010100,the chaos Guardian,Demon Empire
+01055,100,a Wand of Madness,held,Wg2,,,,,,,3xUnleash Mind,000001000100100010,the plaguebearer,Demon Empire
+01061,100,Bag of Souls,held,Wg20,,,,,,,Cap+130 AG,111111111111111111,the soulhunter,Demon Empire
+01062,100,Battered Steel Chainmail,on body,Wg75,AC-45 HR+3 DR+3,,,MR+5,,,OE,001000100001000000,the crimson Lord,Demon Empire
+01064,100,Blood Covered Chain Gauntlets,on hands,Wg20,AC-15 HR+4 DR+4,,,,,,OE,001000100001000000,the crimson Lord,Demon Empire
+01065,100,Bloody Braids of a Red Haired Wench,about waist,Wg10,AC-12 HR+2 DR+2,,,,,,OE,001000100001000000,the crimson Lord,Demon Empire
+01066,100,Crimson Red Metallic Greaves,on legs,Wg45,AC-15 HR+1 DR+1,,,,Mv-50,,OE,001000100001000000,the crimson Lord,Demon Empire
+01067,100,Darkred Beast Skull,on head,Wg20,AC-25 HR+1 DR+1,,,,,,OE,001000100001000000,the crimson Lord,Demon Empire
+01068,100,Dented and Bloodied Armplates,on arms,Wg25,AC-17 HR+1 DR+1,,,,,,OE,001000100001000000,the crimson Lord,Demon Empire
+01072,100,Sharp Pointed Battle Boots,on feet,Wg16,AC-13 HR+1 DR+1,,,,Mv-50,,OE,001000100001000000,the crimson Lord,Demon Empire
+01073,100,Soulsphere,as light,Wg4,,,,,,+Regeneration,,000110001001000000,the dying fairy,Demon Empire
+01074,100,the Axe of the Berzerker,wielded,Wg36,DD10d8 HR+10 DR+10,,,,Mv+100,,(2Hand),001000100000000100,Cloaked death,Demon Empire
+01075,100,the Blade of the Crazed,wielded,Wg24,DD9d8 HR+6 DR+13,,,,,,,111000110010011101,the chaos Guardian,Demon Empire
+01079,100,the Necklace of the Dead,around neck,Wg12,AC-14,,,,Hp+50 Mn+100,,Cha-2 OE,010111001101100011,the Lord of the dead,Demon Empire
+01080,100,the Orb of Repulsion,as shield,Wg30,AC-13,,,,,,SPh+5 SMa+5 Cha-1,000001000000100010,the Mistress of disgust,Demon Empire
+01081,100,the Soul of a Believer,as light,Wg1,DR+1,,,MR+10,Mn+75,,OE,000101000100100010,the Mistress of the dead,Demon Empire
+01082,100,Torn off Face of a Man,on head,Wg10,AC-25,,,,Hp+100 Mn+100,,AG,111011111011110011,Mchoro Mhaeren,Demon Empire
+01083,100,Vial of Glowing Magma,as light,Wg12,DR+4,,,,,,SPh-10 SMe+30 (NoInf),000111100101010111,the cremator,Demon Empire
+01086,105,a Broken Crown,on head,Wg15,AC-30 HR+2 DR+2,,,,,,OG,000000000001000000,the avenger,Demon Empire
+01087,105,a Carving of Utter Evil,around wrist,Wg10,AC-15 HR+2 DR+2,,,,,,OE,100000000010000000,Dark reaper,Demon Empire
+01090,105,a Jug of Blood,held,Wg20,DD9d6 HR+5 DR+7,,,,Mn+200,,OE,000000000000100000,the Bloodthirster,Demon Empire
+01091,105,a Red Velvet Cloak,about body,Wg30,AC-15,,,MR+15,Mn+50,,OE,001101100111001111,the Bloodthirster,Demon Empire
+01092,105,a Ribcage Armor,on body,Wg100,AC-30,,,,Mn+225,,Cha-2 OE,000001000100100010,the Mistress of disgust,Demon Empire
+01093,105,a Runic Ring of Sorrow,on finger,Wg6,AC-20 HR+3 DR+3,,,,,,OE,100000000010000000,Dark reaper,Demon Empire
+01094,105,a Stone Axe,wielded,Wg30,DD7d9 HR+5 DR+16,,,,,,Str+3,000010000000010100,the Dethguard champion,Demon Empire
+01096,105,an Aura of Souls,about body,Wg2,AC-7,,,,Hp+25 Mn+100,,OG,111111111111111111,the avenger,Demon Empire
+01098,105,Belt of Skulls,about waist,Wg24,AC-15 HR+1 DR+1,,,,Mn+25,,OE,111001110110111111,the Emperor,Demon Empire
+01099,105,Claymore,wielded,Wg30,DD8d9 HR+15 DR+20,,,,,,(bless) (2Hand) OG,000000000001000000,the avenger,Demon Empire
+01100,105,Dark Shroud of Swirling Blackness,about body,Wg40,AC-10,,,MR+20,,,,111111111111111111,Cloaked death,Demon Empire
+01102,105,Lashes of Darkness,wielded,Wg18,DD2d40 HR+10 DR+10,,,,,,,111111111111111111,Cloaked death,Demon Empire
+01104,105,Shield of Everglowing Purity,as shield,Wg18,AC-15 HR+2 DR+2,,,,,,OG,000000000001000000,the avenger,Demon Empire
+01105,105,the Badge of the Champion,around neck,Wg15,AC-20 HR+3 DR+3,,,,,,Str+3 OE,001000100001010100,the Dethguard champion,Demon Empire
+01107,105,the Bowl of Souls,held,Wg10,,,,,,,5xPhantasmal Killer (NoRent),000001000100100010,the Empress,Demon Empire
+01110,105,the Emperor's Sceptre,held,Wg28,DD15d5 HR+12 DR+8,,,,,,+Light OE,111110111011011101,the Emperor,Demon Empire
+01113,105,the Soulsmasher,wielded,Wg35,DD10d9 HR+10 DR+10,,,MR+5,,,(2Hand) AG,001000000000000000,the demon knight,Demon Empire
+01114,105,Three Headed Nightbringer,wielded,Wg20,DD20d2 HR+10 DR+10,,,,,,(BStab),111111111111111111,Cloaked Death,Demon Empire
+01115,105,Unholy Blade of the Dark,wielded,Wg8,DD8d6 HR+12 DR+12,,,,,,(BStab) OE,100000000010000000,Dark reaper,Demon Empire
+01116,105,Witchblade,wielded,Wg16,DD8d6 HR+12 DR+6,,,,,,(flaming) AG,110001010110101011,the Empress,Demon Empire

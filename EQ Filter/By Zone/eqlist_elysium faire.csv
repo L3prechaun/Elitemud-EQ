@@ -1,0 +1,24 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00094,1,a small bag made from the belly of some beast,on legs,Wg1,,,,,,,Cap+19,111111111111111111,the well-disguised demon,Elysium Faire
+00176,5,a soft dark green velvet hat with big red rose,on head,Wg1,AC-8,,,,,,Cha+2,111111111111111111,the hat seller (shop),Elysium Faire
+00207,10,a broad leather belt,about waist,Wg1,AC-4,,,,Mn+10,,,111111111111111111,the deft magician,Elysium Faire
+00224,10,a small cloth cap with Elysium on the crown,on head,Wg1,AC-8,,,,,,,111111111111111111,the hat seller (shop),Elysium Faire
+00301,20,a voodoo doll,held,Wg1,,,,,,,5xCurse,110111101110110011,the voodoo child (shop),Elysium Faire
+00400,30,a colorful blouse,on body,Wg1,AC-10,,,,,,,111111111111111111,the Gypsy Queen,Elysium Faire
+00427,30,a skirt of many colors,on legs,Wg1,AC-6,,,,,,,111111111111111111,the Gypsy Queen,Elysium Faire
+00435,30,a wood and brass linked waist chain,about waist,Wg1,AC-5,,,,Hp+15,,,111111111111111111,the Gypsy Queen,Elysium Faire
+00647,45,well-made wizards walking boots,on feet,Wg4,AC-10,,,,Hp+25 Mn+30,,,000001000000100010,the warrior wizard,Elysium Faire
+00691,50,a wizardly tunic,on body,Wg1,AC-20,,,,Mn+50,,Int+2 Wis+2,000001000000100010,the warrior wizard,Elysium Faire
+00709,50,wizard sleeves,on arms,Wg1,AC-10,,,,Mn+35,,,000001000000100010,the deft magician,Elysium Faire
+00769,60,Merlins sword,wielded,Wg8,DD6d7,,,,Mn+50,,,000001000000100010,the warrior wizard,Elysium Faire
+00803,68,a gold wedding ring,on finger,Wg1,AC-10 HR+3 DR+3,,,,,,,111111111111111111,the baby-faced warrior,Elysium Faire
+00834,75,a large forest green helmet,on head,Wg3,AC-20,,,,,,Int-3 Wis-3,001000110000010100,the hat seller (shop),Elysium Faire
+00883,80,a pair of dangling gold earrings,on head,Wg1,AC-10,,,,,,,111111111111111111,Madame K,Elysium Faire
+00917,85,a steel dagger with an ebony handle,wielded,Wg8,DD6d10 HR+9 DR+5,,,,,,,110000000010001000,the philosophical thief,Elysium Faire
+00983,90,the Cloak of Darkness,around neck,Wg1,AC-20,,,MR+10,,,+Sneak +Hide AG,100000000010001000,the philosophical thief,Elysium Faire
+00993,90,the Ring of Ophiuchus,on finger,Wg1,AC-20,,,MR+3,Mn+80,,,111111111111111111,the Gypsy Queen,Elysium Faire
+00996,90,the Serpent Neckchain of Ophiuchus,around neck,Wg1,AC-15,,,,Mn+80,,,111111111111111111,the Gypsy Queen,Elysium Faire
+01103,105,long spiderweb sleeves,on arms,Wg1,AC-12,,,,Mn+50,,,000001000000100010,the warrior wizard,Elysium Faire
+01108,105,the Elfking's superhero cape,about body,Wg1,AC-25,,,,,,,000000100001000000,the Mighty Elfking,Elysium Faire
+01109,105,the Elfking's white gold crown,on head,Wg23,AC-26,,,,Hp+80 Mn+80,,Int+1 Wis+1 AE,000000100001000000,the Mighty Elfking,Elysium Faire
+01111,105,the Mighty Hammer of Justice,wielded,Wg21,DD8d8 HR+5 DR+10,,,,,,Age+50,000000100001000000,the Mighty Elfking,Elysium Faire

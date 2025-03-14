@@ -1,0 +1,28 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00093,1,a shining necklace,around neck,Wg12,,,,,,,+Curse (NoRent) OE,111111111111111111,Ma Glob,Ma Glob's Dancing Parlor
+00144,3,a fork,wielded,Wg1,DD3d3 DR+3,,,,,,,111111111111111111,a dining man,Ma Glob's Dancing Parlor
+00145,3,a knife,wielded,Wg1,DD3d3 HR+3,,,,,,,111111111111111111,a dining man,Ma Glob's Dancing Parlor
+00146,3,a spoon,wielded,Wg1,DD3d3,,,,,,Dex+2 Con+2,111111111111111111,a dining man,Ma Glob's Dancing Parlor
+00291,20,a huge book of reservations,as shield,Wg100,AC-3,,,,Mv-20,,Str-1,011111111111111111,the head waiter,Ma Glob's Dancing Parlor
+00358,25,a small whistle,on hands,Wg3,DR-3,,,,Mv+50,,Age-10 +Curse,111111111111111111,a Jenka Dance Leader,Ma Glob's Dancing Parlor
+00406,30,a door guard jacket,on body,Wg12,AC-10 HR+1,,,,,,SMe+3 Int-4,110000010010011100,the door guard,Ma Glob's Dancing Parlor
+00439,30,Hulio's wide open shirt,on body,Wg3,AC-3,,,,,,Dex+2 Cha+2,111111111111111111,Hulio,Ma Glob's Dancing Parlor
+00485,35,a long scraper,held,Wg10,DD6d3 HR-1 DR+5,,,,,,Con+1,011001111101110111,a croupier,Ma Glob's Dancing Parlor
+00486,35,a nice jacket,on body,Wg5,AC-4,,,,Hp+20,,Cha+2,111111111111111111,Bunny,Ma Glob's Dancing Parlor
+00493,35,a Uncle-Juan's T-shirt,on body,Wg10,AC-7,,,,,,,011111111101110111,a man drying dishes,Ma Glob's Dancing Parlor
+00536,40,a folded white cloth,on arms,Wg4,AC-8,,,,,,SPh+10 Cha+4 +Dodge,110111011110101001,a Waiter,Ma Glob's Dancing Parlor
+00568,40,a pair of elastic gloves,on hands,Wg4,AC-9,,,,Hp-10,,Dex+2 Cha-2,110111011110111111,a dish washer,Ma Glob's Dancing Parlor
+00576,40,a ring with a very small diamond,on finger,Wg1,AC-10,,,,Mn+20,,Int+2 Wis+2,111111111111111111,Bunny (a small jacket),Ma Glob's Dancing Parlor
+00577,40,a robust wooden stick,wielded,Wg13,DD6d3 HR+4 DR+5,,,,,,Arm+2 Str+2 +Berzerk,001000010000000100,one completely insane drummer,Ma Glob's Dancing Parlor
+00605,40,the mimicry of a saddened face,on head,Wg40,AC-8,,,,Hp+20,,Age+5 Str+1 Cha-2 AE,111111111111111111,a sad wallflower,Ma Glob's Dancing Parlor
+00616,43,a HUGE golden necklace,around neck,Wg40,AC-13 HR+2,,,,Hp+40,,Con+1 Cha+3,010000000000000000,Hulio,Ma Glob's Dancing Parlor
+00625,45,a fleshform tire,about waist,Wg80,,,,,Hp+50 Mv-50,,Arm-14 Dex-2 AG,011110111001000101,a very fat Fryer,Ma Glob's Dancing Parlor
+00627,45,a full white chef suit,on body,Wg23,,,,,Mn+30,,Arm-15 SPo+15 Cha+3,010111001010101011,a Chef,Ma Glob's Dancing Parlor
+00635,45,a small sizzling box,held,Wg38,,,,,,,5xLightning Bolt,010111011100100011,Clara the Blue Dragoness,Ma Glob's Dancing Parlor
+00671,50,a lodge membership ring,on finger,Wg1,AC-12 DR+2,,,,,,SPh+10 Str+2 OE,111111111111111111,BOB,Ma Glob's Dancing Parlor
+00690,50,a very pointy dart,held,Wg2,DD6d6 HR+4 DR+6,,,,Mv-40,,(flaming) Dex+2,010000010010001000,a skilled dart player,Ma Glob's Dancing Parlor
+00699,50,Hulio's fan-club pin,around neck,Wg1,AC-12 HR+2,,,,,,Age-5 Int-2 Dex+2,111111111111111111,a Hulio wannabe,Ma Glob's Dancing Parlor
+00721,55,a hairy chest,on body,Wg35,AC-3,,,,Hp+30,,Age+10 Cha+3,010001000000000000,a Hulio wannabe,Ma Glob's Dancing Parlor
+00725,55,a very dirty towel,held,Wg21,,,,,,,3xColor Spray 1xPoison,010111011100100011,a dirty towel,Ma Glob's Dancing Parlor
+00729,55,the evil grin of BOB,on head,Wg1,AC-12 DR+2,,,,,,Age+10 Int+2 Cha-4 OE,110011111111111111,BOB,Ma Glob's Dancing Parlor
+00762,60,a soaking wet evening dress,on body,Wg17,,,,,Mv-100,,Arm-90 SMa+22 Dex-2 OE,110111011110101011,Ma Glob,Ma Glob's Dancing Parlor

@@ -1,0 +1,11 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00209,10,a crude pirate's cutlass,wielded,Wg14,DD5d4 HR+2 DR+3,,,,,,Cha-4,111111111111111111,the Stalking Pirate,Pirates of Silver Raven
+00742,60,a beautiful diamond necklace,around neck,Wg3,AC-12 HR+1 DR+2,,,,Hp+40,,Cha+3,111111111111111111,Property of King Azoun IV (Crates and boxes),Pirates of Silver Raven
+00753,60,a kings new scepter,as light,Wg3,DR+1,,,,Hp+20,,Str+4 Cha+2,111111111111111111,Property of King Azoun IV (Crates and boxes),Pirates of Silver Raven
+00772,60,silk royal pants,on legs,Wg2,,,,,Mv+100,,SPh+5 Dex+4 Cha+1,111111111111111111,Property of King Azoun IV (Crates and boxes),Pirates of Silver Raven
+00812,70,a crooked pirate's dagger,wielded,Wg15,DD4d9 HR+3 DR+4,,,,,,AG,111010011010011011,the On sails pirate,Pirates of Silver Raven
+00819,70,a pirate's hook,wielded,Wg10,DD6d6 HR+6 DR+6,,,,,,(evil) Cha-3 AG,111010011010011011,a Peg-legged pirate,Pirates of Silver Raven
+00821,70,a skull of a beast,on head,Wg20,AC-14,,,,Hp+30,,Str+5,100011001110111111,a Chained beast,Pirates of Silver Raven
+00823,70,Spelljamming helmet,on head,Wg12,AC-10,,,MR+10,Mn+75,,AG,010001000100100010,Pirate Spelljammer,Pirates of Silver Raven
+00839,75,a wooden leg,on feet,Wg25,AC-10 HR+2,,,,Mv-75,,Cha-3,111111010110101011,a Peg-legged pirate,Pirates of Silver Raven
+00842,75,Dirty pirate's eye-patch,on head,Wg2,AC-15,,,,,,Cha-6 AG,111101011010101111,a Dirty pirate,Pirates of Silver Raven

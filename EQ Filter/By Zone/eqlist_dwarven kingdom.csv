@@ -1,0 +1,7 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00059,1,"a long, black stick",held,Wg1,,,,,,,2xHeal,111111111111111111,the dwarven healer,Dwarven Kingdom
+00185,6,a short sword,wielded,Wg6,DD2d5,,,,,,,111001110111111111,the dwarven peon,Dwarven Kingdom
+00213,10,a golden dwarven ring,on finger,Wg1,HR+1 DR+1,,,,,,,111111111111111111,the dwarf guard,Dwarven Kingdom
+00219,10,a pair of dwarven gloves,on hands,Wg2,AC-1,,,,,,Dex+1 Con+1,111111111111111111,the dwarf guard,Dwarven Kingdom
+00231,10,dwarven plate mail,on body,Wg80,AC-6,,,,,,,111111111111111111,the dwarf guard,Dwarven Kingdom
+00260,15,a two-handed dwarven axe,wielded,Wg14,DD2d7 HR+2,,,,,,Str+2,111000110010011101,the dwarf guard,Dwarven Kingdom

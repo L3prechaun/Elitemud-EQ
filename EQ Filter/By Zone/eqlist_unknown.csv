@@ -1,0 +1,43 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00007,0,a full set of red undergarments,on body,Wg12,AC-1,,,,,,Dex+2 Cha+1,111111111111111111,?,?
+00066,1,a Nelly doll,as shield,Wg3,AC-3,,,,,,,111111111111111111,Squish,?
+00174,5,a shovel,wielded,Wg16,DD1d17,,,,,,,111111101011011101,?,?
+00196,8,a glinting silver ring,on finger,Wg9,AC-5,,,,Hp+30,,,111111111111111111,?,?
+00197,8,a pair of muddy boots,on feet,Wg10,AC-5,,,,Mv+15,,,111111111111111111,?,?
+00255,15,a pair of muddy gauntlets,on hands,Wg10,AC-6,,,,,,Str+1,111111111111111111,?,?
+00286,20,a black spear,wielded,Wg8,DD3d8 HR+2 DR+3,,,,,,AG,111000110010011101,?,?
+00292,20,a jagged dagger,wielded,Wg15,DD4d6,,,,,,1,111000110011011101,?,?
+00311,21,a long slender sword,wielded,Wg4,DD3d6 HR+4 DR+2,,,,,,OE,111000110010011101,?,?
+00313,21,a silvery sword,wielded,Wg13,DD5d4 HR+4 DR+2,,,,,,Dex+2,111111111111111111,?,?
+00315,21,a thin two-handed sword,wielded,Wg16,DD6d4 HR+2 DR+4,,,,,,,111111111111111111,?,?
+00319,22,a wet towel,wielded,Wg12,DD5d3,,,,,,,000111001100100010,?,?
+00326,24,a black morning star,wielded,Wg13,DD5d5 HR-1 DR+5,,,,,,AG,011110111011010101,?,?
+00327,24,a black sword,wielded,Wg14,DD5d5 HR+1 DR+2,,,,,,AG,111001110111111111,?,?
+00330,24,a white morning star,wielded,Wg13,DD5d5 HR-1 DR+5,,,,,,AE,011110111011010101,?,?
+00332,24,a white sword,wielded,Wg14,DD5d5 HR+2 DR+2,,,,,,AE,111111111111111111,?,?
+00344,25,a long sword,wielded,Wg15,DD3d7 HR+3 DR+3,,,,,,,111000110010011101,?,?
+00404,30,a diamond brooch,around neck,Wg2,AC-7,,,,Mn+50,,,111111111111111111,?,?
+00413,30,a heavy banded mail,on body,Wg50,AC-12,,,,Hp+25,,,101100110011010000,?,?
+00416,30,a morning star,wielded,Wg12,DD2d14 DR+5,,,,,,,111111111111111111,?,?
+00417,30,a oddlooking amulet,around neck,Wg1,AC-5,,,,,,Dex+2 AG,111111111111111111,?,?
+00421,30,a piece of glowing ore,held,Wg40,DR+2,,,,,,Cha+4,111111111111111111,?,?
+00433,30,a very thin yard long wooden stick,wielded,Wg3,DD4d4 HR+4 DR-2,,,,,,Dex+2,110001010110111111,?,?
+00473,34,a wooden spear,wielded,Wg5,DD3d9,,,,,,,111001110111111111,?,?
+00500,35,scale mail,on body,Wg20,AC-15,,,,,,,111111111111111111,?,?
+00506,36,a morning star,wielded,Wg12,DD4d7,,,,,,,111110111011011101,?,?
+00508,36,a spiked mace,wielded,Wg5,DD4d8 HR+2 DR+6,,,,,,AG,111110111011011101,?,?
+00512,36,an icicle,wielded,Wg4,DD3d6,,,,,,,111111111111111111,?,?
+00517,38,the Stone of Surrender,held,Wg10,,,,,,,4xSleep,010001000100100010,?,?
+00525,40,a black leather hood,on head,Wg5,AC-5,,,,,,,011010010011011000,?,?
+00527,40,a black plate neckguard,around neck,Wg10,AC-9,,,,,,Wis+1 AG,001010010101100010,?,?
+00555,40,a huge mace named Dawnbringer,wielded,Wg14,DD5d5 HR+3 DR+3,,,,,,,101110011011000000,?,?
+00561,40,a pair of black combat boots,on feet,Wg4,AC-8,,,,,,Dex-1,111111110011011111,?,?
+00596,40,an ivory hilted longsword,wielded,Wg15,DD6d7 HR+2 DR+2,,,,,,,111111111111111111,?,?
+00641,45,a trumpet,held,Wg17,,,,,,,2xPsyhic Scream,010000000000000000,?,?
+00755,60,a pair of shoulder pads,about body,Wg12,AC-12,,,,,,Str+2 Dex+2 Con+2,111000110011011101,?,?
+00847,75,Pirate's long rusty sabre,wielded,Wg14,DD7d8 HR+6 DR+6,,,,,,(evil) Str+2 AG,111000110111011101,?,?
+00945,90,a pair of slightly charred handprotections,on hands,Wg16,AC-15,,,,,,Age+10 SPh+10,111111111111011101,?,?
+00952,90,a shopkeeper assistant assistants vest,on body,Wg16,AC-16,,,,Hp+80,,Age+12 Con+3 Cha+3,100110001100001100,?,?
+00954,90,a slightly burned leather wristwear,around wrist,Wg14,AC-8,,,,Hp+5,,SPh+8 SMa+8,110111011100111111,?,?
+01038,100,a girdle of warmth,about waist,Wg7,AC-15,,,,Mn+30,,SMe+10 SPo+10 Con+2,111111111111111111,?,?
+01040,100,a harness of a dwarven mill guard,on body,Wg60,AC-35,,,,Hp+40 Mv-50,,Age+10 Con+2,001100100001000100,?,?

@@ -1,0 +1,24 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00060,1,"a long, grey branch",wielded,Wg18,DD2d6 HR-2,,,,,,,111111111111111111,the ancient tree,Draconia
+00269,15,the staff of the dragon,held,Wg5,,,,,,,10xCall Lightning,010111001100110011,the Great Red Dragon,Draconia
+00288,20,a copper hammer,wielded,Wg12,DD3d6,,,,,,,111111111111111111,a bodyguard,Draconia
+00342,25,a golden scimitar,wielded,Wg10,DD3d7 HR+2 DR+3,,,,,,,111111111111111111,a bodyguard,Draconia
+00355,25,a silver dagger,wielded,Wg10,DD4d5,,,,,,(BStab),111001111111111111,a concubine,Draconia
+00396,30,a black silk belt,about waist,Wg25,AC-8 HR+1 DR+1,,,,,,,111111111111111111,the Draconian Queen,Draconia
+00407,30,a dragon skin bracelet,around wrist,Wg10,AC-10,,,,,,,111111111111111111,the Great White Dragon,Draconia
+00414,30,a holy symbol,around neck,Wg2,AC-15,,,,Mn+35,,,000110001001000000,the holy Draconian,Draconia
+00422,30,a platinum bracelet,around wrist,Wg5,AC-8,,,,,,,111111111111111111,the holy Draconian,Draconia
+00434,30,a white silk belt,about waist,Wg25,AC-5,,,,Hp+40,,Str+2,111111111111111111,the holy Draconian,Draconia
+00478,35,a copper ring,on finger,Wg1,AC-8,,,,,,Wis+2,111111111111111111,a powerful mage,Draconia
+00483,35,a large round shield,as shield,Wg15,AC-10,,,,Hp+40,,,111111111111111111,the Ancient Green Dragon,Draconia
+00532,40,a crested shield,as shield,Wg20,AC-11,,,,,,SPh+10 Con+2,111111111111111111,the Draconian King,Draconia
+00534,40,a dragon tailed whip,wielded,Wg14,DD6d6 HR+3 DR+5,,,,,,,111111111111111111,the Ancient Green Dragon,Draconia
+00539,40,a fur cloak,about body,Wg10,AC-10,,,,Hp+50,,Str+1,111111111111111111,the Draconian King,Draconia
+00550,40,a helm of dragon kind,on head,Wg15,AC-8,,,,Hp+50,,,111111111111111111,the Great Red Dragon,Draconia
+00565,40,a pair of dragon scale leggings,on legs,Wg15,AC-8,,,,,,,111110111011011101,Tiamat,Draconia
+00566,40,a pair of dragon skin gloves,on hands,Wg5,AC-8,,,,,,Dex+2,111111111111111111,the dragon master,Draconia
+00572,40,a pair of spiked gauntlets,on hands,Wg10,AC-8 HR+4 DR+2,,,,,,,111111111111111111,the Draconian King,Draconia
+00595,40,an emerald sword,wielded,Wg14,DD5d8 HR+5 DR+5,,,,,,,111001111111111111,the Draconian King,Draconia
+00620,45,a dragon's tooth knife,wielded,Wg8,DD4d8 DR+6,,,,,,Dex+1 (BStab),111011110111111111,the dragon master,Draconia
+00664,50,a diamond ring,on finger,Wg6,AC-6 HR+2 DR+2,,,,,,,111111111111111111,Tiamat,Draconia
+00675,50,a plain black robe,about body,Wg4,AC-12 HR+2,,,,,,,111111111111111111,Tiamat,Draconia

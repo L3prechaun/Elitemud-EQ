@@ -1,0 +1,8 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00163,5,a commoner's longsword,wielded,Wg12,DD1d8 HR+1 DR+1,,,,,,,111111111111111111,the Drow commoner,Drow Underground City
+00175,5,a small bright green hat,on head,Wg1,AC-10,,,,,,Age-15 Arm-2,111111111111111111,the Matron Mother,Drow Underground City
+00184,6,a noble's longsword,wielded,Wg12,DD1d8 HR+2 DR+2,,,,,,,111111111111111111,the drow warrior noble,Drow Underground City
+00226,10,a small ruby ring,on finger,Wg1,,,,,Hp+25,,,111111111111111111,the Matron Mother,Drow Underground City
+00258,15,a small helmet,on head,Wg5,AC-1,,,,,,Int+3,111111111111111111,the Matron Mother,Drow Underground City
+00273,17,a snake headed whip,wielded,Wg12,DD3d6,,,,,,Str-2 Int-2 AG,111000110010011101,the Matron Mother,Drow Underground City
+00314,21,a spider shaped dagger,wielded,Wg8,DD3d4 HR+3 DR+3,,,,,,(BStab) AG,111111111111111111,the yochlol,Drow Underground City

@@ -1,0 +1,21 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00001,0,a bag,held,Wg2,,,,,,,Cap+23,111111111111111111,the Grocer (shop),City of Midgaard
+00005,0,a dagger,wielded,Wg1,DD1d4,,,,,,(BStab),111111111111111111,the Weaponsmith (shop),City of Midgaard
+00021,0,a torch,as light,Wg1,,,,,,,(NoInf),111111111111111111,the Grocer (shop),City of Midgaard
+00022,0,a warhammer,wielded,Wg6,DD1d5,,,,,,,111111111111111111,the Weaponsmith (shop),City of Midgaard
+00024,1,a backpack,about body,Wg8,,,,,,,Cap+142,111111111111111111,the Grocer (shop),City of Midgaard
+00038,1,a flail,wielded,Wg6,DD2d4,,,,,,,111111111111111111,the Weaponsmith (shop),City of Midgaard
+00057,1,a long sword,wielded,Wg15,DD1d8,,,,,,,111111111111111111,the Weaponsmith (shop),City of Midgaard
+00097,1,a small sword,wielded,Wg3,DD1d6,,,,,,,111000110010011101,the Weaponsmith (shop),City of Midgaard
+00106,1,a tuxedo,on body,Wg3,AC-2,,,,,,,111111111111111111,the Tailor (shop),City of Midgaard
+00109,1,a wand of invisibility,held,Wg2,,,,,,,2xInvisibility,111111111111111111,the Wizard (shop),City of Midgaard
+00110,1,a wedding dress,on body,Wg3,AC-2,,,,,,,111111111111111111,the Tailor (shop),City of Midgaard
+00114,1,a wooden club,wielded,Wg3,DD1d3,,,,,,,111110111011011101,the Weaponsmith (shop),City of Midgaard
+00336,25,a bride's veil,on head,Wg5,AC-2,,,,,,,111111111111111111,the Tailor,City of Midgaard
+00347,25,a pair of black leather trousers,on legs,Wg25,AC-7,,,,,,,111111111111111111,the Tailor (shop),City of Midgaard
+00349,25,a pair of glass slippers,on feet,Wg10,AC-7,,,,,,,111111111111111111,the Tailor (shop),City of Midgaard
+00350,25,a pair of high leather boots,on feet,Wg25,AC-7,,,,,,,111111111111111111,the Tailor (shop),City of Midgaard
+00351,25,a pair of lace gloves,on hands,Wg5,AC-4,,,,,,,111111111111111111,the Tailor,City of Midgaard
+00352,25,a ring of wisdom and high IQ,on finger,Wg5,,,,,,,Int+1 Wis+1,111111111111111111,the Jeweler (shop),City of Midgaard
+00360,25,a wedding corsage,around wrist,Wg5,AC-2,,,,,,,111111111111111111,the Tailor (shop),City of Midgaard
+00546,40,a golden wedding ring,on finger,Wg1,HR+3 DR+3,,,,,,,111111111111111111,the Jeweler (shop),City of Midgaard

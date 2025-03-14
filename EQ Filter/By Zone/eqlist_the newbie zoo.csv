@@ -1,0 +1,17 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00003,0,a bright red cap,on head,Wg1,AC-3,,,,,,Age-10,111111111111111111,a little boy,The Newbie Zoo
+00004,0,a burlap cape,around neck,Wg2,AC-3,,,,,,,111111111111111111,Tucker the Orangutan,The Newbie Zoo
+00006,0,a dragon tooth necklace,around neck,Wg1,AC-2,,,,,,,111111111111111111,a large komodo dragon,The Newbie Zoo
+00009,0,a mata mata shell,as shield,Wg3,AC-3,,,,,,,111111111111111111,a mata mata,The Newbie Zoo
+00010,0,a Newbie Zoo belt pouch,about waist,Wg1,,,,,,,Cap+9 Arm-1,111111111111111111,the Souveneir Salesman (shop),The Newbie Zoo
+00011,0,a Newbie Zoo wrist band,around wrist,Wg1,AC-1 HR+1,,,,,,,111111111111111111,the Souveneir Salesman (shop),The Newbie Zoo
+00012,0,a pair of khaki pants,on legs,Wg2,AC-4,,,,,,,111111111111111111,Danno the Zookeeper,The Newbie Zoo
+00013,0,a pair of lion's paws,on feet,Wg1,AC-1 HR+1 DR+1,,,,,,,111111111111111111,a fierce lion,The Newbie Zoo
+00014,0,a pair of tiger's paws,on hands,Wg1,AC-2,,,,Mv+10,,Con+1,111111111111111111,a vicious tiger,The Newbie Zoo
+00015,0,a peacock's feather,on head,Wg1,,,,,Mn+10 Mv+10,,Cha+2,111111111111111111,a colorful peacock,The Newbie Zoo
+00016,0,a safari vest,on body,Wg1,AC-3,,,,,,,111111111111111111,Danno the Zookeeper,The Newbie Zoo
+00017,0,a shiny bracelet,around wrist,Wg1,AC-2 DR+1,,,,,,,111111111111111111,a little girl,The Newbie Zoo
+00018,0,a small brass lantern,as light,Wg1,,,,,,,(NoInf),111111111111111111,a groundskeeper,The Newbie Zoo
+00019,0,a small shovel,wielded,Wg1,DD2d4 HR+1 DR+1,,,,,,,111111111111111111,a groundskeeper,The Newbie Zoo
+00020,0,a small spade,wielded,Wg1,DD3d5,,,,,,,111111111111111111,a groundskeeper,The Newbie Zoo
+00023,0,some furry sleeves,on arms,Wg1,AC-2,,,,,,,111111111111111111,a female tamarin,The Newbie Zoo

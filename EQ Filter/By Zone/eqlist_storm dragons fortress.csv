@@ -1,0 +1,34 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00039,1,a flaming twig,wielded,Wg8,DD1d1,,,,,,(flaming),111111111111111111,the Adventurer,Storm Dragons Fortress
+00090,1,a scruffy kitbag,about body,Wg5,,,,,,,Cap+95,111111111111111111,the Adventurer,Storm Dragons Fortress
+00337,25,a climbing rope,about waist,Wg8,AC-8,,,,,,,111111111111111111,the Adventurer,Storm Dragons Fortress
+00340,25,a dragon's eye,as light,Wg4,,,,,,,+Waterbreath (NoInf),111111111111111111,a Dragonlady,Storm Dragons Fortress
+00348,25,a pair of climbing boots,on feet,Wg10,AC-8 HR+1,,,,Hp+25,,,111111111111111111,the Adventurer,Storm Dragons Fortress
+00426,30,a short sword,wielded,Wg10,DD4d5 HR+2 DR+2,,,,,,,111111111111111111,the Squire,Storm Dragons Fortress
+00441,30,leather armour,on body,Wg30,AC-8,,,,,,,111111111111111111,the Squire,Storm Dragons Fortress
+00541,40,a gleaming sword,wielded,Wg12,DD5d6 HR+4 DR+4,,,,,,,111111111111111111,the Knight,Storm Dragons Fortress
+00581,40,a shiny shield,as shield,Wg15,AC-10,,,,,,,111111111111111111,the Knight,Storm Dragons Fortress
+00599,40,burnished chainmail,on body,Wg50,AC-15,,,,,,,111111111111111111,the Knight,Storm Dragons Fortress
+00672,50,a multicoloured shield,as shield,Wg16,AC-12,,,,,,SPh+5 SMe+5 SMa+5 SPo+5,111111111111111111,an Avatar Dragonlord,Storm Dragons Fortress
+00688,50,a sumptuous black velvet cloak,about body,Wg15,AC-12,Invisibility,,,Hp+40,,+Detect AE,111111111111111111,a Dragonlady,Storm Dragons Fortress
+00750,60,a gleaming sword,wielded,Wg12,DD6d9 HR+5 DR+5,,,,,,AE,001000101001010100,the King's Champion,Storm Dragons Fortress
+00760,60,a silvery chainmail,on body,Wg75,AC-25,,,,,,AE,001000101001010100,the King's Champion,Storm Dragons Fortress
+00797,65,the Salamander's leggings,on legs,Wg20,AC-10,,,,Mv-50,,SPh+10,111111111111111111,the Salamander,Storm Dragons Fortress
+00942,90,a knight's lance,wielded,Wg16,DD6d8 HR+7 DR+10,,,,,,AE,101000111011010101,the Powerful Drake,Storm Dragons Fortress
+00947,90,a plain bandana,on head,Wg2,AC-25,,,,,,+Light +Waterbreath,111011111011110011,an Ancient Great Drake,Storm Dragons Fortress
+00953,90,a simple ring,on finger,Wg1,AC-20,,,,,,+Invisibility,111111111111111111,a Golden Drake,Storm Dragons Fortress
+00959,90,a wicked looking dagger,wielded,Wg5,DD7d8 HR+8 DR+8,,,,,,(BStab),111111111111111111,a Dragonlady,Storm Dragons Fortress
+00963,90,an intricate torc,around neck,Wg5,,,,MR+20,,,Arm-6,111111111111111111,the Genial Avatar Dragonlord,Storm Dragons Fortress
+00998,95,a Black and Deadly Dagger,wielded,Wg10,DD6d8 HR+8 DR+10,,,,,,(BStab) AG,100000000010001000,the Vampire Dragonlord,Storm Dragons Fortress
+01007,95,a Huge sword,wielded,Wg15,DD6d10 HR+6 DR+15,,,,,,AE,111001110111111111,a Mighty Avatar Dragonlord,Storm Dragons Fortress
+01008,95,a long tooth,wielded,Wg8,DD10d5 HR+8 DR+10,,,MR+2,,,(BStab) AE,111111111111111111,the High Drake,Storm Dragons Fortress
+01009,95,a pair of golden gauntlets,on hands,Wg5,AC-8 HR+4 DR+4,,,,,,AE,111001110111111111,a Mighty Avatar Dragonlord,Storm Dragons Fortress
+01012,95,a pair of light mithril gauntlets,on hands,Wg15,AC-10 DR+5,,,,Hp+50,,AG,100000000010000000,the Vampire Dragonlord,Storm Dragons Fortress
+01013,95,a set of battlearmour,on body,Wg100,AC-45,,,,Hp+75,,AE,101011110111111111,a Mighty Avatar Dragonlord,Storm Dragons Fortress
+01020,95,an eye,as light,Wg1,,,,MR+5,,,(NoInf) AE,111111111111111111,the High Drake,Storm Dragons Fortress
+01023,95,some heavy iron chain,wielded,Wg20,DD7d10 HR+4 DR+2,,,MR+5,,,AE,111111111111111111,the High Drake,Storm Dragons Fortress
+01037,100,a diffuse glow,as light,Wg1,,,,,Mn+75,,AE,111111111111111111,the Genial Avatar Dragonlord,Storm Dragons Fortress
+01039,100,a golden staff,wielded,Wg12,DD6d10 HR+8 DR+8,,,,Mn+100,,AE,111111111111111111,the Genial Avatar Dragonlord,Storm Dragons Fortress
+01047,100,a pair of metallic armbands,on arms,Wg20,AC-10 DR+2,,,MR+5,,,AE,111111111111111111,the High Drake,Storm Dragons Fortress
+01048,100,a pair of white gloves,on hands,Wg2,AC-10,,,,Mv+100,,Dex+2 AE,111111111111111111,the Genial Avatar Dragonlord,Storm Dragons Fortress
+01058,100,an oaken staff,held,Wg12,HR+7 DR+7,,,MR+5,,,7xDragon Breath AG,000001000100100010,the Vampire Dragonlord,Storm Dragons Fortress

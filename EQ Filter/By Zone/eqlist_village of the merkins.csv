@@ -1,0 +1,18 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00431,30,a thneed,on head,Wg4,AC-9 HR+1,,,,Hp+5 Mn+5,,Wis+2,111111111111111111,the truffla tree,Village of the Merkins
+00449,31,a grubby loincloth,about waist,Wg8,AC-13 HR+2 DR-1,,,MR-10,Hp+15,,,111111111111111111,a wicked bog-goblin,Village of the Merkins
+00450,31,a snail shell,on finger,Wg2,AC-10 HR-1 DR-1,,,,Mn+30,,,010011001000100010,a witch,Village of the Merkins
+00452,32,a handful of leaves,as shield,Wg2,,,,,,,Arm-5 +Sense Life 5xProtection From Evil ON,111111111111111111,an elder merkin,Village of the Merkins
+00456,32,a sharp rock,wielded,Wg12,DD5d4 HR+5 DR+3,,,,Mv-40,,,111001110110111111,a merkin,Village of the Merkins
+00460,32,the sacred acorn,as light,Wg10,HR+1,,,,,,Con+2 OG,110110011011001001,the merkin shaman,Village of the Merkins
+00461,33,a foraging sack,on arms,Wg3,,,,,Mv-50,,Cap+73 Arm+10 Dex-2,111111111111111111,a merkin gatherer,Village of the Merkins
+00464,33,a lucky feather,held,Wg2,,,,,,5xSanctuary,OG,111111111111111111,a merkin lover,Village of the Merkins
+00465,33,a necklace of animal teeth,around neck,Wg2,AC-10 HR+1,,,,Hp+20,,ON,110111011110101011,the merkin chieftain,Village of the Merkins
+00466,33,a pair of bog boots,on feet,Wg6,AC-10 DR+2,,,,Mv+40,,Dex-2,111111111111111111,a merkin,Village of the Merkins
+00469,34,a bamboo club,wielded,Wg6,DD4d6 HR+7 DR+3,,,,,,,000000000010000000,a merkin guard,Village of the Merkins
+00470,34,a bamboo spear,wielded,Wg12,DD5d6 HR+4 DR+3,,,,,,,111111111111111111,a merkin guard,Village of the Merkins
+00472,34,a pair of pixie wings,on body,Wg1,AC-5,,,MR+5,Mn+30,,Dex+2 Cha+4 OG,010111001101100011,a pixie,Village of the Merkins
+00481,35,a hat made of mud and sticks,on head,Wg5,AC-12,,,,,,Int-2 Wis-2 Cha-2,111111111111111111,a merkin,Village of the Merkins
+00504,36,a little pixie crown,around wrist,Wg1,AC-9 HR+2,,,,Mv+40,,Dex+1 OG,010111001101100011,the pixie queen,Village of the Merkins
+00509,36,a thin flexible stick,wielded,Wg6,DD5d7 HR+5 DR+4,,,,,,ON,010111011110100011,the merkin chieftain,Village of the Merkins
+00514,36,the cloak of stench,about body,Wg8,AC-10 HR+2,,,MR+5,,,Con-1 Cha-2 OE,111111111111111111,the greater stench beast,Village of the Merkins

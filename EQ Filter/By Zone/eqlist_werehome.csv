@@ -1,0 +1,9 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00297,20,a rat talisman,around neck,Wg1,,,,,,,Int-1 (NoRent),111111111111111111,a devious wererat,Werehome
+00738,57,the ripper claws,wielded,Wg8,DD4d12 HR+6 DR+5,,,,,,AG,110001011110101011,Lord Xamon,Werehome
+00814,70,a golden wolfshead sceptre,held,Wg4,,,,,,,5xLightning Bolt AG,011110011110101011,the Wolf Shaman,Werehome
+00816,70,a moon ring,on finger,Wg3,AC-13,,,,Hp+50 Mn+50,,AG,010111001101100011,the High Seat,Werehome
+00820,70,a priest's robes,on body,Wg10,AC-33,,,MR+5,Hp+50,,AG,000011000000000010,the High Priest of the wereboars,Werehome
+00828,72,a moulded leather mask,on head,Wg10,AC-15,,,,Mv+50,,+Waterbreath +Sneak,111111111111111111,Lord Birt,Werehome
+00830,73,Kralian's collar,around neck,Wg8,AC-17,,,,Hp+20 Mn+20,,AG,111111111111111111,Lord Kralian,Werehome
+00836,75,a red mantle,about body,Wg15,AC-15 HR+1 DR+1,,,MR+5,,,AG,010111011110100011,Lord Dorlan,Werehome

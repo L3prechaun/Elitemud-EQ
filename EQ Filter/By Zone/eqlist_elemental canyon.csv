@@ -1,0 +1,22 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00391,28,a lava lamp,as light,Wg20,,,,,,,(NoInf),111111111111111111,the lava beast,Elemental Canyon
+00428,30,a stone club,wielded,Wg16,DD2d12 DR+3,,,,,,,001000110001010100,the large elemental,Elemental Canyon
+00453,32,a pair of platinum arm bands,on arms,Wg32,AC-7,,,,,,Str+1 Wis-2 AG,011000110011010100,a particle,Elemental Canyon
+00459,32,some platinum leg bands,on legs,Wg32,AC-7,,,,,,Str+1 Int-2 AG,011000110011010100,the cyclops,Elemental Canyon
+00474,34,an elemental amulet,around neck,Wg3,AC-7,,,MR-4,,,SPh+2 SMe+2 SMa+2 ON,111111111111111111,the elemental guardian,Elemental Canyon
+00475,34,an elemental bracelet,around wrist,Wg3,AC-7,,,,Hp+25,,ON,111111111111111111,the elemental guardian,Elemental Canyon
+00503,36,a flame lance,wielded,Wg16,DD3d11,,,,,,,001000110001000100,the blue flame,Elemental Canyon
+00510,36,an avalanche,held,Wg18,DD4d8 HR-7 DR+21,,,,,,,001000100001000100,the rock monster,Elemental Canyon
+00513,36,elemental wand of lightning,held,Wg6,,,,,,,7xLightning Breath,000001000100100010,the illusionist,Elemental Canyon
+00515,36,the shock whip,wielded,Wg10,DD2d12,,,,,,,111111111111111111,the magneto,Elemental Canyon
+00591,40,a waterfall cloak,about body,Wg20,AC-8,,,MR+2,,,ON,111111111111111111,the Water Ruler,Elemental Canyon
+00614,42,rare herbs,held,Wg1,,,,,,1xRegeneration,,010111001100100010,the baby rainbow dragon,Elemental Canyon
+00621,45,a fiery dagger,wielded,Wg11,DD3d7 HR+2 DR+6,,,,,,(BStab) AE,110111011111111111,the Fire Ruler,Elemental Canyon
+00622,45,a flame red cape,about body,Wg20,,,,,Hp+45 Mn+45,,SPh+2 SMe-1 ON,111111111111111111,the Fire Ruler,Elemental Canyon
+00623,45,a flaming sword,wielded,Wg8,DD4d10 HR+2 DR+5,,,,,,AG,111001110111111111,the Fire Ruler,Elemental Canyon
+00630,45,a humming hurricane helmet,on head,Wg10,AC-7,,,,,,SPo-5 ON,001000110001010100,the Air Ruler,Elemental Canyon
+00636,45,a sparking lightning sword,wielded,Wg14,DD3d12 HR+2 DR+4,,,,,,ON,011000110001010100,the Lightning Ruler,Elemental Canyon
+00638,45,a stoney hide,on body,Wg125,AC-17,,,,Mv-90,,Dex-2 Con+2 ON,111111111111111111,the Earth Ruler,Elemental Canyon
+00642,45,an icy girth,about waist,Wg9,AC-5,,,,,,SPh-2 SMe+4 ON,111111111111111111,the Water Ruler,Elemental Canyon
+00645,45,the earth ring,on finger,Wg8,AC-5,,,,Hp+45,,SPo+2 Dex-1 Con+1,111111111111111111,the Earth Ruler,Elemental Canyon
+00646,45,the wind boots,on feet,Wg5,DR-1,,,,Mv+180,,Dex+2 ON,111111111111111111,the Air Ruler,Elemental Canyon

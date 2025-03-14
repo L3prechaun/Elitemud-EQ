@@ -1,0 +1,44 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00040,1,a girdle of many pouches,about waist,Wg5,,,,,,,Cap+195,111111111111111111,Haemon,Mahn-Tor
+00064,1,a multicoloured key ring,around neck,Wg3,,,,,,,Cap+97,111111111111111111,the Minotaur Keymaster,Mahn-Tor
+00095,1,a small leather pack,about body,Wg9,,,,,,,Cap+91,111111111111111111,Astyanax,Mahn-Tor
+00149,4,a kopesh sword,wielded,Wg13,DD3d3,,,,,,,011011110011011101,the Minotaur Citizen,Mahn-Tor
+00236,12,a steel breast plate,on body,Wg10,AC-6,,,,,,,111111111111111111,the Minotaur Warrior,Mahn-Tor
+00254,15,a pair of blue steel vambraces,on arms,Wg8,AC-8,,,,,,,011011110011011101,the High Minotaur Guard,Mahn-Tor
+00312,21,a pitch black cloak,about body,Wg3,,,,,,,Cap+147 SPo-3,111111111111111111,Pythian,Mahn-Tor
+00316,21,a wicked shortsword,wielded,Wg11,DD3d5 HR+1 DR+1,,,,,,,011010010010011000,Astyanax,Mahn-Tor
+00366,26,an icy white cloak,about body,Wg5,AC-8,,,,,,,111111111111111111,Thesus,Mahn-Tor
+00402,30,a crimson steel helm and visor,on head,Wg8,AC-10,,,,,,,011011110011011101,the Elite Minotaur Guard,Mahn-Tor
+00423,30,a red steel greaves,on legs,Wg8,AC-9,,,,,,,011011110011011101,the Royal Minotaur Guard,Mahn-Tor
+00519,40,a banded ring,on finger,Wg2,AC-1,,,,Mn+30,,Age+10,001010010001100010,Haemon,Mahn-Tor
+00522,40,a billowing white cape,about body,Wg5,AC-5,,,,,,Age+20,011010010011011000,Creon,Mahn-Tor
+00526,40,a black minotaur's vambraces,on legs,Wg9,AC-9,,,,,,,001011110000000100,Aegithus,Mahn-Tor
+00529,40,a broach of life,around neck,Wg5,AC-2,,,,Hp+50,,,101110011111100011,Jocasta,Mahn-Tor
+00530,40,a carved wooden ring,on finger,Wg3,AC-1 HR+1 DR+1,,,,,,,011010010011011000,Balthazar,Mahn-Tor
+00540,40,a gilded gold breast plate,on body,Wg18,AC-15,,,,Hp+25,,,101110011011000000,Creon,Mahn-Tor
+00543,40,a gnarled magius staff,wielded,Wg10,DD4d4 HR+3 DR+3,,,,,,,001010010101100010,Haemon,Mahn-Tor
+00545,40,a golden holy symbol,around neck,Wg3,AC-2,,,,Mn+10,,,101110011011000000,Jocasta,Mahn-Tor
+00549,40,a heavy woolen robe,about body,Wg10,AC-15,,,,,,,101110011011000000,Jocasta,Mahn-Tor
+00552,40,a horn of life,held,Wg5,,,,,,,8xCure Light,011010010011011000,Balthazar,Mahn-Tor
+00553,40,a horned minotaur helm,on head,Wg8,AC-10,,,,,,,001011110001000100,Xanthias,Mahn-Tor
+00554,40,a huge crossbow,wielded,Wg15,DD3d5 HR+1 DR+1,,,,,,,011010010011011000,Balthazar,Mahn-Tor
+00556,40,a huge mithril mace,wielded,Wg13,DD4d4 HR+2 DR+2,,,,,,,101110011011000000,Jocasta,Mahn-Tor
+00557,40,a huge tower shield,as shield,Wg14,AC-10,,,,,,,101110011011000000,Creon,Mahn-Tor
+00558,40,a major globe of invulnerability,about body,Wg1,AC-15,,,MR-5,,,,011011110011011101,Xanthias,Mahn-Tor
+00559,40,a minor globe of invulnerability,about body,Wg1,AC-15,,,MR-5,,,SPo-5,101110011111100011,Xanthias,Mahn-Tor
+00562,40,a pair of black leather pants,on legs,Wg5,AC-7,,,,,,,011010010011011000,Astyanax,Mahn-Tor
+00563,40,a pair of black leather sleeves,on arms,Wg5,AC-7,,,,,,,011010010011011000,Astyanax,Mahn-Tor
+00564,40,a pair of black minotaur greaves,on legs,Wg9,AC-9,,,,,,,001011110001000100,Aegithus,Mahn-Tor
+00570,40,a pair of minotaur combat gloves,on hands,Wg6,AC-8 HR+1 DR+1,,,,,,,011010010011011000,Aegithus,Mahn-Tor
+00574,40,a pair of wire rimmed spectacles,on head,Wg2,AC-1,,,,,,Int+4,001011110001000100,Haemon,Mahn-Tor
+00582,40,a spiked buckler,as shield,Wg5,AC-10 DR+2,,,,,,,001011110001000100,Xanthias,Mahn-Tor
+00583,40,a studded ring,on finger,Wg1,AC-5 DR+1,,,,,,,001011110001000100,Xanthias,Mahn-Tor
+00585,40,a suit of black minotaur chainmail,on body,Wg12,AC-15,,,,,,Str+1 Con+1,001011110001000100,Xanthias,Mahn-Tor
+00586,40,a suit of spiked garde armor,on body,Wg8,AC-7 DR+2,,,,,,,001011110001000100,Aegithus,Mahn-Tor
+00587,40,a thick marble bracelet,around wrist,Wg8,AC-4,,,,,,Con+1,001011110001000100,Thesus,Mahn-Tor
+00588,40,a thick marble ring,on finger,Wg5,AC-4,,,,,,,001011110001000100,Thesus,Mahn-Tor
+00598,40,boots of striding,on feet,Wg5,AC-5,,,,Mv+30,,,001011110001000100,Thesus,Mahn-Tor
+00604,40,the belt of life,about waist,Wg9,AC-8,,,,,,Con+3,011010010011011000,Balthazar,Mahn-Tor
+00607,40,the rod of weaponry,wielded,Wg24,DD5d5 HR+3 DR+3,,,,,,(bless),001011110001000100,Aegithus,Mahn-Tor
+00608,40,the shadow shield,as shield,Wg15,AC-15,,,,,,SPh-3,001010010101100010,Pythian,Mahn-Tor
+00610,40,Xanthias' Great Axe,wielded,Wg20,DD7d7 HR+3 DR+3,,,,,,(bless),011011110011011101,Xanthias,Mahn-Tor

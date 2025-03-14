@@ -1,0 +1,7 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00180,5,a very sharp knife,wielded,Wg9,DD8d1 HR+3,,,,,,Dex+2 (BStab),111111111111111111,Arachnos,Arachnos
+00278,18,a purple cloak,about body,Wg20,AC-10,,,MR+10,,,,111111111111111111,Yevaud,Arachnos
+00303,20,an iron scepter,as light,Wg10,,,,,,,,111111111111111111,the Queen Spider,Arachnos
+00476,35,a black night's visor,on head,Wg5,AC-8,,,,,,Str+1 Con+2,111110111011011101,Arachnos,Arachnos
+00490,35,pointiff's headress,on head,Wg5,AC-6,,,,Mn+13,,Wis+3,111111111111111111,Arachnos,Arachnos
+00494,35,a wizard's hat,on head,Wg5,AC-6,,,,Mn+17,,Int+3,111111111111111111,Arachnos,Arachnos

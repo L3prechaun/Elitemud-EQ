@@ -1,0 +1,28 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00026,1,a black silk robe,about body,Wg6,AC-1,,,,,,,111111111111111111,the mimic,Thalos
+00036,1,a deep red stone,held,Wg10,,,,,,,Arm-1,111111111111111111,the lamia,Thalos
+00037,1,a dusty rose stone,held,Wg10,,,,,,,Int+1,111111111111111111,the lamia,Thalos
+00055,1,a lavender and green stone,held,Wg10,,,,MR+15,,,,111111111111111111,the lamia,Thalos
+00071,1,a pair of iron boots,on feet,Wg6,AC-4 HR-1,,,,,,Dex-2,111111111111111111,East wing of the city hall (the glass cabinet),Thalos
+00072,1,a pair of iron gauntlets,on hands,Wg10,AC-7 HR-3 DR+1,,,,,,,111110111011011101,East wing of the city hall (the glass cabinet),Thalos
+00073,1,a pair of iron sleeves,on arms,Wg10,AC-7 HR-4 DR+2,,,,,,,111110111011011101,East wing of the city hall (the glass cabinet),Thalos
+00077,1,a pale blue stone,held,Wg10,,,,,,,Str+1,111111111111111111,the lamia,Thalos
+00078,1,a pale lavender stone,held,Wg10,,,,MR+10,,,,111111111111111111,the lamia,Thalos
+00080,1,a pearly white stone,held,Wg10,,,,,Hp+1,,,111111111111111111,the lamia,Thalos
+00082,1,a pink stone,held,Wg10,,,,,,,Con+1,111111111111111111,the lamia,Thalos
+00089,1,a scarlet and blue stone,held,Wg10,,,,,,,Int+1,111111111111111111,the lamia,Thalos
+00092,1,a set of iron greaves,on legs,Wg10,AC-7 HR-3,,,,,,Dex-3,111110111011011101,East wing of the city hall (the glass cabinet),Thalos
+00100,1,a sturdy iron shield,as shield,Wg5,AC-5,,,MR-2,,,SPh-2,111111111111111111,the mighty beholder,Thalos
+00119,1,an incandescent blue stone,held,Wg10,,,,,,,Wis+1,111111111111111111,the lamia,Thalos
+00120,1,an iron girth,about waist,Wg6,AC-4,,,,,,,111111111111111111,East wing of the city hall (the glass cabinet),Thalos
+00173,5,a serpentine wristguard,around wrist,Wg2,AC-2 HR+1 DR+1,,,,,,,111111111111111111,the mighty beholder,Thalos
+00200,9,a golden harp,held,Wg100,,,,,,,1xCall Lightning,111111111111111111,the lamia,Thalos
+00222,10,a pale green stone,held,Wg10,DR-5,,,,,,,111111111111111111,the lamia,Thalos
+00223,10,a pink and green stone,held,Wg10,HR-5,,,,,,,111111111111111111,the lamia,Thalos
+00227,10,a smooth quartz ball,as light,Wg30,,,,,,,,111111111111111111,the mimic,Thalos
+00246,14,a two-handed sword,wielded,Wg22,DD3d6 HR-3 DR+4,,,,,,,111000110010011101,the stone golem,Thalos
+00300,20,a vibrant purple stone,held,Wg10,,,,,Hp-50,,,111111111111111111,the lamia,Thalos
+00317,21,an irridescent stone,held,Wg10,,,,,Hp-100,,,111111111111111111,the lamia,Thalos
+00356,25,a silver flute,held,Wg3,,,,,,,2xCharm Person,111111111111111111,the lamia,Thalos
+00373,27,a dark green cloak,around neck,Wg12,AC-5,,,,Hp+8,,,111111111111111111,the mighty beholder,Thalos
+00528,40,a blood red stone,held,Wg2,,,,,Hp+20,,Arm-3,011010010011011000,the lamia,Thalos

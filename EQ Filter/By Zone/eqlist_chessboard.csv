@@ -1,0 +1,36 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00325,24,a black scabbard,about body,Wg5,,,,,,,Cap+20 Arm+4 AG,111111111111111111,a black pawn,Chessboard
+00328,24,a black tunic,about body,Wg10,AC-5,,,,Hp+20 Mv+20,,AG,111111111111111111,a black pawn,Chessboard
+00331,24,a white scabbard,about body,Wg5,,,,,,,Cap+20 Arm+4 AE,111111111111111111,a pawn of the white court,Chessboard
+00333,24,a white tunic,about body,Wg10,AC-5,,,,Hp+20 Mv+20,,AE,111111111111111111,a white pawn,Chessboard
+00369,27,a black helmet,on head,Wg10,AC-5,,,,,,AG,001100110001000100,a black knight,Chessboard
+00370,27,a black lance,wielded,Wg18,DD3d10 HR-1 DR+5,,,,,,AG,001000110001000100,a black knight,Chessboard
+00371,27,a black mace,wielded,Wg15,DD4d6 DR+4,,,,,,AG,111111111111111111,a black bishop,Chessboard
+00372,27,a black shield,as shield,Wg40,AC-5,,,,Hp+30,,Dex-1 AG,111111111111111111,a black knight,Chessboard
+00376,27,a white helmet,on head,Wg10,AC-5,,,,,,AE,001100110001000100,a white knight,Chessboard
+00377,27,a white mace,wielded,Wg15,DD4d6 DR+4,,,,,,AE,111111111111111111,a white bishop,Chessboard
+00378,27,a white shield,as shield,Wg40,AC-6,,,,Hp+30,,Dex-1 AE,111111111111111111,a white knight,Chessboard
+00379,27,an ebony bracelet,around wrist,Wg5,AC-1,,,,Hp+30 Mn+30,,AG,111111111111111111,a black bishop,Chessboard
+00380,27,an ivory bracelet,around wrist,Wg5,AC-1,,,,Hp+20 Mn+20,,Str+1 AE,111111111111111111,a white bishop,Chessboard
+00381,27,black arm plates,on arms,Wg20,AC-5,,,,,,AG,001100110001000100,a black knight,Chessboard
+00382,27,black boots,on feet,Wg20,AC-5,,,,Mv-5,,AG,001100110001000100,a black knight,Chessboard
+00383,27,black leg plates,on legs,Wg50,AC-5,,,,Mv-25,,Str+1 Dex-1 AG,001100110001000100,a black knight,Chessboard
+00384,27,black platemail,on body,Wg75,AC-13,,,,Mv-50,,Dex-2 AG,001100110001000100,a black knight,Chessboard
+00386,27,white arm plates,on arms,Wg20,AC-5,,,,,,AE,001100110001000100,a white knight,Chessboard
+00387,27,white leg plates,on legs,Wg50,AC-6,,,,Mv-25,,Str-1 Dex-1 AE,001100110001000100,a white knight,Chessboard
+00388,27,white platemail,on body,Wg75,AC-13,,,,Mv-50,,Dex-2 AE,001100110001000100,a white knight,Chessboard
+00389,28,a black halberd,wielded,Wg20,DD5d6 HR-2 DR+6,,,,,,AG,001000110001010100,a black rook,Chessboard
+00392,28,a white halberd,wielded,Wg20,DD5d6 HR-2 DR+6,,,,,,AE,001000110001010100,a white rook,Chessboard
+00393,28,black gauntlets,on hands,Wg20,AC-6 HR+1 DR+3,,,,,,Str+1 Dex-1 AG,011100111001010101,a black rook,Chessboard
+00395,28,white gauntlets,on hands,Wg10,AC-6 HR+1 DR+3,,,,,,Str+1 Dex-2 AE,011100111011010101,a white rook,Chessboard
+00419,30,a pearl necklace,around neck,Wg2,AC-6,,,,Mn+30,,Int+2 AE,111111111111111111,the white queen,Chessboard
+00420,30,a pearl ring,on finger,Wg1,AC-4 DR+2,,,MR+3,,,Str+1 AE,111111111111111111,the white queen,Chessboard
+00436,30,an onyx necklace,around neck,Wg2,AC-6,,,,Mn+30,,Int+2 AG,111111111111111111,the black queen,Chessboard
+00437,30,an onyx ring,on finger,Wg1,AC-4 DR+2,,,MR+3,,,Str+2 AG,111111111111111111,the black queen,Chessboard
+00451,32,a black staff,held,Wg15,,,,,,,5xMagic Missile AG,010111000100100010,the black king,Chessboard
+00454,32,a pearl crown,on head,Wg20,AC-6,,,MR+5,Mn+30,,AE,111111111111111111,the white king,Chessboard
+00457,32,a white staff,held,Wg15,,,,,,,5xRimefang AE,010111000100100010,the white king,Chessboard
+00458,32,an onyx crown,on head,Wg20,AC-6,,,MR+5,Mn+30,,Age+30 AG,111111111111111111,the black king,Chessboard
+00507,36,a rulebook,held,Wg5,,,,,,,Wis+2,111111111111111111,Hopper,Chessboard
+00511,36,an hourglass,held,Wg5,,,,,,,Int+2,111111111111111111,Hermes,Chessboard
+00589,40,a thinking cap,on head,Wg5,,,,,Mn+50,,Age+50 Int+2 Wis+2 AG,010111001100100010,Turing,Chessboard

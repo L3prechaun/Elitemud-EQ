@@ -1,0 +1,10 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00362,25,an elven cloak,about body,Wg10,AC-13,,,,,,AE,110111011110111111,The Attic of the Elven House (ground),Great Elven City of Illir
+00569,40,a pair of elven boots,on feet,Wg1,AC-10 HR+1,,,,Hp+25,,,111111111111111111,the Elven archer,Great Elven City of Illir
+00594,40,an elven bow,wielded,Wg12,DD8d8 HR+5 DR+5,,,,,,,000000000000010000,the Elven archer,Great Elven City of Illir
+00597,40,an well made elven chainmail,on body,Wg40,AC-15,,,,Hp+57 Mn+75,,,111111111111111111,the Elven archer,Great Elven City of Illir
+00606,40,the ring of Galadriel,on finger,Wg1,AC-12,,,,Mn+50,,Int+2 Wis+2 Cha+5,010111001100100010,Queen Galadriel,Great Elven City of Illir
+00668,50,a golden rudder,wielded,Wg15,DD10d7 HR+5 DR+8,,,,,,,000000010000000000,the elven steward,Great Elven City of Illir
+00685,50,a silver longsword,wielded,Wg10,DD6d5,,,,,,AE,001000111001000100,the elven guard,Great Elven City of Illir
+00780,60,the orb of Galadriel,as light,Wg2,,,,,,,Arm-10 (NoInf) AE,111111111111111111,Queen Galadriel,Great Elven City of Illir
+00826,70,the sword of goodness,wielded,Wg10,DD10d4,,,,,,(bless) AE,010000100001010100,"Celeborn, the King of the Elves",Great Elven City of Illir

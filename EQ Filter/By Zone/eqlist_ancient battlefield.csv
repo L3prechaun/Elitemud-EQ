@@ -1,0 +1,36 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00670,50,a jeweled dagger,wielded,Wg5,DD5d7 HR+5 DR+3,,,,,,Dex+2 (BStab) AE,110001010110101011,the Tomb Guardian,Ancient Battlefield
+00676,50,a piece of bone,held,Wg3,,,,,,,5xCharm Person,000111001101100010,the dracolich,Ancient Battlefield
+00677,50,a piece of bone,held,Wg3,,,,,,,5xEarthquake,000111001101100010,the dracolich,Ancient Battlefield
+00678,50,a piece of bone,held,Wg3,,,,,,,10xArea Strength,000111001101100010,the dracolich,Ancient Battlefield
+00679,50,a piece of bone,held,Wg3,,,,,,,5xArmor,000111001101100010,the dracolich,Ancient Battlefield
+00680,50,a piece of bone,held,Wg3,,,,,,,10xMagic Missile,000111001101100010,the dracolich,Ancient Battlefield
+00681,50,a piece of bone,held,Wg3,,,,,,5xBlindness,,000111001101100010,the dracolich,Ancient Battlefield
+00689,50,a torn cape,about body,Wg12,AC-13,,,,Mn+30,,+Hide AG,111111111111111111,the vampire,Ancient Battlefield
+00694,50,Chainmail of the Eternal One,on body,Wg75,AC-16,,,,Hp+45 Mn+45,,AE,001110101001010100,the Tomb Guardian,Ancient Battlefield
+00695,50,Egainon's Crown of compassion,on head,Wg15,AC-11,,,,Hp+50 Mn+50,,Cha+2 AE,011010101001010000,King El'Egainon,Ancient Battlefield
+00696,50,gloves of the titans,on hands,Wg5,AC-8 HR+2 DR+2,,,,,,,111111111111111111,the Tomb Guardian,Ancient Battlefield
+00697,50,Halberd of a Battlerager,wielded,Wg15,DD4d11 HR+10 DR+13,,,,,,(2Hand),001000100000010100,the Tomb Guardian,Ancient Battlefield
+00698,50,Heart of the brave,around neck,Wg6,AC-15,,,,Mn+35,,Cha+2,111111111111111111,the Tomb Guardian,Ancient Battlefield
+00701,50,the Banner of the Winds,as light,Wg7,,,,,Hp+20 Mn+20,,,011000110001000100,the Tomb Guardian,Ancient Battlefield
+00702,50,the Blade of light,wielded,Wg8,DD1d3 HR+5 DR+1,,,,,,(bless) (flaming) OG,001000100001010100,the Tomb Guardian,Ancient Battlefield
+00703,50,the Blade of night,wielded,Wg8,DD1d3 HR+5 DR+1,,,,,,(bless) (flaming) OG,001000100001010100,the Tomb Guardian,Ancient Battlefield
+00704,50,the Crown of roses,on head,Wg7,AC-11,,,,Mn+60,,Cha+3 AE,010110100001010000,the Tomb Guardian,Ancient Battlefield
+00706,50,the Phantom mirror,as shield,Wg16,AC-8 DR+1,,,,Mn+45,,,001111101101110111,the Tomb Guardian,Ancient Battlefield
+00708,50,Wardancer's blade,wielded,Wg8,DD4d12 HR+8 DR+3,,,,,,Dex+3 AE,011000010001000100,the Tomb Guardian,Ancient Battlefield
+00715,52,Signet ring of the Black Altar,on finger,Wg2,AC-10 HR+1,,,,Hp+10 Mn+10,,OE,001000100000000100,the Deathknight,Ancient Battlefield
+00720,54,Deceiver's helm,on head,Wg18,AC-12 HR+1,,,,Hp+15,,OE,001000100000000100,the Deathknight,Ancient Battlefield
+00723,55,a red embroidered cape,around neck,Wg18,AC-10,,,,Hp+25 Mn+25,,Cha+1,111111111111111111,the bard,Ancient Battlefield
+00726,55,Breastplate of atrocities,on body,Wg20,AC-19 HR+1 DR+1,,,,Hp+40,,OE,001000100000000100,Lord Gaheen,Ancient Battlefield
+00731,56,a pair of spiked armplates,on arms,Wg12,AC-10 HR+2,,,,,,OE,001000100000010100,Sir Wyneh,Ancient Battlefield
+00735,57,a pair of night black steel greaves,on legs,Wg14,AC-10 HR+1,,,,Hp+15,,OE,001000100000000100,Sir Wyneh,Ancient Battlefield
+00739,58,footplates of the Nightwanderer,on feet,Wg14,AC-10 DR+1,,,,Hp+15,,OE,001000100000000100,Lord Gaheen,Ancient Battlefield
+00740,59,dark gauntlets,on hands,Wg12,AC-8 DR+4,,,,Hp+15,,OE,001000100000000100,Lord Gaheen,Ancient Battlefield
+00756,60,a pure white robe,about body,Wg20,AC-10,,,,Hp+25 Mn+25,,Age+100 OG,000010001001000000,the high priest,Ancient Battlefield
+00765,60,a tonfa,wielded,Wg14,DD6d4 HR+3 DR+3,,,,,,Arm-10,000000001000000000,the monk,Ancient Battlefield
+00770,60,Reaper of the night,wielded,Wg15,DD4d10 HR+6 DR+3,,,,Mn+10,,(evil) OE,001000100000000100,Lord Gaheen,Ancient Battlefield
+00778,60,the Hammer of the Illuminator,wielded,Wg15,DD6d8 HR+7 DR+6,,,,,,2 AE,001110100001010100,the Tomb Guardian,Ancient Battlefield
+00808,69,Gauntlets of Necromancy,on hands,Wg8,AC-11 HR+3 DR+3,,,,Hp+1 Mn+1,,(NoRent) OE,000001000000100010,the Lord of Necromancy,Ancient Battlefield
+00849,75,the Moonshard staff,wielded,Wg15,DD6d6 HR+7 DR+5,,,,Mn+50,,OG,000001000000100010,the Tomb Guardian,Ancient Battlefield
+00865,78,the staff of benedictions,wielded,Wg15,DD10d4 HR+2 DR+2,,,MR+5,Mn+100,,OG,000110001000000000,the high priest,Ancient Battlefield
+00904,84,Sickle of the Ancients,held,Wg15,DD7d8 HR+3 DR+3,,,,Mn+200,,OE,000001000000100010,the necromancer,Ancient Battlefield

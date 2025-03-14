@@ -1,0 +1,10 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00218,10,a mind jewel,on finger,Wg1,AC-3,,,MR-1,Mn+10,,,000000000000100000,the novice,Psionicist School
+00334,24,platinum sash,about waist,Wg15,AC-14,,,,,,Int+2,000001000100100010,the apprentice,Psionicist School
+00424,30,a ring of triskelion,on finger,Wg5,AC-11 HR+2,,,,,,Int+1,111111111111111111,the novice,Psionicist School
+00432,30,a tooth,wielded,Wg6,DD5d4 HR+2 DR+4,,,,,,(BStab),111111111110111111,the Lhurgoif,Psionicist School
+00518,39,a robe of triskelion,about body,Wg3,AC-9,,,,Mn+50,,Int+1,010111001101100011,the apprentice,Psionicist School
+00629,45,a guard spear,wielded,Wg15,DD1d25 HR-2,,,MR+5,,,,111001110110111111,the guard,Psionicist School
+00768,60,diligaf's cane,wielded,Wg10,DD3d5,,,,Mv+100,,Dex+8,111111111111111111,the visiting mage,Psionicist School
+01032,100,a belt of triskelion,about waist,Wg10,AC-18,,,MR+10,Mn+50,,,010000000000100010,Creston,Psionicist School
+01049,100,a psionic whip,wielded,Wg15,DD6d12 HR+9 DR+6,,,,Mn+100,,,000000000000100000,Creston,Psionicist School

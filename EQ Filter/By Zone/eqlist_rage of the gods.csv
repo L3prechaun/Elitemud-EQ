@@ -1,0 +1,15 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00032,1,a burnt kebab,held,Wg1,,,,,,,SPo+8,111111111111111111,the ghost of Uncle Juan,Rage of the Gods
+00205,10,a bent longsword,wielded,Wg8,DD3d6,,,,,,,111111111111111111,a skeletal cityguard,Rage of the Gods
+00611,42,a dowsing rod,wielded,Wg10,DD6d6 HR+10 DR+10,,,,,,(bless) (2Hand) ON,011110111001010011,the ghost of Wally the Watermaster,Rage of the Gods
+00649,46,a blackened newspaper,wielded,Wg4,DD5d8 HR+4 DR+4,,,,,,,111111111111111111,the ghost of Rufus,Rage of the Gods
+00822,70,a vorpal blade,wielded,Wg8,DD7d6 HR+7 DR+8,,,,,,(bless) (BStab) AE,111000000010001000,a ghostly assassin,Rage of the Gods
+00859,77,a melted chainmail,on body,Wg52,AC-42 HR-1,,,,Mv-50,,Dex-2,001000100001000100,the armorer's ghost,Rage of the Gods
+00860,77,a ragged tuxedo,about body,Wg12,AC-15,,,,,,SMa+10 SPo+10 Cha+4 AN,111111111111111111,a ghostly tailor,Rage of the Gods
+00862,77,a stout cudgel,wielded,Wg8,DD7d9 HR+7 DR+8,,,,,,,111111111111111111,the weaponsmith's ghost,Rage of the Gods
+00864,78,a top hat,on head,Wg8,AC-15,,,MR+5,Hp+20,,AE,011101000100100010,a ghostly templar,Rage of the Gods
+00866,79,a tam'o'shanter,on head,Wg10,AC-18,,,,,,+Waterbreath AE,110000011010001000,the sailor's ghost,Rage of the Gods
+00867,79,scorched robes,about body,Wg20,AC-12,,,MR+8,,,SPh+8 SMe+8,010111001100100010,the ghost of a wizard,Rage of the Gods
+00900,82,a cracked shield,as shield,Wg35,AC-13 HR+1,,,,,,Con+6 +Detect Magic AE,000110101001000100,a ghostly templar,Rage of the Gods
+00902,84,a tricorn,on head,Wg31,AC-25,,,MR+10,Hp+100,,+Light,000000010000000000,the captain's ghost,Rage of the Gods
+01025,97,a monsterous ball of flame,wielded,Wg20,DD10d5 HR+10 DR+30,,,,Hp-100,,(flaming) (2Hand),010001000000100010,Dagga,Rage of the Gods

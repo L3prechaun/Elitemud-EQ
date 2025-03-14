@@ -1,0 +1,5 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00346,25,a Mystical loincloth,about waist,Wg30,AC-13,,,MR+5,Mn+25,,Str+1 Con+1,000011000000100010,Titania,Village of Faerise
+00405,30,a diamond rose,on head,Wg5,AC-12,,,,,,Wis+2 Cha+2,111111111111111111,Titania,Village of Faerise
+00438,30,Horn of the Unicorn,wielded,Wg3,DD4d6 HR+2 DR+3,,,,,,,000011000100100010,Oberon,Village of Faerise
+00442,30,Luminous Leggings,on legs,Wg10,AC-10 HR+1 DR+1,,,,,,Dex+1,100111001110100011,Oberon,Village of Faerise

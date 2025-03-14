@@ -1,0 +1,36 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00152,4,the shepherd's crook,wielded,Wg8,DD2d6 HR-1 DR+2,,,,,,,111111111111111111,the shepherd,Ultima
+00262,15,Katrina's sword,wielded,Wg11,DD2d9 DR+2,,,,,,AE,111001110111111111,Katrina the Shepherd,Ultima
+00298,20,a robe,about body,Wg5,AC-5,,,,Mn+20,,AE,000011000100100010,the mage,Ultima
+00345,25,a magic dagger,wielded,Wg7,DD4d5 HR+2 DR+3,,,,,,(BStab),111011110111111111,Nystul the Librarian,Ultima
+00394,28,Iolo's bow,wielded,Wg10,DD3d6 HR+2 DR+2,,,,,,Dex+2,111000110111111111,Iolo the Bard,Ultima
+00429,30,a stone club,wielded,Wg18,DD5d5,,,,,,,111111111111111111,the troll,Ultima
+00612,42,a gavel,held,Wg8,,,,,Mn+70,,Wis+2 ON,111111111111111111,the judge,Ultima
+00655,48,a quarterstaff,wielded,Wg12,DD3d14,,,,,,Int+2 Wis+3 AE,111111111111111111,Jaana the Druid,Ultima
+00713,52,a hammer,wielded,Wg10,DD3d14,,,,,,,111111111111111111,the tinker,Ultima
+00736,57,a sword,wielded,Wg16,DD3d15 HR+2 DR+4,,,,,,AE,111000110011011101,Geoffrey the Fighter,Ultima
+00771,60,shiny armour,on body,Wg120,AC-30,,,MR+12,Mv-60,,,000000000001000000,Paladin,Ultima
+00779,60,the holy avenger,wielded,Wg10,DD5d10 HR+10 DR+5,,,,,,AE,000000000001000000,Paladin,Ultima
+00782,64,the Amulet of Love,around neck,Wg1,AC-10,,,MR+10,,,SPo+10 AE,111111111111111111,the Lady of Empath Abbey,Ultima
+00800,67,a rusty shield,as shield,Wg22,AC-10 HR+3 DR+3,,,,,,OE,111111111111111111,the skeleton,Ultima
+00801,67,a rusty sword,wielded,Wg16,DD3d18,,,,,,OE,111000010010010100,the skeleton,Ultima
+00835,75,a rapier,wielded,Wg13,DD4d17 HR+5 DR+5,,,,,,AE,000000000001000000,Dupre the Paladin,Ultima
+00851,76,Sentri's armour,on body,Wg25,AC-45,,,,Hp+65 Mn+30,,OG,001000110001010100,Sentri,Ultima
+00852,76,Sentri's boots,on feet,Wg25,AC-10,,,,Mv+50,,OG,001000110001010100,Sentri,Ultima
+00853,76,Sentri's girth,about waist,Wg25,AC-10 HR+2 DR+2,,,,,,OG,001000110001010100,Sentri,Ultima
+00854,76,Sentri's gloves,on hands,Wg25,AC-10 HR+2 DR+2,,,,,,OG,001000110001010100,Sentri,Ultima
+00855,76,Sentri's helmet,on head,Wg25,AC-15,,,,,,OG,001000110001010100,Sentri,Ultima
+00856,76,Sentri's leggings,on legs,Wg25,AC-12,,,,,,Dex+2 OG,001000110001010100,Sentri,Ultima
+00857,76,Sentri's sleeves,on arms,Wg25,AC-19,,,,,,OG,001000110001010100,Sentri,Ultima
+00858,76,Sentri's two-handed sword,wielded,Wg18,DD5d15 DR+9,,,,,,OG,001000110001010100,Sentri,Ultima
+00899,81,a Fellowship medallion,around neck,Wg6,AC-15,,,,Mn+40,,OE,111111111111111111,Batlin,Ultima
+00901,84,a magic cloak,about body,Wg8,AC-15,,,,Mn+75,,AE,111111111111111111,Shamino the Ranger,Ultima
+00903,84,aura of power,on body,Wg1,,,,,Mn+168,,,010111001111110011,the Timelord,Ultima
+00931,90,a big red face,on head,Wg98,AC-18,,,,Mn+100,,OE,111111111111111111,the Guardian,Ultima
+00936,90,a completely black armour,on body,Wg188,AC-45,,,,Hp+100 Mv-50,,OE,011000000010011100,Exodus,Ultima
+00955,90,a spiked mace,wielded,Wg16,DD6d13 HR+3 DR+7,,,,,,OE,111110011010110101,Blacktorn,Ultima
+00962,90,an evil charm,around neck,Wg1,DR+1,,,,,,Arm-23 OE,111111111111111111,Minax,Ultima
+00970,90,British's amulet,around neck,Wg1,AC-20,,,MR+10,,,AE,001111101111110111,Lord British,Ultima
+00971,90,British's crown,on head,Wg10,AC-18,,,MR+5,Mn+100,,AE,001111101111110111,Lord British,Ultima
+00972,90,British's sceptre,wielded,Wg8,DD6d10 DR+8,,,,Mn+100,,AE,001111101111110111,Lord British,Ultima
+00988,90,the Glass Sword,wielded,Wg1,DD8d8 HR+10 DR+10,,,,,,OG,111001110111111111,the Avatar,Ultima

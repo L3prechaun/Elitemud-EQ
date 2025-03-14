@@ -1,0 +1,13 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00198,8,a yellow and green ring,on finger,Wg1,AC-8,,,,,,Con+1 AG,111111111111111111,the orc,Moria Mountains
+00221,10,a pair of swordman's gloves,on hands,Wg1,AC-2 HR+2 DR+2,,,,,,AG,111111111111111111,the Warrior,Moria Mountains
+00247,15,a black amulet,around neck,Wg2,AC-5,,,,,,Con+2 AG,111111111111111111,the Black Orc,Moria Mountains
+00274,18,a black chain mail,on body,Wg60,AC-8,,,,,,AG,111111111111111111,the Black Orc Leader,Moria Mountains
+00275,18,a black scimitar,wielded,Wg8,DD3d6 HR+2 DR+1,,,,,,AG,111000110010011101,the Black Orc Leader,Moria Mountains
+00276,18,a black shield,as shield,Wg4,AC-5,,,,,,AG,111111111111111111,the Black Orc Leader,Moria Mountains
+00285,20,a black breast plate,on body,Wg100,AC-15,,,MR+4,Hp+30,,AG,001000110000000100,the Black Orc Chief,Moria Mountains
+00309,20,the glowing eye medallion,around neck,Wg1,AC-15,,,,Hp+20,,Con+3 OE,111111111111111111,the Balrog,Moria Mountains
+00624,45,a flaming whip,wielded,Wg12,DD5d8 HR+4 DR+2,,,,,,AG,111001110111111111,the Balrog,Moria Mountains
+00666,50,a dwarven mithril plate,on body,Wg10,AC-22,,,,,,Str+3 Con+3,001000110001000100,The Tomb of the Dwarven king (ground),Moria Mountains
+00667,50,a dwarven two-handed mithril axe,wielded,Wg15,DD5d10 HR-3 DR+8,,,,,,,001000110001000100,The Tomb of the Dwarven king (ground),Moria Mountains
+00766,60,an old ring,on finger,Wg1,AC-15,,,,Mn+100,,,010111001101110011,Behind the Cabinet (a jar),Moria Mountains

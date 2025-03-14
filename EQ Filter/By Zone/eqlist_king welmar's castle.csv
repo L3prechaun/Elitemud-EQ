@@ -1,0 +1,8 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00103,1,a training sword,wielded,Wg7,DD1d4 HR-2,,,,,,,111111111111111111,Mick,King Welmar's Castle
+00761,60,a small wedding ring,on finger,Wg2,AC-10 HR+2,,,,Mn+40,,+Light,011111111111111111,"Peter, the Captain of the Royal guard",King Welmar's Castle
+00815,70,a guard's chainmail hauberk,on body,Wg80,AC-25,,,,,,,111111111111111111,"Peter, the Captain of the Royal guard",King Welmar's Castle
+00833,75,a large broadsword,wielded,Wg18,DD8d8 HR+5 DR+10,,,,,,,001000110001010000,"Peter, the Captain of the Royal guard",King Welmar's Castle
+00876,80,a golden apple,as light,Wg5,,,,,,,AE,111111111111111111,King Welmar,King Welmar's Castle
+00877,80,a golden crown,on head,Wg40,AC-25,,,,Hp+100 Mn+100,,AE,111011111011110011,King Welmar,King Welmar's Castle
+00878,80,a golden sceptre,wielded,Wg19,DD10d7 HR+6 DR+10,,,,,,AE,001000110001000000,King Welmar,King Welmar's Castle

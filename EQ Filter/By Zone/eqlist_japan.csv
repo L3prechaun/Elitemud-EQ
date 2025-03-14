@@ -1,0 +1,11 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00722,55,a red belt,about waist,Wg10,AC-18,,,,,,SPh+5,100000011000011000,a Monk,Japan
+00724,55,a Tetsubo,wielded,Wg19,DD6d7 HR+7 DR+7,,,,,,,111100110011011101,the Shikome,Japan
+00788,65,a ninja mask,on head,Wg2,AC-12,,,MR+15,,,Dex+2 AG,100000011010011000,the Ninja,Japan
+00804,68,a Ninja suit,about body,Wg15,AC-17,,,,,,AG,100000000010001000,the Ninja,Japan
+00805,68,a pair of tabi boots,on feet,Wg20,AC-10 HR+2,,,,Mv+80,,Dex+2 AG,111000011010011101,the Ninja,Japan
+00893,80,tekagi,on hands,Wg5,AC-2 DR+8,,,MR-35,,,AG,100000000000001000,the evil Daimyo,Japan
+00896,80,the tanto,wielded,Wg11,DD5d6 HR+4 DR+4,,,,,,(BStab) OE,100000000010001000,The secret store (ground),Japan
+00905,85,a black belt,about waist,Wg20,AC-21,,,,,,AG,100000000010000000,the Dai-Oni,Japan
+00985,90,the Dai-Katana,wielded,Wg18,DD8d8 HR+5 DR+10,,,,,,(evil) AG,101000111010011101,the Dai-Oni,Japan
+01076,100,the Emperor's new clothes,about body,Wg80,AC-20,,,MR+18,,,Dex+2 AE,111000110011011101,Emperor Nazaki,Japan

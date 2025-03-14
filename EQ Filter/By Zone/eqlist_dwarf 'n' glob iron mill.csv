@@ -1,0 +1,29 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00046,1,a heavy brush,wielded,Wg3,HR+2 DR-5,,,,Mv+20,,Age+10,111111111111111111,Dwarven iron mill janitor,Dwarf 'n' Glob Iron Mill
+00058,1,a long black stick,as light,Wg1,,,,,,,(NoInf),111111111111111111,"Up the Mountain, Down the Mine (ground)",Dwarf 'n' Glob Iron Mill
+00131,1,Lady J's jewel casket,held,Wg1,,,,,,,Cap+49,111111111111111111,Lady J's personal dresser,Dwarf 'n' Glob Iron Mill
+00132,1,mining pick,wielded,Wg9,DD2d3,,,,,,,111111111111111111,the dwarven mineworker,Dwarf 'n' Glob Iron Mill
+00148,4,a hammer,wielded,Wg13,DD2d6,,,,,,,111001110010011100,Hagbard the Helpless,Dwarf 'n' Glob Iron Mill
+00178,5,a teensy weensy bikini,on body,Wg1,AC-1,,,MR+5,,,Dex+1 Cha+6,111111111111111111,Veerle gnome,Dwarf 'n' Glob Iron Mill
+00182,5,mining helmet,on head,Wg4,AC-4,,,,,,,111111111111111111,the dwarven mineworker,Dwarf 'n' Glob Iron Mill
+00211,10,a dwarven wedding ring,on finger,Wg1,AC-2 HR+1 DR+1,,,,,,,111111111111111111,Queen Gwandolyn the Dragonslayer,Dwarf 'n' Glob Iron Mill
+00215,10,a jar of yak horn polish,held,Wg1,,,,,,3xRegeneration,,111111111111111111,the yakherder,Dwarf 'n' Glob Iron Mill
+00230,10,a yakherder hat,on head,Wg1,AC-8,,,,Mn+15,,Age+15,111111111111111111,the yakherder,Dwarf 'n' Glob Iron Mill
+00261,15,gnomish adventuring vest,on body,Wg1,AC-8,,,,,,,111111111111111111,the explorer,Dwarf 'n' Glob Iron Mill
+00264,15,Stanley's Stompin' Boots,on feet,Wg1,AC-7,,,,,,Str+2,111111111111111111,Stanley,Dwarf 'n' Glob Iron Mill
+00283,19,a golf club,wielded,Wg12,,,,,,,Cha+3,111111111111111111,Gretchen,Dwarf 'n' Glob Iron Mill
+00304,20,King Kwathoum's golden sceptre,wielded,Wg1,DD3d5 HR+2 DR+3,,,,,,,111111111111111111,King Kwathoum,Dwarf 'n' Glob Iron Mill
+00363,25,Hagbard's Helmet,on head,Wg1,AC-10,,,,,,Str+2 Int-1,111111111111111111,Hagbard the Helpless,Dwarf 'n' Glob Iron Mill
+00997,90,two giant shoulder pads,about body,Wg68,AC-14,,,,Mv-25,,Dex-2,111111111111111111,a giant,Dwarf 'n' Glob Iron Mill
+01004,95,a heavy helm,on head,Wg66,AC-30,,,,Hp+40 Mv-40,,+Detect Alignment AG,001000100001000000,the Master Smithy,Dwarf 'n' Glob Iron Mill
+01005,95,a heavy shield,as shield,Wg57,AC-15,,,,Hp+50 Mv-40,,AG,001100100001000000,the Master Smithy,Dwarf 'n' Glob Iron Mill
+01010,95,a pair of heavy boots,on feet,Wg100,AC-12 DR+2,,,,Hp+25 Mv-60,,Dex-4 AG,001000100001000000,the Master Smithy,Dwarf 'n' Glob Iron Mill
+01011,95,a pair of heavy leg irons,on legs,Wg80,AC-15,,,,Hp+40 Mv-80,,Str+1 Con+3 AG,001000100001000000,the Master Smithy,Dwarf 'n' Glob Iron Mill
+01014,95,a shimmering shield of air,as shield,Wg0,AC-8,,,,Mn+40,,,011101110001010000,an air elemental Ruler,Dwarf 'n' Glob Iron Mill
+01016,95,a standard dwarven full plate,on body,Wg190,AC-40 HR+3,,,,Mv-150,,Hg-75 AE,001000100001000100,the Blacksmith Shopkeeper (shop),Dwarf 'n' Glob Iron Mill
+01024,95,the Bonker's massive forearms,wielded,Wg37,DD8d7 HR+23 DR+7,,,,Mv+80,,Str+2 +Infra (2Hand) OE,110000010000011100,the Bonker,Dwarf 'n' Glob Iron Mill
+01035,100,a crude pike helm,on head,Wg12,AC-12 DR+2,,,,Mv-50,,Int-3 Dex-2,011110110001010101,Mill Stair Guard,Dwarf 'n' Glob Iron Mill
+01045,100,a pair of crude metal boots,on feet,Wg22,AC-12 HR-2 DR+2,,,,Mv-50,,Cha-4 OE,011000100001000100,Mill Stair Guard,Dwarf 'n' Glob Iron Mill
+01085,102,the Bonker's armwraps of war,on arms,Wg68,AC-15 HR+2 DR+2,,,,,,Str+3 Con+1 OG,010111111010100101,the Bonker,Dwarf 'n' Glob Iron Mill
+01095,105,a Tubular Bell Banger,wielded,Wg23,DD8d7 HR+12 DR+10,,,MR+8,Mv+30,,(bless) (flaming) OG,010000000000000000,the Master Smithy,Dwarf 'n' Glob Iron Mill
+01097,105,an axe called 'Deliverer of Insight',wielded,Wg29,DD8d8 HR+12 DR+7,,,,Mv+50,,(evil) OE,010000110001010000,the Master Smithy,Dwarf 'n' Glob Iron Mill

@@ -1,0 +1,90 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00031,1,a bunch of violets,held,Wg2,AC-3,,,,,,Arm+3,111111111111111111,Violet,Tynstri
+00034,1,a cluster of tiny sweet-smelling flowers,around wrist,Wg1,AC-2,,,,,,,111111111111111111,Flora (shop),Tynstri
+00035,1,a dark green eyeshade,on head,Wg1,AC-5,,,MR+8,,,SPh+8,111111111111111111,Elmer (shop),Tynstri
+00075,1,a pair of purple socks,on feet,Wg4,AC-3,,,,,,Dex+2,111111111111111111,Annie's under-the-bed monster,Tynstri
+00076,1,a pair of tight black leggings,on legs,Wg1,AC-5,,,,,,Dex+1,111111111111111111,the travelling saleself,Tynstri
+00087,1,a satchel,held,Wg8,,,,,,,Cap+112,111111111111111111,Rose (shop),Tynstri
+00102,1,a thumbscrew,on finger,Wg1,,,,,,,Str-2 Con-2 Cha-2,111001110011111111,Brother John,Tynstri
+00107,1,a very studly leather vest,on body,Wg3,AC-6,,,,,,Con+1,111111111111111111,the studly dragon,Tynstri
+00111,1,a whisper light green gown,on body,Wg1,AC-3,,,,,,SPh+5 Int+2 Cha+2 AE,110111001110101011,the dryad,Tynstri
+00112,1,a white leather pants,on legs,Wg3,AC-6,,,,,,,111111111111111111,the gateguard,Tynstri
+00113,1,a white tunic embellished with gold braid,on body,Wg3,AC-7,,,,,,,111111111111111111,the gateguard,Tynstri
+00116,1,a wristlet of many colors,around wrist,Wg1,AC-1,,,,,,Con+1,111111111111111111,Jemara,Tynstri
+00123,1,Anastasia,as shield,Wg3,AC-3,,,,,,Cha+2,111111111111111111,Annie's under-the-bed monster,Tynstri
+00124,1,boots with very sharp high heels,on feet,Wg4,AC-3 DR+1,,,,,,Dex-1,111111111111111111,Jemara,Tynstri
+00125,1,bottled essence of glowworm,as light,Wg5,,,,,,,,111111111111111111,Seymour (shop),Tynstri
+00134,1,Sunshine's slippers,on feet,Wg2,AC-3 HR+1,,,,,,AE,111111111111111111,Sunshine,Tynstri
+00153,5,a banana yellow bandana,on head,Wg1,AC-3,,,MR+2,,,,111111111111111111,the elven woman,Tynstri
+00155,5,a black bandana,on head,Wg1,AC-3,,,,,,,111111111111111111,the shadow,Tynstri
+00161,5,a bright blue bandana,on head,Wg1,AC-3,,,,,,,111111111111111111,Sneaker,Tynstri
+00162,5,a clean white bandana,on head,Wg1,AC-5,,,,,,OG,111111111111111111,Brother John,Tynstri
+00164,5,a feather,held,Wg1,,,,,,,8xFly,111111111111111111,Elmer (shop),Tynstri
+00165,5,a forest green bandana,on head,Wg1,AC-3,,,,,,,111111111111111111,the wild-eyed elf,Tynstri
+00166,5,a glowing orange bandana,on head,Wg1,AC-3,,,,,,,111111111111111111,Tweaker,Tynstri
+00168,5,a hot pink bandana,on head,Wg1,AC-3,,,,,,,111111111111111111,the punk bunny,Tynstri
+00171,5,a pearl studded collar,around neck,Wg3,AC-5,,,,,,Int+1 Wis+1,111111111111111111,Bluecat,Tynstri
+00177,5,a strip of willow bark,held,Wg4,,,,,,,5xCure Light,111111111111111111,Climbing a tree (ground),Tynstri
+00186,6,a sturdy pair of overalls,on body,Wg10,AC-7 HR+1,,,,,,Wis+1,111111111111111111,Elmer (shop),Tynstri
+00189,6,a very long black leather skirt,on legs,Wg3,HR+1,,,,,,Arm-7 Wis+1 Cha+1 4xCharm Person,110111001110101011,Lisette,Tynstri
+00190,6,highly polished white boots,on feet,Wg4,AC-6,,,,,,AE,111111111111111111,the gateguard,Tynstri
+00210,10,a deadly dagger,wielded,Wg5,DD4d3 HR+1 DR+3,,,,,,(evil) (BStab) AG,111001110110111111,the shadow,Tynstri
+00217,10,a massive celt axe,wielded,Wg14,DD4d5 HR+2 DR+2,,,,,,Dex-1,111111111111111111,Jemara,Tynstri
+00234,12,a pair of soft black deerskin boots,on feet,Wg1,AC-4,,,,Hp+10,,,111111111111111111,the elven woman,Tynstri
+00238,12,tough scaly leggings,on legs,Wg7,AC-12,,,,Hp+20,,,001000000000000000,the lizardman,Tynstri
+00259,15,a studly dragon tattoo,on arms,Wg1,AC-5,,,,Mn+25,,,111111111111111111,the studly dragon,Tynstri
+00294,20,a linen shirt the color of ripe peaches,on body,Wg2,AC-10,,,,Hp+25 Mn+25,,,111111111111111111,the forest dwelling elf,Tynstri
+00299,20,a robe woven of butterfly wings,about body,Wg1,AC-10,,,MR+10,Mv+25,,Cha+2 AE,111111111111111111,the dryad,Tynstri
+00305,20,soft pale grey suede pants,on legs,Wg1,AC-2 DR+1,,,,,,,111111111111111111,the forest dwelling elf,Tynstri
+00307,20,tall sharkskin boots,on feet,Wg1,AC-8,,,,,,,111111111111111111,the sturdy elf,Tynstri
+00318,22,a pair of jackrabbit's shoes,on feet,Wg4,AC-7,,,,Mv+20,,,111111111111111111,the jackrabbit,Tynstri
+00329,24,a pair of runed bracers,around wrist,Wg2,AC-8,,,,,,,111111111111111111,ScreaMEr,Tynstri
+00341,25,a forest green trousers,on legs,Wg5,AC-8,,,,,,AE,011111011101110011,the sturdy elf,Tynstri
+00359,25,a vine-embellished shirt,on body,Wg2,AC-15,,,MR+3,,,Dex+1 Cha+1,111110111111110111,the sturdy elf,Tynstri
+00385,27,Bubba's slighty tattered overalls,on body,Wg45,AC-4 HR+1,,,,Mn+25,,Cap+5,111111111111111111,Bubba,Tynstri
+00397,30,a bright blue bandana,on head,Wg1,AC-12,,,,,,Str+2 Int-1,001000110001010100,the runner,Tynstri
+00403,30,a deep crimson linen tunic and hauberk,on body,Wg10,AC-13 HR+1,,,,Mn+25,,AE,111111111111111111,the sturdy elf,Tynstri
+00430,30,a tasteless tunic,on body,Wg3,AC-15 DR+1,,,,,,,011001010110111111,a travelling saleself,Tynstri
+00443,30,rainbow striped leggings,on legs,Wg4,AC-3,,,,Hp+40,,,111111111111111111,Jemara,Tynstri
+00497,35,Chastity's belt,about waist,Wg8,AC-15,,,,Mn+25,,Str+2 Int+2,010111001101110011,Chastity,Tynstri
+00499,35,sapphire-eyed sssilver ssnake,on arms,Wg5,AC-10 HR+1,,,,Mn+25,,AG,000001000000100010,AudreyII,Tynstri
+00615,43,a bracelet of deadly nightshade,around wrist,Wg1,AC-12,,,,Hp+50,,,111111111111111111,the strawberry blond wood nymph,Tynstri
+00626,45,a floppy-brimmed sunhat,on head,Wg2,AC-10,,,,Hp+25,,SPh+5 AE,010011001000100010,Rose (shop),Tynstri
+00634,45,a shadow robes,about body,Wg10,AC-15,,,,Hp+20,,,100000000010001000,the shadowy elf,Tynstri
+00648,45,white linen loincloth,about waist,Wg5,AC-15,,,,,,Str+1 Con+2 AE,111111111111111111,the runner,Tynstri
+00660,50,a circle of tiny flowers,on head,Wg1,AC-10,,,,Hp+25 Mn+75,,AE,010011001000100010,the dryad,Tynstri
+00692,50,an ancient elven ring,on finger,Wg1,AC-15,,,,Hp+50,,Wis+1,111111111111111111,the ancient elf,Tynstri
+00693,50,an elven healer's pouch,about waist,Wg5,,,,,,,Cap+165 Arm-10,001111011011010001,Brother Russ,Tynstri
+00741,59,graceful golden robes,about body,Wg3,AC-10,,,,Mn+100,,Int+1 AE,000011000000100000,the dryad,Tynstri
+00764,60,a sturdy oaken staff,wielded,Wg15,DD7d8 HR+4 DR+10,,,,Hp+50 Mn+50,,,000010000000000000,the ancient elf,Tynstri
+00813,70,a fire opal ring,on finger,Wg1,AC-15 HR+2,,,,Mn+80,,SPh+10 AG,111111111111111111,the firedragon,Tynstri
+00838,75,a starched white apron,about waist,Wg2,AC-14,,,,Hp+25 Mn+25,,SPh+25,111111111111111111,the magnificent chef,Tynstri
+00840,75,Chef's knife,wielded,Wg5,DD7d7 HR+7 DR+7,,,,,,(BStab),111001110111111111,the magnificent chef,Tynstri
+00861,77,a ruby scale,as shield,Wg15,AC-15,,,,Mn+25,,,111111111111111111,the ruby dragon,Tynstri
+00874,80,a fatal charm,held,Wg10,,,,,,,5xCharm Person,000001000000100010,the gentle dragon,Tynstri
+00890,80,an emerald scale armplates,on arms,Wg20,AC-15 HR+2 DR+2,,,,Hp+75,,OE,001000100000010100,the emerald dragon,Tynstri
+00897,80,tough dragonskin boots,on feet,Wg5,AC-10,,,,Mn+50,,Dex+3,000010000000010000,the Master Ranger,Tynstri
+00906,85,a Crystal Trident,wielded,Wg15,DD8d6 HR+10 DR+6,,,,,,(evil) (BStab) OE,111111111111111111,the crystal dragon,Tynstri
+00908,85,a druid's sharp sickle,wielded,Wg15,DD7d9 HR+5 DR+12,,,,,,(bless) AE,000010000000000000,Brother John,Tynstri
+00910,85,a glowing topaz bracelet,around wrist,Wg2,AC-15 HR+1 DR+1,,,,Hp+15,,,111111111111111111,the topaz dragon,Tynstri
+00922,85,some glowing leg plates,on legs,Wg15,AC-12,,,,Mn+50,,OE,111111111111111111,the small aquamarine dragon,Tynstri
+00927,86,a shiny white cloak,about body,Wg10,AC-15,,,,Hp+25 Mn+25,,AE,111111111111111111,the large white dragon,Tynstri
+00928,87,a deep purple belt,about waist,Wg5,AC-1 HR-1 DR+3,,,,,,AG,111111111111111111,the purple dragon,Tynstri
+00929,88,an amethyst ankle bracelet,on feet,Wg1,AC-2 HR+1 DR+5,,,MR-25,,,AG,111111111111111111,the amethyst dragon,Tynstri
+00930,88,the Heart of Hawthorn Staff,held,Wg15,,,,,Hp+150,,15xHeal,000011001001100010,Tamric,Tynstri
+00940,90,a floor-length robe of midnight-blue velvet,on body,Wg5,AC-33,,,,Hp+50 Mn+50,,AE,010111001101100011,the dryad,Tynstri
+00943,90,a long shimmering icicle,held,Wg5,DD4d3 HR+6 DR+18,,,,,,AG,111111111111111111,the ice dragon,Tynstri
+00946,90,a pair of leggings of elvenkind,on legs,Wg15,AC-10,,,,Mn+30,,AE,000010000000010000,the Master Ranger,Tynstri
+00964,90,an ornate gold ring,on finger,Wg1,AC-30,,,,Mn+75,,,000000000000100000,the bright gold dragon,Tynstri
+00982,90,the Cap'n's shield,as shield,Wg15,AC-6 HR+2,,,MR+5,Mv+60,,AE,001000100001000100,the Master Ranger,Tynstri
+00987,90,the Girth of the Forests,about waist,Wg10,AC-12,,,,Hp+100,,ON,000010000000010000,the Master Ranger,Tynstri
+00990,90,the Great Hunting Bow,wielded,Wg10,DD9d7 HR+17 DR+26,,,MR+10,,,(bless) (2Hand) ON,000000000000010000,the Master Ranger,Tynstri
+00991,90,the Master Ranger's hunting knife,wielded,Wg8,DD6d9 HR+10 DR+8,,,,,,(BStab) AE,111001110111111111,the Master Ranger,Tynstri
+01000,95,a cloak of shadows,around neck,Wg2,AC-20 HR+1 DR+1,,,,Hp+100,,OE,111111011110111111,the shadow dragon,Tynstri
+01043,100,a magical ball of wildfire,as light,Wg14,HR+2,,,,Mn+80,,,111111111111111111,the Master Ranger,Tynstri
+01056,100,a wand of sudden death,held,Wg10,,,,,,,2xTerrorweave AG,000001000100100010,the gentle dragon,Tynstri
+01063,100,black velvet slippers with long pointy toes,on feet,Wg5,AC-10,,,,,,,010111001100100010,Henrietta Hennapy,Tynstri
+01069,100,finely made mithril chainmail,on body,Wg50,AC-50,,,,Hp+25 Mv+100,,AE,000010000000010000,the Master Ranger,Tynstri
+01077,100,the golden unicorn's horn,wielded,Wg15,DD14d3 HR+12 DR+12,,,,,,(BStab) AE,111001110111111111,the unicorn,Tynstri
+01089,105,a gentle death,held,Wg10,,,,,,,10xSleep,000001000000100010,the gentle dragon,Tynstri
+01101,105,Henrietta's favorite dress,on body,Wg5,AC-45,,,,Hp+75 Mn+150,,AE,010111001101110011,Henrietta Hennapy,Tynstri

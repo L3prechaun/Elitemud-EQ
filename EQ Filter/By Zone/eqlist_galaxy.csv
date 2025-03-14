@@ -1,0 +1,22 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00773,60,the Ancient Vessel of Aquarius,held,Wg12,,,,,,,Wis+2 10xArea Mystic Shield AE,111111111111111111,Aquarius,Galaxy
+00776,60,the Crystal Bracelet of Virgo,around wrist,Wg4,AC-10,,,,Mn+50,,Cha+2 AE,111111111111111111,Virgo,Galaxy
+00795,65,the Golden Fleece,around neck,Wg15,AC-12,,,,Hp+60,,AE,111111111111111111,Aries,Galaxy
+00796,65,the Horns of Capricorn,on hands,Wg6,AC-10 HR+3 DR+4,,,,,,AE,111111111111111111,Capricorn,Galaxy
+00798,65,the Shell of Cancer,on body,Wg75,AC-30,,,,,,AE,111111111111111111,Cancer,Galaxy
+00802,67,Orion's Hunting Belt,about waist,Wg7,AC-10 HR+2,,,,,,Con+2 AE,111111111111111111,Orion the Hunter,Galaxy
+00806,68,the Sting of Scorpio,wielded,Wg9,DD6d7 HR+7 DR+7,,,,,,(BStab) AE,111111111111111111,Scorpio,Galaxy
+00807,68,the Tail of Pisces,on legs,Wg10,AC-10 HR+1 DR+1,,,,,,AE,111111111111111111,Pisces the mermaid,Galaxy
+00824,70,the Arrow of Saggitarius,held,Wg0,HR+12,,,,,,,111111111111111111,Saggitarius,Galaxy
+00825,70,the Bow of Saggitarius,wielded,Wg20,DD7d8 HR+6 DR+6,,,,,,AE,111111111111111111,Saggitarius,Galaxy
+00827,71,the Hoof of Taurus,on feet,Wg15,AC-10 DR+3,,,,Mv+100,,AE,111111111111111111,Taurus,Galaxy
+00829,72,a Nemean Lion Skin,about body,Wg45,AC-15,,,,Hp+50,,AE,111111111111111111,Leo,Galaxy
+00831,73,the Mighty Arm plates of Hercules,on arms,Wg20,AC-10 DR+3,,,,,,Str+5 AE,111111111111111111,the mighty Hercules,Galaxy
+00844,75,Libra's Scale of Injustice,as shield,Wg15,AC-6 HR+2 DR+2,,,,,,Wis-2 AG,111111111111111111,Libra,Galaxy
+00845,75,Libra's Scale of Justice,as shield,Wg15,AC-11,,,,Hp+50 Mn+50,,Wis+1 AE,111111111111111111,Libra,Galaxy
+00848,75,the Mask of Gemini,on head,Wg7,AC-16,,,,,,AE,111111111111111111,Gemini,Galaxy
+00894,80,the Ring of Dignity,on finger,Wg3,AC-15,,,,Hp+85,,AE,111111111111111111,Cassiopeia the Queen,Galaxy
+00926,85,the ugly skull of Draco,held,Wg20,,,,,,Blindness,10xArea,111111111111111111,the Head of Draco,Galaxy
+00989,90,the Great Dipper of the Skies,wielded,Wg16,DD6d12 HR+10 DR+5,,,,,,(bless),000010001001000000,"Polaris, the polar star",Galaxy
+00994,90,the ring of the universe,on finger,Wg3,AC-30,,,,,,,111111111111111111,"Polaris, the polar star",Galaxy
+00995,90,the Sceptre of Might,as light,Wg4,HR+4 DR+4,,,,,,(NoInf) AE,111111111111111111,Cepheus the King,Galaxy

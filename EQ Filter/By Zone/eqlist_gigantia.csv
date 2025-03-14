@@ -1,0 +1,14 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00560,40,a necklace of accuracy,around neck,Wg2,AC-10 HR+2,,,,,,,111111111111111111,Jonas the Dungeon Keeper,Gigantia
+00579,40,a runic scepter,as light,Wg3,HR+2 DR+2,,,,,,(NoInf),111111111111101111,Bob the Mad Alchemist,Gigantia
+00600,40,crown of magic,on head,Wg10,AC-10,,,,Mn+50,,,000111001101100010,Bob the Mad Alchemist,Gigantia
+00603,40,rod of security,held,Wg3,,,,,,10xSanctuary,,111111111111111111,Atrolicus master giant,Gigantia
+00632,45,a necklace of power,around neck,Wg2,AC-10 DR+2,,,,,,AE,111111111111111111,Jonas the Dungeon Keeper,Gigantia
+00643,45,gauntlets of ogre power,on arms,Wg5,AC-8 HR+1 DR+1,,,,,,,111000110011011101,the mountain giant commander,Gigantia
+00687,50,a stone ring,on finger,Wg2,AC-10 HR+2 DR+1,,,,,,,111111011111111111,the stone giant commander,Gigantia
+00700,50,north star shield,as shield,Wg1,AC-10,,,,Mn+25 Mv+25,,,001100110001010110,Atrolicus master giant,Gigantia
+00712,52,a girdle of storm giant strength,about waist,Wg10,AC-15,,,,Hp+30,,Str+4,111111111111111111,the storm giant commander,Gigantia
+00727,55,robes of stars,about body,Wg5,AC-12 HR+1 DR+1,,,,,,,111111111111111111,Pool Cavern (treasure chest),Gigantia
+00728,55,sword of the planes,wielded,Wg8,DD4d13 HR+6 DR+6,,,,,,,001000100000000100,the cloud giant commander,Gigantia
+00767,60,boots of the north,on feet,Wg4,AC-10 HR+2 DR+1,,,,,,SMe+10,111111111111111111,the frost giant commander,Gigantia
+00784,65,a bracer of defense,around wrist,Wg3,AC-12 HR+1 DR+1,,,,,,,111111111111111111,the cloud giant commander,Gigantia

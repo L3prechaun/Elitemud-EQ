@@ -1,0 +1,35 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00863,77,a thick black robe,on body,Wg4,AC-35,,,,,,,000001000100100010,"Selvius, Grand Wizard of the blood watch",Small Temple
+00882,80,a masterwork broad sword,wielded,Wg12,DD8d8 HR+8 DR+11,,,,,,,011000110001010000,"Malpheus, the mouth of Orcus",Small Temple
+00888,80,an ancient regalia,about body,Wg1,AC-17,,,MR+5,Hp+15,,,111000110011011101,Soldack,Small Temple
+00889,80,an emerald ring,on finger,Wg4,AC-15 HR+3 DR+3,,,,,,,111111111111111111,Soldack,Small Temple
+00898,80,Wizardly fighting robes robe,on body,Wg5,AC-40,,,,,,,000001000100000010,Magus of the blood watch,Small Temple
+00909,85,a glowing golden chainmail,on body,Wg90,AC-45 HR+3 DR+3,,,,,,AE,111111111111111111,a projection of the Avatar,Small Temple
+00913,85,a pair of shiny bracers,around wrist,Wg5,AC-15 HR+3,,,,,,AE,111111111111111111,a projection of the Avatar,Small Temple
+00919,85,a wizards fighting stave,wielded,Wg8,DD7d8 HR+13 DR+20,,,,,,(2Hand),000001000100000010,Magus of the blood watch,Small Temple
+00920,85,an adamantite breastplate,on body,Wg140,AC-50,,,,,,AN,111111111111111111,"Grummash, the eyes of Orcus",Small Temple
+00921,85,priestly robes,about body,Wg2,AC-15,,,,Hp+15,,,111111111111111111,a priest of Orcus,Small Temple
+00923,85,the avatars glowing spear,wielded,Wg16,DD6d10 HR+6 DR+15,,,,,,AE,111111111111111111,a projection of the Avatar,Small Temple
+00924,85,the holy hammer,wielded,Wg20,DD7d10 HR+4 DR+15,,,MR+10,,,AE,001110101001000000,a projection of the Avatar,Small Temple
+00934,90,a bloodstained darksteel helm,on head,Wg6,AC-30,,,MR-10,Mn+70,,OE,001000100001000000,"Eandros, the fallen paladin",Small Temple
+00935,90,a bloodstained mithril breastplate,on body,Wg60,AC-49 HR+2,,,MR-15,Mv-38,,Cha-1 OE,001000100001000000,"Eandros, the fallen paladin",Small Temple
+00950,90,a shiny golden breastplate,on body,Wg140,AC-50,,,,Hp+80,,AE,001000100001000000,a paladin of Eilel,Small Temple
+00951,90,a shiny golden helm,on head,Wg30,AC-30,,,,Hp+100,,AE,001000100001000000,a paladin of Eilel,Small Temple
+00965,90,black adamantite bracers,around wrist,Wg12,AC-8 HR+4,,,,,,Cha+3,000000000010000000,"Zindrake, Master of the blood watch",Small Temple
+00966,90,bloodstained darksteel footplates,on feet,Wg5,AC-15,,,MR-5,Hp+20 Mv-50,,OE,001000100001000000,"Eandros, the fallen paladin",Small Temple
+00967,90,bloodstained darksteel legplates,on legs,Wg30,AC-16 HR+1,,,MR-10,,,OE,001000100001000000,"Eandros, the fallen paladin",Small Temple
+00968,90,bloodstained dragonscale shoulder plates,on arms,Wg7,AC-20,,,MR-10,,,OE,001000100001000000,"Eandros, the fallen paladin",Small Temple
+00969,90,bloodstained mithril gauntlets,on hands,Wg8,AC-15 HR+5 DR+5,,,MR-10,,,OE,001000100001000000,"Eandros, the fallen paladin",Small Temple
+00975,90,loose white training pants,on legs,Wg20,AC-8 HR+2,,,,Mv+50,,,000000000010000000,"Zindrake, Master of the blood watch",Small Temple
+00977,90,shiny golden armplates,on arms,Wg40,AC-20,,,,,,AE,001000100001000000,a paladin of Eilel,Small Temple
+00978,90,shiny golden footplates,on feet,Wg20,AC-15,,,,Mv-50,,AE,001000100001000000,a palaidn of Eilel,Small Temple
+00979,90,shiny golden gauntlets,on hands,Wg30,AC-12 HR+5 DR+5,,,,,,AE,001000100001000000,a paladin of Eilel,Small Temple
+00980,90,shiny golden leg plates,on legs,Wg30,AC-20,,,,Mv-50,,AE,001000100001000000,a paladin of Eilel,Small Temple
+00999,95,a book or arcane ponderings,as light,Wg5,,,,,Hp+75 Mn+75,,Int+5 Wis+5 (NoInf),000111001100100010,"Selvius, Grand Wizard of the blood watch",Small Temple
+01002,95,a fingerbone necklace,around neck,Wg2,AC-12,,,MR+12,,,AG,111000110010011101,the spirit of Prince Orcus,Small Temple
+01036,100,a darkling dagger,wielded,Wg9,DD7d8 HR+12 DR+11,,,,,,(evil),000001000100100010,"Selvius, Grand Wizard of the blood watch",Small Temple
+01052,100,a soul gem,as light,Wg0,HR+2 DR+2,,,,,,AG,110111011110101011,the spirit of Prince Orcus,Small Temple
+01084,102,staff of the high seer,wielded,Wg4,DD7d8 HR+9 DR+9,,,,Mn+100,,(evil) AG,000111001101100010,"Grummash, the eyes of Orcus",Small Temple
+01088,105,a circlet of power,on head,Wg2,AC-25 HR+2 DR-2,,,,,,,111011111011110011,Kendasis,Small Temple
+01106,105,the black robes of archmagi,about body,Wg1,AC-15,,,MR+15,Hp+30,,Sph+15 OE,000001000100000010,Kendasis,Small Temple
+01112,105,the rod of Orcus,wielded,Wg10,DD8d8 HR+13 DR+7,,,,,,AG,111111111111111111,the spirit of Prince Orcus,Small Temple

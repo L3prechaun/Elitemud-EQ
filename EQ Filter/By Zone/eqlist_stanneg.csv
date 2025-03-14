@@ -1,0 +1,12 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00045,1,a hand knit angora blanket,about body,Wg1,AC-2,,,,,,,111111111111111111,Granny Higglebottom,Stanneg
+00051,1,a Kiss me! I'm Trollish!! shirt,on body,Wg1,AC-6,,,,,,Str+1,111111111111111111,a mean ol' ugly troll,Stanneg
+00053,1,a large fluffy towel,about body,Wg1,,,,,,,,111111111111111111,the inn guest,Stanneg
+00183,5,the High Sheriff's Badge of Office,around neck,Wg1,AC-5,,,,,,,111111111111111111,the High Sheriff of Stanneg,Stanneg
+00251,15,a hunting knife,wielded,Wg6,DD3d5 DR+3,,,,,,(BStab),111001110111111111,the hunter,Stanneg
+00253,15,a leather vest,on body,Wg10,AC-8,,,,Hp+30,,,111111111111111111,Salle,Stanneg
+00364,25,Nelly's magic cape,about body,Wg1,AC-10,,,,,,,000000000000100000,Nelly the Mindslayer,Stanneg
+00415,30,a mining helmet,on head,Wg1,AC-8,,,,Hp+25,,,111000110010111001,Helmet,Stanneg
+00440,30,Kithy's sneaky boots,on feet,Wg1,AC-8,,,,Hp+15,,+Sneak,110100001111101011,Kithy,Stanneg
+00468,33,a Proud to be a Troll shirt,on body,Wg1,AC-15,,,,Hp+8,,,111111111111111111,a mean ol' ugly troll,Stanneg
+00488,35,a pair of Troll Power!!! gauntlets,on hands,Wg1,AC-4,,,,,,Str+4,111111111111111111,a mean ol' ugly troll,Stanneg

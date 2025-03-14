@@ -1,0 +1,15 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00137,1,the curse of the mummy,held,Wg1,,,,,Hp-50,,Str-3 Dex-3 Con-3 (NoRent),111111111111111111,Ramses the Damned,Great Pyramid
+00339,25,a dirty cloth turban,on head,Wg10,AC-7,,,,,,SPh+5 Dex+2,111111111111111111,Ali Baba,Great Pyramid
+00361,25,an ankh,around neck,Wg9,AC-10,,,,,,Int+2 Wis+2 AE,111111111111111111,a gynosphinx,Great Pyramid
+00444,30,some cloth wrappings,on head,Wg15,AC-6,,,,Hp+40,,,111111111111111111,a tomb thief,Great Pyramid
+00495,35,an egyptian mace,wielded,Wg14,DD6d5 HR-2 DR+5,,,,,,,111111111111111111,a tomb thief,Great Pyramid
+00496,35,an obsidian dirk,wielded,Wg8,DD6d5 HR+1 DR+2,,,,,,,111111111111111111,a tomb thief,Great Pyramid
+00498,35,sand-colored robes,about body,Wg5,AC-15,,,,,,SPh+5,000001000000000010,a pyramid watcher,Great Pyramid
+00571,40,a pair of sphinxian leggings,on legs,Wg20,AC-9,,,,Mv+100,,Str+3,111111111111111111,Through the Hole in the Sand (ground),Great Pyramid
+00628,45,a golden mask,on head,Wg10,AC-5,,,,Hp+25 Mn+100 Mv+100,,,111111111111111111,Ramses the Damned,Great Pyramid
+00631,45,a lion's paw,wielded,Wg8,DD4d12 DR+6,,,,,,Arm+5,111111111111111111,an androsphinx,Great Pyramid
+00637,45,a stone scimitar,wielded,Wg17,DD6d7 HR-2 DR+6,,,,,,,111000110011011101,a caryatid,Great Pyramid
+00683,50,a sandy-colored ring,on finger,Wg5,AC-12,,,,Mn+75,,Int+2,111111111111111111,Through the Hole in the Sand (ground),Great Pyramid
+00686,50,a small hot ball of fire,as light,Wg10,,,,,,,Arm+5 SMe+5,111111111111111111,a tomb thief,Great Pyramid
+00705,50,the lamp,held,Wg5,,,,,,,6xArea Heal,111111111111111111,the djinn,Great Pyramid

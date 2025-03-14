@@ -1,0 +1,11 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00047,1,a hefty length of chain,wielded,Wg10,DD2d7 HR+1,,,,,,Arm-5,111000110010011101,a bruiser,Godforsaken Slum (PKOK)
+00062,1,a metal shield,as shield,Wg3,AC-3,,,,,,,111111111111111111,a bruiser,Godforsaken Slum (PKOK)
+00063,1,a mirror,held,Wg1,,,,,,10xBlindness,,111111111111111111,a gang member,Godforsaken Slum (PKOK)
+00079,1,a patrol club,wielded,Wg1,DD1d12 HR+3,,,,,,,111111111111111111,a patrolman,Godforsaken Slum (PKOK)
+00104,1,a Troll gang jacket,on body,Wg2,AC-5,,,,,,,111111111111111111,a gang member,Godforsaken Slum (PKOK)
+00105,1,a troll signet ring,on finger,Wg1,AC-4,,,,,,Str+1,111111111111111111,a gang member,Godforsaken Slum (PKOK)
+00121,1,an Ogre gang jacket,on body,Wg2,AC-5,,,,,,,111111111111111111,a gang member,Godforsaken Slum (PKOK)
+00126,1,comfortable leather gloves,on hands,Wg2,AC-2,,,,,,Str+1,111111111111111111,a bruiser,Godforsaken Slum (PKOK)
+00133,1,spiked heeled boots,on feet,Wg4,AC-3 DR+1,,,,,,Dex-1,111111111111111111,a doll,Godforsaken Slum (PKOK)
+00204,9,a stiletto,wielded,Wg2,DD7d2 HR+4,,,,,,Arm+2 (BStab),111111111111111111,a bruiser,Godforsaken Slum (PKOK)

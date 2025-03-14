@@ -1,0 +1,15 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00172,5,a samurai bracer,around wrist,Wg2,AC-2 HR+1 DR+1,,,,,,AE,111111111111111111,a Samurai Apprentice,Samurai Tower
+00252,15,a Jewel of the Rising Sun,around neck,Wg5,AC-15,,,,,,Int+1 Wis+1 AE,111111111111111111,Tokugawa Yoshikatsu,Samurai Tower
+00265,15,the Azami,wielded,Wg10,DD2d6 HR+1 DR+1,,,,,,(bless) OG,111000110010011101,the Shogun of Understanding,Samurai Tower
+00266,15,the Iaito,wielded,Wg10,AC-12 DD2d7 DR+1,,,,,,(bless) OG,111000110010011101,the Shogun of Truth,Samurai Tower
+00267,15,the Kora,wielded,Wg10,DD2d7,,,,,,(bless) Dex+1 Con+1 OG,111000110010011101,the Shogun of Knowledge,Samurai Tower
+00268,15,the Laroche,wielded,Wg10,AC-5 DD2d6,,,,,,(bless) OG,111000110010011101,a Samurai Apprentice,Samurai Tower
+00272,16,the Ninjato,wielded,Wg10,DD2d6 HR+2 DR+2,,,,,,(bless) OG,111000110010011101,the Shogun of Loyalty,Samurai Tower
+00281,18,the Kodachi,wielded,Wg10,AC-12 DD2d9,,,,,,(bless) OG,111000110010011101,a Samurai Trainee,Samurai Tower
+00308,20,the Amulet of Suun Lu,around neck,Wg5,AC-15,,,,Hp+20,,Con+3 AE,111111111111111111,Tokugawa Yoshikatsu,Samurai Tower
+00320,22,the Katana,wielded,Wg10,DD2d8 HR+1 DR+2,,,,,,(bless) OG,111000110010011101,the Shogun of Ethics,Samurai Tower
+00321,22,the Naginata,wielded,Wg10,DD2d9 HR+2 DR+2,,,,,,(bless) OG,111000110010011101,the Shogun of Respect,Samurai Tower
+00322,22,the Wakisashi,wielded,Wg10,AC-10 DD2d8,,,,,,(bless) Dex+1 OG,111000110010011101,the Shogun of Authority,Samurai Tower
+00335,24,the Mandarian dau,wielded,Wg10,DD2d10 HR+2 DR+2,,,,,,(bless) OG,111000110010011101,the Shogun of Caring,Samurai Tower
+00538,40,a Fugu blade,wielded,Wg10,DD4d6 HR+5 DR+5,,,,,,,111000110010011101,Tokugawa Yoshikatsu,Samurai Tower

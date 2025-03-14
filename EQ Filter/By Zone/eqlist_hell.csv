@@ -1,0 +1,16 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00837,75,a red scythe of death,wielded,Wg14,DD7d6 DR+12,,,,,,AG,111000110010011101,a minor demon,Hell
+00843,75,Jack's knife,wielded,Wg8,DD2d25 HR+5 DR+10,,,,,,(BStab) AG,111111111110111111,Jack the Ripper,Hell
+00846,75,Liz's axe,wielded,Wg18,DD2d25 HR+5 DR+10,,,,,,AG,111111111111111111,Liz Borden,Hell
+00880,80,a hellfire whip,wielded,Wg16,DD6d8 HR+5 DR+10,,,,,,AG,111000110010011111,a major demon,Hell
+00884,80,a ring of lost souls,on finger,Wg2,AC-20,,,,,,AG,111111111111111111,a walking satanic,Hell
+00912,85,a hellstaff,held,Wg10,,,,,Mn+400,,AG,000001000000000010,Satan,Hell
+00914,85,a pitch fork,wielded,Wg18,DD7d10 HR+10 DR+10,,,,,,AG,001000110000010000,Satan,Hell
+00918,85,a suit of fire,on body,Wg140,AC-50,,,,,,SPh+20 AG,111111111111111111,Satan,Hell
+00961,90,an amulet of true armor,around neck,Wg10,AC-25,,,,,,AG,111111111111111111,a Fury,Hell
+00974,90,Ferrix's diamond armor,on body,Wg150,AC-40,,,,Hp+75,,AG,011000110001010100,Queen Ferrix,Hell
+01001,95,a crimson long sword,wielded,Wg7,DD8d8 HR+10 DR+10,,,,,,AG,001000110001010100,Hades,Hell
+01015,95,a shimmering war band,on head,Wg25,AC-10 HR+2 DR+2,,,,,,AG,011000010001011100,a hell spawn,Hell
+01017,95,a suit of death,on body,Wg180,AC-55 HR-5,,,,Mn-300,,AG,011000110000010100,Hades,Hell
+01018,95,an aura of light,as light,Wg5,,,,,,,Arm-25 (NoInf) AG,111111111111111111,Hades,Hell
+01019,95,an emerald bracer,around wrist,Wg10,AC-5 HR+3 DR+3,,,,,,AG,111111111111111111,Hades,Hell

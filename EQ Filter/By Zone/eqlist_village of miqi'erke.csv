@@ -1,0 +1,14 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00096,1,a small leather pouch,,Wg3,,,,,,,Cap+17,111111111111111111,a Runa woman,Village of Miqi'erke
+00531,40,a catnip charm,around neck,Wg2,HR+1,,,,,,Con+1,111111111111111111,a villager,Village of Miqi'erke
+00575,40,a piece of catnip,on head,Wg1,,,,,,,+Berzerk (NoRent),111111111111111111,a villager,Village of Miqi'erke
+00707,50,the Staff of Paya,held,Wg10,,,,,,,Wis+4 3xArea Sense Life,111111111111111111,Paya,Village of Miqi'erke
+00751,60,a golden locket,around neck,Wg6,AC-15,,,,,,Cha+2,111111111111111111,Yuraq,Village of Miqi'erke
+00759,60,a shadow,on body,Wg70,AC-20,,,,,,,111111111111111111,Oqe,Village of Miqi'erke
+00774,60,the boots of stealth,on feet,Wg5,AC-6,,,,,,+Sneak,111111111111111111,Phuyu,Village of Miqi'erke
+00775,60,the claws of power,on hands,Wg5,AC-5 HR+2 DR+5,,,,,,,111111111111111111,Rey,Village of Miqi'erke
+00777,60,the dark of night,about body,Wg10,AC-15,,,,,,,111111111111111111,Mikhu,Village of Miqi'erke
+00781,60,tiger-striped leggings,on legs,Wg15,AC-7,,,,Mv+25,,,111111111111111111,Tigri,Village of Miqi'erke
+00911,85,a golden aura,about body,Wg15,AC-12,,,,,,+Fly,111111111111111111,Qoyllor,Village of Miqi'erke
+00944,90,a moonstone ring,on finger,Wg2,AC-20,,,,Mn+50,,SMe+5 SPo+5,111111111111111111,Tuta,Village of Miqi'erke
+00973,90,Da'miqi,wielded,Wg10,DD4d16 HR+6 DR+6,,,,,,(BStab),011111111111111111,Yanaquri,Village of Miqi'erke

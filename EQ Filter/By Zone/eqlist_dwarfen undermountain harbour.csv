@@ -1,0 +1,31 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00065,1,a needle and some thread,held,Wg1,DR+1,,,,,,,110111011110111111,Fritz (shop),Dwarfen Undermountain Harbour
+00141,2,a tar block,held,Wg50,,,,,Mv-20,,SPh-5,111111111111111111,Fritz (shop),Dwarfen Undermountain Harbour
+00142,2,some Leisure Trousers,on legs,Wg6,,,,,,,Arm-4 Dex+1 Cha+2,111111111111111111,Fritz (shop),Dwarfen Undermountain Harbour
+00143,2,some oil,held,Wg4,,,,,,,SPh-15,111111111111111111,Fritz (shop),Dwarfen Undermountain Harbour
+00187,6,a Sunhat,on head,Wg0,,,,,,,,110111011110101011,a tourist,Dwarfen Undermountain Harbour
+00235,12,a short rope,wielded,Wg6,DD1d3 HR+3 DR+1,,,,,,,110110011010001101,Sigourney (shop),Dwarfen Undermountain Harbour
+00257,15,a small hammer,wielded,Wg5,DD1d18 HR+3,,,,,,,111111111111111111,Fritz (shop),Dwarfen Undermountain Harbour
+00263,15,stainfree white shoes,on feet,Wg3,,,,,Mv+30,,Arm-1,110111011110101011,a tourist,Dwarfen Undermountain Harbour
+00270,16,a pair of Ultrabig Sunglasses,on head,Wg2,AC-4,,,,,+Blindness,SMa+3,111111111111111111,the old tourist,Dwarfen Undermountain Harbour
+00343,25,a long rope,held,Wg30,,,,,,,Con+2,111111111111111111,Sigourney (shop),Dwarfen Undermountain Harbour
+00357,25,a small sickle,wielded,Wg3,DD5d3 HR+3 DR+3,,,,Mn+20,,,100111001110110011,Fritz (shop),Dwarfen Undermountain Harbour
+00375,27,a waterproof bag,held,Wg12,,,,,,,Cap+48,111111111111111111,Fritz (shop),Dwarfen Undermountain Harbour
+00445,30,some small warm boots,on feet,Wg5,AC-4,,,,Mv+60,,SMe+2,111111111111111111,Fritz (shop),Dwarfen Undermountain Harbour
+00484,35,a long raincoat,about body,Wg8,AC-7,,,,,,,111111111111111111,Fritz (shop),Dwarfen Undermountain Harbour
+00487,35,a nicely folded sail,held,Wg65,,,,,Mv-150,,Arm-2,111111111111111111,Fritz (shop),Dwarfen Undermountain Harbour
+00501,35,some thick furlined trousers,on legs,Wg6,AC-7,,,,Mv-20,,SMe+3 Cha+2,111111111111111111,Fritz (shop),Dwarfen Undermountain Harbour
+00617,44,some big soft boots,on feet,Wg8,AC-8,,,,Mv+40,,,111111111111111111,Pudlum (shop),Dwarfen Undermountain Harbour
+00733,56,the Rod of Ruling,held,Wg4,,,,,,,1xCharm Person AE,010111010101100011,the Mayor,Dwarfen Undermountain Harbour
+00752,60,a heavy fur coat,about body,Wg22,AC-10,,,,Hp+20,,SPh-2 SMe+4,111111111111111111,Fritz (shop),Dwarfen Undermountain Harbour
+00754,60,a pair of human wimpy boots,on feet,Wg0,AC-7,,,,Hp-25,,Dex+4 +Sneak,110111011110111011,a terrified prisoner,Dwarfen Undermountain Harbour
+00799,65,the whip of a boatloader,wielded,Wg6,DD1d40 HR+14 DR-2,,,,,,OE,111111111111111111,a very Evil Drow,Dwarfen Undermountain Harbour
+00811,70,a Boatguard spetum,wielded,Wg17,DD12d4 HR+8 DR+19,,,,,,(2Hand),010000011000010100,a boat guard,Dwarfen Undermountain Harbour
+00850,75,the spear of a undermountain cityguard,wielded,Wg15,DD3d20 HR+6 DR+8,,,,,,ON,011000110001010100,the Cityguard,Dwarfen Undermountain Harbour
+00868,79,the fluffy slippers of pain,on feet,Wg1,HR-1 DR+3,,,,Mv-30,,Arm+2 AG,010011011000101010,the old tourist,Dwarfen Undermountain Harbour
+00879,80,a harness of a dwarf town guard,on body,Wg40,AC-30,,,,,,Dex-2 Cha+2,001000100001000100,the Cityguard,Dwarfen Undermountain Harbour
+00895,80,the Shield of the Harbour Town guards,as shield,Wg30,AC-12,,,,,,,001000100001000100,a boat guard,Dwarfen Undermountain Harbour
+00938,90,a DeepGnome PickAxe,wielded,Wg13,DD7d7 HR+13 DR+8,,,,,,(BStab) AG,110100010010001000,a deep gnome scavenger,Dwarfen Undermountain Harbour
+01041,100,a huge anchor,wielded,Wg40,DD1d100 HR-15 DR+35,,,,,,(2Hand),000000010000000100,Fritz (shop),Dwarfen Undermountain Harbour
+01044,100,a ninja priest robe,about body,Wg12,,,,,Mn+100,,Cap+48 Age+50 Arm-10 Dex+2 +Sneak,000100000010000000,the Red Eye Ninja Priest,Dwarfen Undermountain Harbour
+01070,100,Josephine's protective banner,as shield,Wg12,AC-13 HR+2,,,,,,Str+2 Dex+2,011100110001010100,Josephine,Dwarfen Undermountain Harbour

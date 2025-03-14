@@ -1,0 +1,12 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00027,1,a bloody cloak,on body,Wg15,AC-4,,,,,,,111111111111111111,the chief gnome,Gnome Village
+00041,1,a gnarled staff,wielded,Wg15,DD1d9,,,,,,,111111111111111111,a large rat,Gnome Village
+00147,4,a bat ring,on finger,Wg2,AC-3,,,,Mv+45,,,111111111111111111,the chief gnome,Gnome Village
+00150,4,a pair of gnome boots,on feet,Wg12,AC-12,,,,Mv+20,,,111111111111111111,a gnome armourer (shop),Gnome Village
+00154,5,a bead necklace,around neck,Wg8,AC-3 HR+1,,,,,,,111111111111111111,the chief gnome,Gnome Village
+00167,5,a gnome belt,about waist,Wg5,AC-3,,,,,,,111111111111111111,a gnome armourer (shop),Gnome Village
+00169,5,a long dagger,wielded,Wg6,DD3d4,,,,,,(BStab),111011110111111111,a gnome weaponsmith (shop),Gnome Village
+00170,5,a pair of sturdy leather gloves,on hands,Wg2,AC-3,,,,,,,111111111111111111,a gnome armourer (shop),Gnome Village
+00181,5,a wand of missiles,held,Wg4,,,,,,,5xMagic Missile,010111001100100010,a gnome scientist (shop),Gnome Village
+00212,10,a gnome sword,wielded,Wg15,DD3d5,,,,,,,111001110111111111,a gnome weaponsmith (shop),Gnome Village
+00237,12,an electrum sword,wielded,Wg18,DD3d5 HR+2 DR+2,,,,,,,111001110111111111,the chief gnome,Gnome Village

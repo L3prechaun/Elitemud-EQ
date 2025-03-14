@@ -1,0 +1,32 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00214,10,a green pointed wizard's hat,on head,Wg1,AC-10,,,,,,,111111111111111111,Slartiin,Shaalziran'dar
+00289,20,a drow noble's armband,on arms,Wg30,AC-10,,,,,,AG,111111111111111111,a drow noble,Shaalziran'dar
+00408,30,a drow's hand crossbow,wielded,Wg7,DD5d6 HR+3 DR+4,,,,,,AG,111011111111111111,a drow weaponsmith (shop),Shaalziran'dar
+00523,40,a black drow cloak,about body,Wg4,AC-12 DR+1,,,,,,AG,111111111111111111,a drow noble,Shaalziran'dar
+00524,40,a black drow longsword,wielded,Wg5,DD6d6 HR+6 DR+3,,,,,,AG,111111111111111111,a drow commoner,Shaalziran'dar
+00535,40,a drow crossbow,wielded,Wg7,DD8d8 HR+5 DR+5,,,,,,AG,000000000000010000,a drow weaponsmith (shop),Shaalziran'dar
+00537,40,a foul spider scarab,as light,Wg5,DR+1,,,,,,AG,111111111111111111,a drow noble,Shaalziran'dar
+00542,40,a glowing mace,wielded,Wg24,DD4d6 HR+1 DR+6,,,,,,(bless) AE,001110101001010100,Friar Fredrick,Shaalziran'dar
+00547,40,a green bladed spear,wielded,Wg15,DD4d6 HR+5 DR+2,,,,,,Str+8 AG,100000010010000100,Pem,Shaalziran'dar
+00551,40,a holy sword,wielded,Wg7,DD6d6 HR+5 DR+5,,,,,,AE,011111111101110111,Akkadian,Shaalziran'dar
+00567,40,a pair of drow boots,on feet,Wg1,AC-10 HR+1,,,,Hp+25,,+Sneak AG,111111111111111111,a drow commoner,Shaalziran'dar
+00573,40,a pair of tight leather pants,on legs,Wg5,AC-11,,,,Mv+70,,AG,111111111111111111,a drow commoner,Shaalziran'dar
+00580,40,a scourge,wielded,Wg7,DD6d5 DR+8,,,,,,AG,111111111111111111,a drow torturer,Shaalziran'dar
+00584,40,a studded spider necklace,around neck,Wg5,AC-10 DR+2,,,,,,AG,111111111111111111,a drow noble,Shaalziran'dar
+00592,40,a white knight's belt,about waist,Wg14,AC-16,,,,,,AE,011100101011010101,Akkadian,Shaalziran'dar
+00601,40,drow chainmail,on body,Wg30,AC-15 HR+1 DR+1,,,,,,AG,111111111111111111,a drow armourer (shop),Shaalziran'dar
+00665,50,a drow noble's longsword,wielded,Wg10,DD4d12 HR+6 DR+6,,,,,,AG,111111111111111111,a drow noble,Shaalziran'dar
+00785,65,a cloak of midnight,about body,Wg20,AC-15,,,,Hp+50,,AG,111111111111111111,Mercurien,Shaalziran'dar
+00789,65,a pair of darksteel vambraces,on arms,Wg10,AC-12 HR+1 DR+1,,,,,,AG,011100111010110101,Balazar,Shaalziran'dar
+00790,65,a pair of drow steel-toed boots,on feet,Wg15,AC-10 HR+2 DR+1,,,,Mv+100,,AG,011100111010110101,Arziana,Shaalziran'dar
+00792,65,a suit of darksteel chainmail,on body,Wg45,AC-30,,,,,,AG,011100111010110101,Tashken,Shaalziran'dar
+00809,70,a black opal necklace,around neck,Wg10,AC-13 HR+2,,,,Mn+80,,AG,111111111111111111,Mercurien,Shaalziran'dar
+00810,70,a black pearl medallion,around neck,Wg10,AC-13 HR+1 DR+1,,,,Hp+20,,AG,111111111111111111,Arziana,Shaalziran'dar
+00817,70,a pair of studded leather gloves,on hands,Wg6,AC-15 HR+3 DR+3,,,,,,AG,111111111111111111,Denzar,Shaalziran'dar
+00818,70,a pair of troll-hide greaves,on legs,Wg10,AC-10 DR+1,,,,Hp+30,,AG,111111111111111111,Balazar,Shaalziran'dar
+00832,75,a drow assassin face mask,on head,Wg10,AC-13 HR+1,,,,,,AG,111111111111111111,a drow assassin,Shaalziran'dar
+00869,80,a black drow assassin dagger,wielded,Wg10,DD5d10 HR+10 DR+7,,,,,,(BStab) AG,111111111111111111,a drow hunter,Shaalziran'dar
+00932,90,a black drow longbow,wielded,Wg10,DD9d9 HR+17 DR+26,,,,,,(2Hand) AG,000000000000010000,Bandar Nazet,Shaalziran'dar
+01059,100,an onyx hilted dagger,wielded,Wg8,DD7d8 HR+7 DR+8,,,,,,(BStab) AG,111111111111111111,Tashken,Shaalziran'dar
+01060,100,an onyx hilted longsword,wielded,Wg7,DD8d8 HR+7 DR+10,,,,,,(evil),000000000000000100,Michael,Shaalziran'dar
+01071,100,Kazlyn's Dark-Oak Staff,wielded,Wg9,DD6d9 HR+7 DR+9,,,,Mn+150,,AG,000001010001100010,Kazlyn,Shaalziran'dar

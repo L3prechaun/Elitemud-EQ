@@ -1,0 +1,29 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00028,1,a blue steel poniard,wielded,Wg9,DD2d6,,,,,,,111001110111111111,Murmer Flightfoot,Geldenrock
+00033,1,a chunky hammer,wielded,Wg8,DD2d6,,,,,,,111111111111111111,the burly blacksmith (shop),Geldenrock
+00043,1,a granite shield,as shield,Wg25,AC-5,,,,,,,111111111111111111,Jen Boaden the armourer (shop),Geldenrock
+00044,1,a guardsmans axe,wielded,Wg8,DD1d10,,,,,,,111110111011011101,the guardsman,Geldenrock
+00049,1,a hoop of fuzzy material,held,Wg1,,,,,,,5xSleep,111111111111111111,Gemima (shop),Geldenrock
+00083,1,a piton,wielded,Wg8,DD3d3,,,,,,,111111111111111111,the burly blacksmith (shop),Geldenrock
+00086,1,a safety lamp,as light,Wg4,,Invisibility,,,,,+Detect (NoInf),111111111111111111,the bespectacled storekeeper (shop),Geldenrock
+00088,1,a scaling knife,wielded,Wg8,DD3d4,,,,,,,111111111111111111,the burly blacksmith (shop),Geldenrock
+00091,1,a set of crampons,on feet,Wg6,AC-1 HR+1,,,,,,Dex+1,111111111111111111,the bespectacled storekeeper (shop),Geldenrock
+00099,1,a strong length of rope,about waist,Wg9,AC-3,,,,,,Dex+1,111111111111111111,the bespectacled storekeeper (shop),Geldenrock
+00101,1,a thick wooly blanket,about body,Wg4,AC-3,,,,,,,111111111111111111,the bespectacled storekeeper (shop),Geldenrock
+00108,1,a wand made of invisible stuff,held,Wg1,,,,,,,4xInvisibility,111111111111111111,Gemima (shop),Geldenrock
+00115,1,a wooden spoon,wielded,Wg1,DD1d6,,,,,,,111111111111111111,the cook,Geldenrock
+00117,1,a yak-skin rucksack,about body,Wg12,,,,,,,Cap+173,111111111111111111,the bespectacled storekeeper (shop),Geldenrock
+00122,1,an orange staff,held,Wg26,,,,,,,1xCat Eyes,111111111111111111,Gemima (shop),Geldenrock
+00127,1,dark chainmail hood,on head,Wg7,AC-5,,,,,,,001110101001010100,Jen Boaden the armourer (shop),Geldenrock
+00128,1,dark chainmail leggings,on legs,Wg8,AC-6,,,,,,,001110101001010100,Jen Boaden the armourer (shop),Geldenrock
+00129,1,dark chainmail sleeves,on arms,Wg8,AC-6,,,,,,,001110101001010100,Jen Boaden the armourer (shop),Geldenrock
+00130,1,dark chainmail smock,on body,Wg15,AC-5,,,,,,,001110101001010100,Jen Boaden the armourer (shop),Geldenrock
+00140,1,whispering slippers,on feet,Wg2,AC-2,,,,,,Dex+2 +Hide +Sneak,111111111111111111,Murmer Flightfoot,Geldenrock
+00192,7,a harpoon,wielded,Wg5,DD3d4,,,,,,,111111111111111111,the burly blacksmith (shop),Geldenrock
+00324,23,an ice-axe,wielded,Wg8,DD4d5,,,,,,,111111111111111111,the burly blacksmith (shop),Geldenrock
+00948,90,a rapier,wielded,Wg0,DD8d9 HR+12 DR+10,,,,,,,001000000000000000,Walter Wall,Geldenrock
+00960,90,a wide-brimmed floppy hat with a blue plume,on head,Wg12,AC-18,,,,Hp+100,,,001000000000000000,Walter Wall,Geldenrock
+01003,95,a full set of polished plate armour,on body,Wg200,AC-50,,,,Hp+40 Mv+40,,,000000100000000000,Grimmfast the Warrior,Geldenrock
+01006,95,a huge longsword,wielded,Wg24,DD8d9 HR+11 DR+11,,,MR+4,,,AE,000000100000000000,Grimmfast the Warrior,Geldenrock
+01022,95,polished steel armplates,on arms,Wg80,AC-15 HR+1 DR+1,,,,,,,000000100000000000,Grimmfast the Warrior,Geldenrock
+01117,109,Maxwell's Silver Hammer,wielded,Wg16,DD10d7 HR+6 DR+15,,,MR+10,,,OG,001100001001000000,Governor Maxwell,Geldenrock

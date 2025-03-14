@@ -1,0 +1,19 @@
+ID,Min Level,Name,Slot,Weight,Combat Stats,Special Effects,Attributes,Magic Resistance,Health & Mana,Spells,Other Identifiers,Classes,Monster,Location
+00025,1,a big sack,held,Wg3,,,,,,,Cap+197,111111111111111111,Saint Nicholas,Heaven
+00544,40,a golden armor,on body,Wg30,AC-15,,,,,,AE,001000110001000100,an angel guard,Heaven
+00593,40,an angel's halo,about waist,Wg1,AC-10,,,,,,AE,111111111111111111,Saint Petrus,Heaven
+00737,57,Lucifer's ring of treason,on finger,Wg3,AC-12,,,,,,+Invisibility +Sneak +Hide AG,100010011010011000,Lucifer the fallen angel,Heaven
+00870,80,a crown of candles,on head,Wg15,AC-12,,,,Hp+100,,Cha+3 AE,011011111001110001,Sainte Lucia,Heaven
+00872,80,a dragon shield,as shield,Wg15,AC-13,,,,,,SPh+15 AE,001000100001000100,Saint George,Heaven
+00873,80,a dragon slayer lance,wielded,Wg16,DD6d10 HR+8 DR+8,,,,,,(bless) AE,001000100001000100,Saint George,Heaven
+00891,80,Santas lantern,as light,Wg5,,,,,Hp+50 Mv+40,,Cha+3 (NoInf) AE,111111111111111111,Saint Nicholas,Heaven
+00925,85,the shield of protection,as shield,Wg10,AC-10,,,MR+5,,,AE,001000100001000100,Michael the arch angel,Heaven
+00976,90,Lucifer's damned ring of treason,on finger,Wg3,AC-20,,,,Mn+50,,+Curse AG,010011001000100010,Lucifer the fallen angel,Heaven
+01021,95,Gabriel's flaming sword,wielded,Wg16,DD5d10 HR+10 DR+7,,,,,,(bless) (flaming) AE,001000100001000100,Gabriel the arch angel,Heaven
+01026,97,War's apocalyptic axe of destruction,wielded,Wg24,DD7d10 DR+18,,,,Mn-200,,AG,001000100001010100,War,Heaven
+01027,97,War's apocalyptic helmet,on head,Wg15,AC-30,,,MR+5,Hp+50 Mn-200,,AG,001000100001010100,War,Heaven
+01028,97,War's resistant plate,on body,Wg140,AC-45,,,MR+10,Mn-200,,AG,001000100001010100,War,Heaven
+01029,98,Pestilence's dagger of disease,wielded,Wg6,DD4d12 HR+12 DR+12,,,,,,+Poison (BStab) AG,110000000010001000,Pestilence,Heaven
+01030,99,an apocalyptic scythe of Death,wielded,Wg14,DD6d9 HR+10 DR+13,,,,,,(evil) AG,110001010110111111,Death,Heaven
+01031,99,the cape of Death,about body,Wg10,AC-20,,,MR+10,Mn+50,,Cha-2 AG,110001010110111111,Death,Heaven
+01078,100,the hand of God,held,Wg17,DD6d10 HR+6 DR+10,,,,Mn+200,,(bless) OG,011111111101110111,God,Heaven
