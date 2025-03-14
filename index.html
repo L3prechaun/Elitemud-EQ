@@ -19,7 +19,9 @@
     <input type="number" id="levelFilter" oninput="filterTable()">
     
     <label for="classFilter">Class:</label>
-    <input type="text" id="classFilter" oninput="filterTable()" placeholder="Enter class name">
+    <select id="classFilter" onchange="filterTable()">
+        <option value="">All</option>
+    </select>
     
     <label for="slotFilter">Slot:</label>
     <select id="slotFilter" onchange="filterTable()">
@@ -55,31 +57,19 @@
         const dropdown = document.getElementById("locationDropdown");
         locations.forEach(location => {
             let option = document.createElement("option");
-           // option.value = `filtered_locations/eqlist_${location}.csv`;
             option.value = location; // ✅ Use actual location name, not file path
             option.textContent = location.replace(/_/g, " ").toUpperCase();
             dropdown.appendChild(option);
         });
 
-
- /* 
-        function loadCSV() {
-            const file = document.getElementById('csvFile').files[0];
-            if (!file) return;
-            
-            Papa.parse(file, {
-                complete: function(results) {
-                    tableData = results.data.map(row => convertClassNumbersToAbbreviations(row));
-                    populateSlotFilter(tableData);
-                    displayTable(tableData);
-                },
-                header: true,
-                skipEmptyLines: true
-            });
-        }
-*/
-
-
+        // Populate dropdown with Classes
+        const dropdown = document.getElementById("classFilter");
+        classNames.forEach(className => {
+            let option = document.createElement("option");
+            option.value = className; // ✅ Use actual location name, not file path
+            option.textContent = className;
+            dropdown.appendChild(option);
+        });
 
 
         function loadCSV(filePath = null) {
@@ -182,15 +172,9 @@
                 let meetsSlot = slotFilter === "" || row["Slot"] === slotFilter;
                 let meetsLocation = locationFilter === "All" || locationFilter === "" || row["Location"] === locationFilter; // ✅ Fix
                 return meetsLevel && meetsClass && meetsSlot && meetsLocation;
-            });
-            
+            });           
             displayTable(filteredData);
         }
-
-
-
-
-
 
         function sortTable() {
             const sortedData = tableData.sort((a, b) => {
@@ -198,12 +182,6 @@
             })
             displayTable(sortedData);
         }
-
-
-
-
-
-
 
     </script>
 </body>
