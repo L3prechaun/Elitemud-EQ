@@ -78,11 +78,9 @@
             });
         }
 */
-            Autoload if CSV is Hosted.
 
-        document.addEventListener("DOMContentLoaded", function() {
-            loadCSV("eqlist_formatted.csv"); // Auto-load the default CSV
-        });
+
+
 
         function loadCSV(filePath = null) {
             const file = filePath || document.getElementById('csvFile').files[0]; // Use uploaded file if available
@@ -103,7 +101,9 @@
                 })
                 .catch(error => console.error("Error loading CSV:", error));
         }
-
+        document.addEventListener("DOMContentLoaded", function() {
+            loadCSV("eqlist_formatted.csv"); // Auto-load the default CSV
+        });
 
 
 
