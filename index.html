@@ -63,12 +63,12 @@
         });
 
         // Populate dropdown with Classes
-        const dropdown = document.getElementById("classFilter");
+        const classfilterdropdown = document.getElementById("classFilter");
         classNames.forEach(className => {
             let option = document.createElement("option");
             option.value = className; // ✅ Use actual location name, not file path
             option.textContent = className;
-            dropdown.appendChild(option);
+            classfilterdropdown.appendChild(option);
         });
 
 
