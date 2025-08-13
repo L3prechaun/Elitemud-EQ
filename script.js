@@ -26,21 +26,21 @@ locations.forEach(location => {
     dropdown.appendChild(option);
 });
 
-// Load CSV from file input
-function loadCSV() {
-    const file = document.getElementById('csvFile').files[0];
-    if (!file) return;
-
-    Papa.parse(file, {
-        complete: function(results) {
+// 🔹 Auto-load CSV from root folder
+window.addEventListener("DOMContentLoaded", () => {
+    fetch("eqlist_formatted.csv")
+        .then(response => {
+            if (!response.ok) throw new Error("CSV file not found in root folder");
+            return response.text();
+        })
+        .then(csvText => {
+            const results = Papa.parse(csvText, { header: true, skipEmptyLines: true });
             tableData = results.data.map(row => convertClassNumbersToAbbreviations(row));
             populateSlotFilter(tableData);
             displayTable(tableData);
-        },
-        header: true,
-        skipEmptyLines: true
-    });
-}
+        })
+        .catch(err => console.warn("Auto-load failed:", err.message));
+});
 
 function convertClassNumbersToAbbreviations(row) {
     if (row["Classes"] && /^[01]+$/.test(row["Classes"])) {
