@@ -1,5 +1,7 @@
 body {
     font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
 }
 
 .item-container {
@@ -14,9 +16,9 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     gap: 12px;
-    border: 1px solid #ccc;
+    border: 1px solid #252525;
     padding: 10px;
-    background: #fff;
+    background: #494949;
     border-radius: 6px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
