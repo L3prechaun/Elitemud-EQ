@@ -4,254 +4,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MUD Item List</title>
+    <link rel="stylesheet" href="styles.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
-    <style>
-        body { font-family: Arial, sans-serif; }
-        
-        .item-container {
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-            margin-top: 20px;
-        }
-
-        .item-card {
-            display: flex;
-            flex-direction: row;
-            flex-wrap: wrap;
-            gap: 12px;
-            border: 1px solid #ccc;
-            padding: 10px;
-            background: #fff;
-            border-radius: 6px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
-
-
-        .item-property {
-            margin: 3px 0;
-        }
-
-        .prop-label {
-            font-weight: bold;
-            color: #555;
-        }
-
-        .prop-value {
-            color: #222;
-        }
-
-    </style>
 </head>
 <body>
     <h1>MUD Item List</h1>
-    
+
     <label for="levelFilter">Minimum Level:</label>
     <input type="number" id="levelFilter" oninput="filterTable()">
-    
+
     <label for="classFilter">Class:</label>
-    <select id="classFilter" onchange="filterTable()">
-        <option value="">All</option>
-    </select>
-    
+    <input type="text" id="classFilter" oninput="filterTable()" placeholder="Enter class name">
+
     <label for="slotFilter">Slot:</label>
     <select id="slotFilter" onchange="filterTable()">
         <option value="">All</option>
     </select>
-    
+
     <label for="locationDropdown">Select Location:</label>
     <select id="locationDropdown" onchange="filterTable()">
         <option value="">-- Select Location --</option>
     </select>
-    
+
     <input type="file" id="csvFile" accept=".csv" onchange="loadCSV()">
+
     <div id="itemContainer" class="item-container"></div>
-    <!-- 
-    <table id="itemTable">
-        <thead>
-            <tr id="tableHeaders"></tr>
-        </thead>
-        <tbody></tbody>
-    </table>
-  -->
 
-    <script>
-        let tableData = [];
-        const classNames = ["As", "Ba", "Ca", "Cl", "Dr", "Il", "Kn", "Ma", "Mo", "Mu", "Ni", "Pa", "Ps", "Ra", "Th", "Wa", "Wi", "il"];
-
-        const locations = [
-           "All", "?", "Ancient Battlefield", "Arachnos", "Assassin Caves", "Bandit Caves", "Barrow Citadel of the Crimson Fists", "Black Lagoon", "Catacombs", "Chessboard", "City of Midgaard", "Crete", "Demon Empire", "Dirt Path", "Draconia", "Drow Underground City", "Dwarf 'n' Glob Iron Mill", "Dwarfen Undermountain Harbour", "Dwarven Kingdom", "Elemental Canyon", "Elven Forest of Namir", "Elysium Faire", "Galaxy", "Geldenrock", "Gigantia", "Gnome Village", "Godforsaken Slum (PKOK)", "Gragloy Castle", "Graveyard", "Great Elven City of Illir", "Great Pyramid", "Heaven", "Heavy Forest", "Hell", "High Tower of Sorcerery", "Hobbit Village", "Hobgoblin Mines", "Japan", "King Welmar's Castle", "Lizardmen Hometown", "Ma Glob's Dancing Parlor", "Mahn-Tor", "Midgaard Sewers", "Moria Mountains", "Myconoid Temple", "Nomad Camp", "Northern Road", "Pirates of Silven Raven", "Pirates of Silver Raven", "Psionicist School", "Quifael's House", "Rage of the Gods", "Rand's Tower", "Redferne's Residence", "Rome", "Samurai Tower", "Shaalziran'dar", "Small Temple", "Stanneg", "Storm Dragons Fortress", "Swamp", "Thalos", "The Lost City of Delray", "The Newbie Zoo", "Three of Swords", "Troll Caves", "Tynstri", "Ultima", "Undertemple", "Village of Faerise", "Village of Miqi'erke", "Village of the Merkins", "Werehome"
-        ];
-
-
-
-        // Populate dropdown with locations
-        const dropdown = document.getElementById("locationDropdown");
-        locations.forEach(location => {
-            let option = document.createElement("option");
-            option.value = location; // ✅ Use actual location name, not file path
-            option.textContent = location.replace(/_/g, " ").toUpperCase();
-            dropdown.appendChild(option);
-        });
-
-        // Populate dropdown with Classes
-        const classfilterdropdown = document.getElementById("classFilter");
-        classNames.forEach(className => {
-            let option = document.createElement("option");
-            option.value = className; // ✅ Use actual location name, not file path
-            option.textContent = className;
-            classfilterdropdown.appendChild(option);
-        });
-
-
-        function loadCSV(filePath = null) {
-            const file = filePath || document.getElementById('csvFile').files[0]; // Use uploaded file if available
-            if (!file) return;
-
-            fetch(file)
-                .then(response => response.text())
-                .then(csvText => {
-                    Papa.parse(csvText, {
-                        complete: function(results) {
-                            tableData = results.data.map(row => convertClassNumbersToAbbreviations(row));
-                            populateSlotFilter(tableData);
-                            displayTable(tableData);
-                        },
-                        header: true,
-                        skipEmptyLines: true
-                    });
-                })
-                .catch(error => console.error("Error loading CSV:", error));
-        }
-        document.addEventListener("DOMContentLoaded", function() {
-            loadCSV("eqlist_formatted.csv"); // Auto-load the default CSV
-        });
-
-
-
-        function convertClassNumbersToAbbreviations(row) {
-            if (row["Classes"] && /^[01]+$/.test(row["Classes"])) {
-                let classValues = row["Classes"].split('').map((num, index) => num === "1" ? classNames[index] : null).filter(Boolean);
-                row["Classes"] = classValues.join(", ") || "None";
-            }
-            return row;
-        }
-
-        function populateSlotFilter(data) {
-            let slotFilter = document.getElementById("slotFilter");
-            let slots = new Set(data.map(row => row["Slot"]).filter(slot => slot));
-            slotFilter.innerHTML = '<option value="">All</option>' + Array.from(slots).map(slot => `<option value="${slot}">${slot}</option>`).join('');
-        }
-
-        function displayTable(data) {
-        const container = document.getElementById("itemContainer");
-        container.innerHTML = ""; // Clear old items
-
-        if (data.length === 0) return;
-
-        data.forEach(row => {
-            // Outer item card
-            let card = document.createElement("div");
-            card.classList.add("item-card");
-
-            // Add each property
-            Object.keys(row).forEach(key => {
-                let propDiv = document.createElement("div");
-                propDiv.classList.add("item-property", `prop-${key.replace(/\s+/g, '-').toLowerCase()}`);
-
-                let label = document.createElement("span");
-                label.classList.add("prop-label");
-                label.textContent = `${key}: `;
-
-                let value = document.createElement("span");
-                value.classList.add("prop-value");
-                value.textContent = row[key];
-
-                propDiv.appendChild(label);
-                propDiv.appendChild(value);
-                card.appendChild(propDiv);
-            });
-
-            container.appendChild(card);
-        });
-    }
-
-
-
-
-        /*
-        function displayTable(data) {
-            const table = document.getElementById("itemTable").getElementsByTagName('tbody')[0];
-            const headerRow = document.getElementById("tableHeaders");
-            table.innerHTML = "";
-            headerRow.innerHTML = "";
-            
-            if (data.length === 0) return;
-            
-            // Adjust header names
-            let headers = Object.keys(data[0]).map(key => {
-                if (key === "Monster") return "Monster or NPC";
-                return key;
-            });
-            
-            // Create headers
-            headers.forEach(key => {
-                let th = document.createElement("th");
-                th.textContent = key;
-                headerRow.appendChild(th);
-            });
-            
-            // Populate table
-            data.forEach(row => {
-                let tr = document.createElement("tr");
-                console.log(row)
-                Object.keys(row).forEach(key => {
-                    if(key === 'As') {
-                        let enabledClassNames = [];
-                        const classEnabledString = row[key];
-                        for (let i = 0; i < classEnabledString.length; i++) {
-                            const currentClassString = classNames[i];
-                            const enabled = classEnabledString.charAt(i) === '1';
-                            if (enabled) {
-                                enabledClassNames.push(currentClassString);
-                            }
-                        }
-                        row[key] = enabledClassNames.join(', ');
-                    }
-                })
-                Object.values(row).forEach(value => {
-                    console.log(value)
-                    let td = document.createElement("td");
-                    td.textContent = value;
-                    tr.appendChild(td);
-                });
-                table.appendChild(tr);
-            });
-        }
-*/
-        function filterTable() {
-            let level = document.getElementById("levelFilter").value;
-            let classFilter = document.getElementById("classFilter").value.toLowerCase();
-            let slotFilter = document.getElementById("slotFilter").value;
-            let locationFilter = document.getElementById("locationDropdown").value;
-            
-            let filteredData = tableData.filter(row => {
-                let meetsLevel = level === "" || parseInt(row["Min Level"]) >= parseInt(level);
-                let meetsClass = classFilter === "" || row["Classes"].toLowerCase().includes(classFilter);
-                let meetsSlot = slotFilter === "" || row["Slot"] === slotFilter;
-                let meetsLocation = locationFilter === "All" || locationFilter === "" || row["Location"] === locationFilter; // ✅ Fix
-                return meetsLevel && meetsClass && meetsSlot && meetsLocation;
-            });           
-            displayTable(filteredData);
-        }
-
-        function sortTable() {
-            const sortedData = tableData.sort((a, b) => {
-                console.log(a, b)
-            })
-            displayTable(sortedData);
-        }
-
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>

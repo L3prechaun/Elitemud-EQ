@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.item-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 20px;
+}
+
+.item-card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.item-property {
+    margin: 3px 0;
+}
+
+.prop-label {
+    font-weight: bold;
+    color: #555;
+}
+
+.prop-value {
+    color: #222;
+}
