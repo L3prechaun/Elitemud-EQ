@@ -37,7 +37,7 @@ window.addEventListener("DOMContentLoaded", () => {
             const results = Papa.parse(csvText, { header: true, skipEmptyLines: true });
             tableData = results.data.map(row => convertClassNumbersToAbbreviations(row));
             populateSlotFilter(tableData);
-            displayTable(tableData);
+            displayTableAsDivs(tableData);
         })
         .catch(err => console.warn("Auto-load failed:", err.message));
 });
@@ -59,36 +59,25 @@ function populateSlotFilter(data) {
         Array.from(slots).map(slot => `<option value="${slot}">${slot}</option>`).join('');
 }
 
-function displayTable(data) {
+function displayTableAsDivs(data) {
     const container = document.getElementById("itemContainer");
     container.innerHTML = "";
 
-    if (data.length === 0) return;
-
     data.forEach(row => {
-        let card = document.createElement("div");
-        card.classList.add("item-card");
+        let itemDiv = document.createElement("div");
+        itemDiv.className = "item";
 
         Object.keys(row).forEach(key => {
             let propDiv = document.createElement("div");
-            propDiv.classList.add("item-property", `prop-${key.replace(/\s+/g, '-').toLowerCase()}`);
-
-            let label = document.createElement("span");
-            label.classList.add("prop-label");
-            label.textContent = `${key}: `;
-
-            let value = document.createElement("span");
-            value.classList.add("prop-value");
-            value.textContent = row[key];
-
-            propDiv.appendChild(label);
-            propDiv.appendChild(value);
-            card.appendChild(propDiv);
+            propDiv.className = key.toLowerCase().replace(/\s+/g, "-"); // e.g. "Min Level" -> "min-level"
+            propDiv.textContent = row[key] || "";
+            itemDiv.appendChild(propDiv);
         });
 
-        container.appendChild(card);
+        container.appendChild(itemDiv);
     });
 }
+
 
 function filterTable() {
     let level = document.getElementById("levelFilter").value;
@@ -104,5 +93,5 @@ function filterTable() {
         return meetsLevel && meetsClass && meetsSlot && meetsLocation;
     });
 
-    displayTable(filteredData);
+    displayTableAsDivs(filteredData)
 }

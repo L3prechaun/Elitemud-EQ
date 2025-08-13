@@ -33,3 +33,7 @@ body {
 .prop-value {
     color: #222;
 }
+
+.item > div:empty {
+    display: none;
+}
