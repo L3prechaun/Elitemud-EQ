@@ -7,9 +7,38 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
     <style>
         body { font-family: Arial, sans-serif; }
-        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
-        th, td { border: 1px solid black; padding: 8px; text-align: left; }
-        th { background-color: #f4f4f4; cursor: pointer; }
+        
+        .item-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-top: 20px;
+        }
+
+        .item-card {
+            border: 1px solid #ccc;
+            padding: 10px;
+            width: 320px;
+            background: #fff;
+            border-radius: 6px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .item-property {
+            margin: 3px 0;
+        }
+
+        .prop-label {
+            font-weight: bold;
+            color: #555;
+        }
+
+        .prop-value {
+            color: #222;
+        }
+
     </style>
 </head>
 <body>
@@ -112,6 +141,43 @@
         }
 
         function displayTable(data) {
+        const container = document.getElementById("itemContainer");
+        container.innerHTML = ""; // Clear old items
+
+        if (data.length === 0) return;
+
+        data.forEach(row => {
+            // Outer item card
+            let card = document.createElement("div");
+            card.classList.add("item-card");
+
+            // Add each property
+            Object.keys(row).forEach(key => {
+                let propDiv = document.createElement("div");
+                propDiv.classList.add("item-property", `prop-${key.replace(/\s+/g, '-').toLowerCase()}`);
+
+                let label = document.createElement("span");
+                label.classList.add("prop-label");
+                label.textContent = `${key}: `;
+
+                let value = document.createElement("span");
+                value.classList.add("prop-value");
+                value.textContent = row[key];
+
+                propDiv.appendChild(label);
+                propDiv.appendChild(value);
+                card.appendChild(propDiv);
+            });
+
+            container.appendChild(card);
+        });
+    }
+
+
+
+
+        /*
+        function displayTable(data) {
             const table = document.getElementById("itemTable").getElementsByTagName('tbody')[0];
             const headerRow = document.getElementById("tableHeaders");
             table.innerHTML = "";
@@ -159,7 +225,7 @@
                 table.appendChild(tr);
             });
         }
-
+*/
         function filterTable() {
             let level = document.getElementById("levelFilter").value;
             let classFilter = document.getElementById("classFilter").value.toLowerCase();
