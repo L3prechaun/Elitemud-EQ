@@ -123,15 +123,33 @@ function createCategoryDiv(categoryName, values) {
     let span = document.createElement("span");
     span.textContent = val;
 
-    if (/^HR/i.test(val)) span.className = "stat hr";
-    else if (/^DR/i.test(val)) span.className = "stat dr";
-    else if (/^AC/i.test(val)) span.className = "stat ac";
-    else if (/^Str/i.test(val)) span.className = "attr str";
-    else if (/^Dex/i.test(val)) span.className = "attr dex";
-    else if (/^Con/i.test(val)) span.className = "attr con";
-    else if (/^Int/i.test(val)) span.className = "attr int";
-    else if (/^Wis/i.test(val)) span.className = "attr wis";
-    else if (/^Cha/i.test(val)) span.className = "attr cha";
+    // --- Combat Stats ---
+    if (/^HR/i.test(tok)) span.className = "stat-hr";
+    else if (/^DR/i.test(tok)) span.className = "stat-dr";
+    else if (/^AC/i.test(tok)) span.className = "stat-ac";
+    else if (/^DD/i.test(tok)) span.className = "stat-dd";
+    else if (/^MR/i.test(tok)) span.className = "stat-mr";
+
+    // --- Resistances ---
+    else if (/^FR/i.test(tok)) span.className = "res-fire";
+    else if (/^CR/i.test(tok)) span.className = "res-cold";
+    else if (/^LR/i.test(tok)) span.className = "res-lightning";
+    else if (/^PR/i.test(tok)) span.className = "res-poison";
+
+    // --- Attributes ---
+    else if (/^Str/i.test(tok)) span.className = "attr-str";
+    else if (/^Dex/i.test(tok)) span.className = "attr-dex";
+    else if (/^Con/i.test(tok)) span.className = "attr-con";
+    else if (/^Int/i.test(tok)) span.className = "attr-int";
+    else if (/^Wis/i.test(tok)) span.className = "attr-wis";
+    else if (/^Cha/i.test(tok)) span.className = "attr-cha";
+    else if (/^Agi/i.test(tok)) span.className = "attr-agi";
+
+    // Health & Mana
+    else if (/^Hp/i.test(val)) span.className = "resource hp";
+    else if (/^Mana/i.test(val)) span.className = "resource mana";
+    else if (/^Move/i.test(val)) span.className = "resource move";
+    
     else span.className = "misc";
 
     container.appendChild(span);
@@ -139,6 +157,7 @@ function createCategoryDiv(categoryName, values) {
 
   return container;
 }
+
 
 // ===============================
 // Main table renderer (as divs)
