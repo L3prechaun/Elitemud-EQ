@@ -93,7 +93,6 @@ body {
   
   .row-stats {
     margin-top: 4px;
-    color: darkred;
   }
   
   .row-spacer {
@@ -102,13 +101,11 @@ body {
   
   .row-classes {
     font-size: 0.9em;
-    color: #004488;
   }
   
   .row-bottom {
     margin-top: 4px;
     font-size: 0.9em;
-    color: #333;
   }
   .row-bottom .location {
     font-weight: bold;
@@ -116,5 +113,43 @@ body {
 
 
 
-    .monster {color: var(--darkcyan);}
-    .location {color: var(--darkyellow);}
+  
+
+/* Category-level fallbacks */
+.combat-stats { color: var(--darkred); }
+.attributes { color: teal; }
+.magic-resistance { color: darkblue; }
+.health-mana { color: green; }
+.spells { color: purple; }
+.other-identifiers { color: gray; }
+
+/* Combat stats */
+.stat-hr { font-weight: bold; color: red; }
+.stat-dr { font-weight: bold; color: blue; }
+.stat-ac { font-style: italic; color: brown; }
+.stat-dd { text-decoration: underline; color: darkorange; }
+.stat-mr { color: navy; }
+
+/* Resistances */
+.res-fire { color: orangered; }
+.res-cold { color: skyblue; }
+.res-lightning { color: goldenrod; }
+.res-poison { color: green; }
+
+/* Attributes */
+.attr-str { color: darkred; }
+.attr-dex { color: darkgreen; }
+.attr-con { color: olive; }
+.attr-int { color: darkblue; }
+.attr-wis { color: purple; }
+.attr-cha { color: pink; }
+.attr-agi { color: brown; }
+
+/* Health & Mana */
+.stat-hp { font-weight: bold; color: var(--green); }
+.stat-mana { font-weight: bold; color: var(--darkmagenta); }
+
+
+/* Drops at */
+.monster {color: var(--darkcyan);}
+.location {color: var(--darkyellow);}
