@@ -10,8 +10,8 @@ body {
     gap: 8px;
     margin-top: 20px;
 }
-
-.item-card {
+/*
+.item {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -22,6 +22,7 @@ body {
     border-radius: 6px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
+*/
 
 .item-property {
     margin: 3px 0;
@@ -40,10 +41,63 @@ body {
     display: none;
 }
 
-
 .monster {
     color: #808000;
 }
 .location {
     color: #008281;
 }
+
+
+.item {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin: 8px 0;
+    padding: 8px;
+    background: #fdfdfd;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-between;
+    margin: 2px 0;
+  }
+  
+  .row-top .name {
+    font-weight: bold;
+    font-size: 1.1em;
+  }
+  .row-top .alignment {
+    font-style: italic;
+    color: #666;
+  }
+  
+  .row-mid .slot {
+    font-weight: bold;
+  }
+  .row-mid .weight {
+    text-align: right;
+  }
+  
+  .row-stats {
+    margin-top: 4px;
+    color: darkred;
+  }
+  
+  .row-spacer {
+    height: 10px;
+  }
+  
+  .row-classes {
+    font-size: 0.9em;
+    color: #004488;
+  }
+  
+  .row-bottom {
+    margin-top: 4px;
+    font-size: 0.9em;
+    color: #333;
+  }
+  .row-bottom .location {
+    font-weight: bold;
+  }

@@ -62,21 +62,69 @@ function populateSlotFilter(data) {
 function displayTableAsDivs(data) {
     const container = document.getElementById("itemContainer");
     container.innerHTML = "";
-
+  
     data.forEach(row => {
-        let itemDiv = document.createElement("div");
-        itemDiv.className = "item";
-
-        Object.keys(row).forEach(key => {
-            let propDiv = document.createElement("div");
-            propDiv.className = key.toLowerCase().replace(/\s+/g, "-"); // e.g. "Min Level" -> "min-level"
-            propDiv.textContent = row[key] || "";
-            itemDiv.appendChild(propDiv);
-        });
-
-        container.appendChild(itemDiv);
+      let itemDiv = document.createElement("div");
+      itemDiv.className = "item";
+  
+      // --- Row 1: Name (left) + Alignment (right) ---
+      let row1 = document.createElement("div");
+      row1.className = "row row-top";
+      row1.innerHTML = `
+        <div class="name">${row["Name"] || ""}</div>
+        <div class="alignment">${row["Alignment"] || ""}</div>
+      `;
+      itemDiv.appendChild(row1);
+  
+      // --- Row 2: Slot (left) + Weight (right) ---
+      let row2 = document.createElement("div");
+      row2.className = "row row-mid";
+      row2.innerHTML = `
+        <div class="slot">${row["Slot"] || ""}</div>
+        <div class="weight">${row["Weight"] || ""}</div>
+      `;
+      itemDiv.appendChild(row2);
+  
+      // --- Row 3: Combat stats + everything else not already placed ---
+      let statsRow = document.createElement("div");
+      statsRow.className = "row row-stats";
+      let stats = [
+        row["Combat Stats"],
+        row["Special Effects"],
+        row["Attributes"],
+        row["Magic Resistance"],
+        row["Health & Mana"],
+        row["Spells"],
+        row["Other Identifiers"]
+      ].filter(Boolean).join(" | "); // join non-empty props
+      statsRow.textContent = stats;
+      if (stats) itemDiv.appendChild(statsRow);
+  
+      // --- Row 4: Empty spacer row ---
+      let spacer = document.createElement("div");
+      spacer.className = "row row-spacer";
+      spacer.innerHTML = "&nbsp;";
+      itemDiv.appendChild(spacer);
+  
+      // --- Row 5: Classes ---
+      let classesRow = document.createElement("div");
+      classesRow.className = "row row-classes";
+      classesRow.textContent = row["Classes"] || "";
+      itemDiv.appendChild(classesRow);
+  
+      // --- Row 6: Monster + Location ---
+      let row6 = document.createElement("div");
+      row6.className = "row row-bottom";
+      row6.innerHTML = `
+        <div class="monster">${row["Monster"] || ""}</div>
+        <div class="location">${row["Location"] || ""}</div>
+      `;
+      itemDiv.appendChild(row6);
+  
+      container.appendChild(itemDiv);
     });
-}
+  }
+  
 
 
 function filterTable() {
