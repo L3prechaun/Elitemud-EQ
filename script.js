@@ -166,7 +166,7 @@ function displayTableAsDivs(data) {
     let row1 = document.createElement("div");
     row1.className = "row row-name";
     row1.innerHTML = `<div class="name">${row["Name"]}</div>
-                      <div class="alignment">${row["Other Identifiers"] || ""}</div>`;
+                      <div class="alignment">${row["Alignment"] || ""}</div>`;
     itemDiv.appendChild(row1);
 
     // Row 2: Slot + Weight

@@ -1,5 +1,5 @@
+/* Color Variables */
 :root {
-
     --white: #FFF;
     --magenta: #F0F;
     --cyan: #0FF;
@@ -66,7 +66,7 @@ body {
     border-radius: 6px;
     margin: 8px 0;
     padding: 8px;
-    background: #494949;
+    background: #1b1b1b;
   }
   
   .row {
@@ -112,18 +112,17 @@ body {
   }
 
 
-
+/* Item Styling */
+.name {color: var(--darkcyan);}
+.slot {color: var(--darkwhite);}
   
 
 /* Category-level fallbacks */
-.combat-stats { color: var(--darkred); }
-.attributes { color: teal; }
-.magic-resistance { color: darkblue; }
-.health-mana { color: green; }
 .spells { color: purple; }
 .other-identifiers { color: gray; }
 
 /* Combat stats */
+.combat-stats { color: var(--darkred); }
 .stat-hr { font-weight: bold; color: red; }
 .stat-dr { font-weight: bold; color: blue; }
 .stat-ac { font-style: italic; color: brown; }
@@ -131,12 +130,14 @@ body {
 .stat-mr { color: navy; }
 
 /* Resistances */
+.magic-resistance { color: darkblue; }
 .res-fire { color: orangered; }
 .res-cold { color: skyblue; }
 .res-lightning { color: goldenrod; }
 .res-poison { color: green; }
 
 /* Attributes */
+.attributes { color: teal; }
 .attr-str { color: darkred; }
 .attr-dex { color: darkgreen; }
 .attr-con { color: olive; }
@@ -146,8 +147,9 @@ body {
 .attr-agi { color: brown; }
 
 /* Health & Mana */
-.stat-hp { font-weight: bold; color: var(--green); }
-.stat-mana { font-weight: bold; color: var(--darkmagenta); }
+.health-mana { color: green; }
+.hp { font-weight: bold; color: var(--green); }
+.mana { font-weight: bold; color: var(--darkmagenta); }
 
 
 /* Drops at */
