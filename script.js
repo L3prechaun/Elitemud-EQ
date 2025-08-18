@@ -125,6 +125,54 @@ function displayTableAsDivs(data) {
     });
   }
   
+  function createCategoryDiv(label, value) {
+    if (!value) return "";
+    let div = document.createElement("div");
+    div.className = label.toLowerCase().replace(/\s+/g, "-"); // e.g. "Combat Stats" -> "combat-stats"
+    
+    // Split values into tokens (AC-7, HR+5, Str+2, FR+10, etc.)
+    let tokens = value.split(/\s+/);
+    tokens.forEach(tok => {
+      let span = document.createElement("span");
+  
+      // --- Combat Stats ---
+      if (/^HR/i.test(tok)) span.className = "stat-hr";
+      else if (/^DR/i.test(tok)) span.className = "stat-dr";
+      else if (/^AC/i.test(tok)) span.className = "stat-ac";
+      else if (/^DD/i.test(tok)) span.className = "stat-dd";
+      else if (/^MR/i.test(tok)) span.className = "stat-mr";
+  
+      // --- Resistances ---
+      else if (/^FR/i.test(tok)) span.className = "res-fire";
+      else if (/^CR/i.test(tok)) span.className = "res-cold";
+      else if (/^LR/i.test(tok)) span.className = "res-lightning";
+      else if (/^PR/i.test(tok)) span.className = "res-poison";
+  
+      // --- Attributes ---
+      else if (/^Str/i.test(tok)) span.className = "attr-str";
+      else if (/^Dex/i.test(tok)) span.className = "attr-dex";
+      else if (/^Con/i.test(tok)) span.className = "attr-con";
+      else if (/^Int/i.test(tok)) span.className = "attr-int";
+      else if (/^Wis/i.test(tok)) span.className = "attr-wis";
+      else if (/^Cha/i.test(tok)) span.className = "attr-cha";
+      else if (/^Agi/i.test(tok)) span.className = "attr-agi";
+  
+      // --- Health & Mana ---
+      else if (/^HP/i.test(tok)) span.className = "stat-hp";
+      else if (/^Mana/i.test(tok)) span.className = "stat-mana";
+  
+      // --- Fallback ---
+      else span.className = "stat-generic";
+  
+      span.textContent = tok;
+      div.appendChild(span);
+      div.appendChild(document.createTextNode(" ")); // spacing
+    });
+    
+    return div;
+  }
+  
+  
 
 
 function filterTable() {

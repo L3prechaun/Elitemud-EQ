@@ -1,3 +1,22 @@
+:root {
+
+    --white: #FFF;
+    --magenta: #F0F;
+    --cyan: #0FF;
+    --green: #0F0;
+    --yellow: #FF0;
+    --red: #F00;
+    --blue: #00F;
+
+    --darkwhite: #C0C0C0;
+    --darkmagenta: #8D0084;
+    --darkcyan: #008281;
+    --darkgreen: #008200;
+    --darkyellow: #808000;
+    --darkred: #8D0000;
+    --darkblue: #000086;
+  }
+
 body {
     font-family: Arial, sans-serif;
     background-color: black;
@@ -8,6 +27,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 8px;
+    max-width: 600px;
     margin-top: 20px;
 }
 /*
@@ -40,14 +60,6 @@ body {
 .item > div:empty {
     display: none;
 }
-
-.monster {
-    color: #808000;
-}
-.location {
-    color: #008281;
-}
-
 
 .item {
     border: 1px solid #252525;
@@ -101,3 +113,8 @@ body {
   .row-bottom .location {
     font-weight: bold;
   }
+
+
+
+    .monster {color: var(--darkcyan);}
+    .location {color: var(--darkyellow);}
