@@ -39,3 +39,11 @@ body {
 .item > div:empty {
     display: none;
 }
+
+
+.monster {
+    color: #808000;
+}
+.location {
+    color: #008281;
+}
