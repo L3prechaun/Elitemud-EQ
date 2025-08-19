@@ -31,3 +31,7 @@ export function filterTable() {
 
   renderItems(filteredData);
 }
+document.getElementById("levelFilter").addEventListener("input", filterTable);
+document.getElementById("classFilter").addEventListener("input", filterTable);
+document.getElementById("slotFilter").addEventListener("change", filterTable);
+document.getElementById("locationDropdown").addEventListener("change", filterTable);
