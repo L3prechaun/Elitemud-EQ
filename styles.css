@@ -18,7 +18,7 @@
   }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Micro 5", sans-serif;
     background-color: black;
     color: white;
 }
@@ -30,6 +30,13 @@ body {
     max-width: 600px;
     margin-top: 20px;
 }
+
+/* Font */
+.micro-5-regular {
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
 /*
 .item {
     display: flex;
