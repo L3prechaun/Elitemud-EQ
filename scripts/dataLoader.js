@@ -39,3 +39,8 @@ export function autoLoadCSV(path = "eqlist_formatted.csv") {
     })
     .catch(err => console.warn("⚠ Auto-load failed:", err.message));
 }
+
+// 🚀 Run on page load
+document.addEventListener("DOMContentLoaded", () => {
+  autoLoadCSV();
+});
