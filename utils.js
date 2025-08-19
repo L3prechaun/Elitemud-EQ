@@ -33,6 +33,9 @@ export function createCategoryDiv(categoryName, values) {
     else if (/^Mana/i.test(val)) span.className = "resource mana";
     else if (/^Move/i.test(val)) span.className = "resource move";
 
+    else if (/^Burning/i.test(val)) span.className = "effect burning";
+    else if (/^Bless/i.test(val)) span.className = "effect bless";
+
     else span.className = "misc";
 
     container.appendChild(span);
