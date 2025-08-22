@@ -32,9 +32,11 @@ body {
 }
 
 /* Font */
-.micro-5-regular {
-    font-family: "Micro 5", sans-serif;
-    font-weight: 400;
+
+.lexend {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
     font-style: normal;
   }
 /*

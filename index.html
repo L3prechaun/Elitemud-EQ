@@ -1,41 +1,186 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MUD Item List</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="icon" type="image/x-icon" href="favicon.png">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Micro+5&display=swap" rel="stylesheet">
-    
-
+  <meta charset="utf-8" />
+  <title>EliteMUD Equipment</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root {
+      --bg:#0b0f14; --card:#101720; --muted:#8aa0b3; --text:#e6eef6; --accent:#6fb1ff; --chip:#1b2530; --line:#1a2330;
+      --good:#35c759; --neutral:#ffcc00; --evil:#ff453a;
+    }
+    html,body {margin:0; padding:0; background:var(--bg); color:var(--text); font:16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, sans-serif;}
+    .container {max-width:1100px; margin:auto; padding:24px;}
+    h1 {margin:0 0 12px; font-size:28px;}
+    .muted {color:var(--muted);}
+    .grid {display:grid; grid-template-columns: repeat(auto-fill,minmax(320px,1fr)); gap:16px;}
+    .card {background:var(--card); border:1px solid var(--line); border-radius:14px; padding:16px;}
+    .heading {display:flex; align-items:center; gap:10px; flex-wrap:wrap;}
+    .name {font-weight:700; font-size:18px;}
+    .small {font-size:13px; color:var(--muted);}
+    .chips {display:flex; gap:6px; flex-wrap:wrap; margin-top:8px;}
+    .chip {background:var(--chip); border:1px solid var(--line); border-radius:999px; padding:3px 10px; font-size:12px; color:var(--muted);}
+    .chip.good {color:var(--good); border-color:rgba(53,199,89,.25);}
+    .chip.neutral {color:var(--neutral); border-color:rgba(255,204,0,.25);}
+    .chip.evil {color:var(--evil); border-color:rgba(255,69,58,.25);}
+    .kv {display:grid; grid-template-columns: 1fr 1fr; gap:10px 14px; margin-top:8px;}
+    .kv div {background:transparent; border:1px dashed var(--line); border-radius:10px; padding:8px;}
+    .kv b {display:block; font-size:12px; color:var(--muted); margin-bottom:2px;}
+    .section {margin-top:10px; border-top:1px solid var(--line); padding-top:10px;}
+    .mono {font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;}
+    .footer {margin-top:6px; font-size:12px; color:var(--muted);}
+    .count {margin-bottom:8px; color:var(--muted);}
+    .pill {display:inline-block; padding:2px 8px; border-radius:999px; background:var(--chip); color:var(--muted); font-size:12px; border:1px solid var(--line);}
+    a {color:var(--accent); text-decoration:none;}
+    .row {display:flex; gap:10px; flex-wrap:wrap;}
+  </style>
 </head>
 <body>
-    <h1>MUD Item List</h1>
+  <div class="container">
+    <h1>EliteMUD Equipment</h1>
+    <div class="count" id="count">Loading…</div>
+    <div class="grid" id="grid"></div>
+  </div>
 
-  <!-- Filters -->
-  <label for="levelFilter">Minimum Level:</label>
-  <input type="number" id="levelFilter">
+  <script>
+    // Path to your minimized JSON (place next to this file)
+    const DATA_URL = 'eqlist_min.json';
 
-  <label for="classFilter">Class:</label>
-  <input type="text" id="classFilter" placeholder="Enter class name">
+    const fmtKV = (obj, labelMap={}) => {
+      if (!obj || typeof obj !== 'object') return '';
+      const entries = Object.entries(obj)
+        .filter(([k,v]) => v !== null && v !== undefined && v !== '' && !(typeof v === 'object' && Object.keys(v).length===0));
+      if (!entries.length) return '';
+      return `
+        <div class="kv">
+          ${entries.map(([k,v]) => {
+            const label = labelMap[k] || k;
+            const val = Array.isArray(v) ? v.join(', ') : (typeof v === 'object' ? JSON.stringify(v) : v);
+            return `<div><b>${label}</b><div class="mono">${val}</div></div>`;
+          }).join('')}
+        </div>
+      `;
+    };
 
-  <label for="slotFilter">Slot:</label>
-  <select id="slotFilter"></select>
+    const section = (title, html) => {
+      if (!html) return '';
+      return `<div class="section"><div class="small">${title}</div>${html}</div>`;
+    };
 
-  <label for="locationDropdown">Location:</label>
-  <select id="locationDropdown"></select>
+    const listChips = (items, className='') =>
+      items?.length ? `<div class="chips">${items.map(x => `<span class="chip ${className}">${x}</span>`).join('')}</div>` : '';
 
-  <!-- Item list -->
-  <div id="itemContainer" class="item-container"></div>
+    const renderItem = (it) => {
+      // heading line bits
+      const topLine = [
+        it.Slot, 
+        it.Type, 
+        (typeof it.Weight === 'number' ? `Wg${it.Weight}` : null),
+        it.Minimumlevel != null ? `Min Lvl ${it.Minimumlevel}` : null
+      ].filter(Boolean).join(' • ');
 
-  <!-- Scripts -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
-  <script type="module" src="./scripts/dataLoader.js" defer></script>
-  <script type="module" src="./scripts/filters.js" defer></script>
-  <script type="module" src="./scripts/renderItems.js" defer></script>
-  <script type="module" src="./scripts/utils.js" defer></script>
+      // Alignment chips (only those present in min JSON)
+      const alignChips = [];
+      if (it['Alignment Indicators']) {
+        if (it['Alignment Indicators'].Good) alignChips.push('<span class="chip good">Good</span>');
+        if (it['Alignment Indicators'].Neutral) alignChips.push('<span class="chip neutral">Neutral</span>');
+        if (it['Alignment Indicators'].Evil) alignChips.push('<span class="chip evil">Evil</span>');
+      }
+
+      // Archetypes as chips (min JSON keeps only true keys)
+      const archObj = it['Class Archetypes'] || {};
+      const archChips = Object.keys(archObj).filter(k => archObj[k]).map(k => `<span class="chip">${k}</span>`);
+
+      // Combat stats (Dice/AC/DR/HR) — show only present keys
+      const combat = it['Combat Stats'];
+      let combatHTML = '';
+      if (combat && typeof combat === 'object') {
+        const map = { Dice:'Dice', AC:'AC', DR:'DR', HR:'HR' };
+        const kvs = Object.keys(combat).filter(k => combat[k] !== undefined && combat[k] !== null && combat[k] !== '' )
+          .map(k => `<div><b>${map[k]||k}</b><div class="mono">${combat[k]}</div></div>`).join('');
+        if (kvs) combatHTML = `<div class="kv">${kvs}</div>`;
+      }
+
+      // Attributes / Resources / Magic Res (only values that exist)
+      const attrMap = {Str:'Str', Dex:'Dex', Int:'Int', Wis:'Wis', Cha:'Cha', Con:'Con', Agi:'Agi'};
+      const resMap  = {HP:'HP', MN:'MN', MV:'MV'};
+      const mrMap   = {MR:'MR', SPo:'SPo', SPh:'SPh', SMe:'SMe', SMa:'SMa'};
+
+      // Special Effects → booleans + numeric (arm/cap/age/nodrop/norent/noinf/2hand/evil/etc.)
+      const specials = it['Special Effects'];
+      let specialsHTML = '';
+      if (specials && typeof specials === 'object') {
+        const bools = [];
+        const nums = [];
+        for (const [k,v] of Object.entries(specials)) {
+          if (typeof v === 'boolean' && v) bools.push(k);
+          if (typeof v === 'number') nums.push([k,v]);
+        }
+        if (bools.length) specialsHTML += listChips(bools.map(k => k.toLowerCase()));
+        if (nums.length) specialsHTML += fmtKV(Object.fromEntries(nums));
+      }
+
+      // Spells → list
+      let spellsHTML = '';
+      if (Array.isArray(it.Spells) && it.Spells.length) {
+        spellsHTML = `
+          <div class="chips">
+            ${it.Spells.map(s => `<span class="pill">${s.count}x ${s.name}</span>`).join('')}
+          </div>
+        `;
+      }
+
+      // Footer (monster/location, classes mask)
+      const footBits = [];
+      if (it.Monster) footBits.push(`Mob: ${it.Monster}`);
+      if (it.Location) footBits.push(`Zone: ${it.Location}`);
+      if (it.Classes && it.Classes !== 'All') footBits.push(`Classes: ${it.Classes}`);
+
+      return `
+        <div class="card">
+          <div class="heading">
+            <div class="name">${it.Name || 'Unnamed item'}</div>
+            ${it.ID ? `<span class="pill mono">#${it.ID}</span>` : ''}
+          </div>
+          ${topLine ? `<div class="small">${topLine}</div>` : ''}
+
+          ${alignChips.length ? `<div class="chips" style="margin-top:6px;">${alignChips.join('')}</div>` : ''}
+          ${archChips.length ? `<div class="chips">${archChips.join('')}</div>` : ''}
+
+          ${section('Combat', combatHTML)}
+          ${section('Attributes', fmtKV(it.Attributes, attrMap))}
+          ${section('Resources', fmtKV(it['Resources'], resMap))}
+          ${section('Magic Res', fmtKV(it['Magic Res'], mrMap))}
+          ${section('Special Effects', specialsHTML)}
+          ${section('Spells', spellsHTML)}
+          ${it.Misc && it.Misc.length ? section('Misc', `<div class="small mono">${it.Misc.join(', ')}</div>`) : ''}
+
+          ${footBits.length ? `<div class="footer">${footBits.join(' • ')}</div>` : ''}
+        </div>
+      `;
+    };
+
+    (async function init(){
+      try {
+        const res = await fetch(DATA_URL, {cache: 'no-store'});
+        const data = await res.json();
+
+        // sort by Minimumlevel then Name
+        const items = [...data].sort((a,b) => {
+          const al = (a.Minimumlevel ?? 999999), bl = (b.Minimumlevel ?? 999999);
+          if (al !== bl) return al - bl;
+          return (a.Name||'').localeCompare(b.Name||'');
+        });
+
+        document.getElementById('count').textContent = `${items.length} items`;
+
+        const html = items.map(renderItem).join('');
+        document.getElementById('grid').innerHTML = html;
+      } catch (e) {
+        document.getElementById('count').textContent = 'Failed to load eqlist_min.json';
+        console.error(e);
+      }
+    })();
+  </script>
 </body>
 </html>
