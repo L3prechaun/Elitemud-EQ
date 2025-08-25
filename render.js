@@ -75,25 +75,46 @@ export const renderItem = (it) => {
     spellsHTML = `<div class="chips">${it.Spells.map(s => `<span class="pill">${s.count}x ${s.name}</span>`).join('')}</div>`;
   }
 
-  const footLines = [];
 
-  // Found line
-  const foundBits = [];
-  if (it.Monster) foundBits.push(it.Monster);
-  if (it.Location) foundBits.push(it.Location);
-  if (foundBits.length) footLines.push(`Found: ${foundBits.join('  •  ')}`);
-  
-  // Classes line
-  if (it.Classes && it.Classes !== 'All') {
-    const abbrevs = decodeClasses(it.Classes);
-    if (abbrevs.length) footLines.push(`Classes: ${abbrevs.join(' ')}`);
+// --- footer lines (with CSS hooks) ---
+
+const footLines = [];
+
+// 1) CLASSES line FIRST (above Found)
+if (it.Classes && it.Classes !== 'All') {
+  const abbrevs = decodeClasses(it.Classes);
+  if (abbrevs.length) {
+    footLines.push(
+      `<div class="footer-line classes">
+         <span class="label">Classes:</span>
+         <span class="classes__list">${abbrevs.join(' ')}</span>
+       </div>`
+    );
   }
-  
-  // build footer string
-  const footerHTML = footLines.length
-    ? `<div class="footer">${footLines.join('<br/>')}</div>`
-    : '';
+}
 
+// 2) FOUND line (with separate hooks for monster/location)
+const monster = it.Monster;
+const location = it.Location;
+if (monster || location) {
+  // build inner parts with specific hooks you can style separately
+  const parts = [];
+  if (monster)  parts.push(`<span class="found__monster">${monster}</span>`);
+  if (location) parts.push(`<span class="found__location">${location}</span>`);
+  footLines.push(
+    `<div class="footer-line found">
+       <span class="label">Found:</span>
+       <span class="found__content">${parts.join('  •  ')}</span>
+     </div>`
+  );
+}
+
+// Final footer HTML
+const footerHTML = footLines.length
+  ? `<div class="footer">${footLines.join('')}</div>`
+  : '';
+
+    
   return `
     <div class="card">
       <div class="heading">

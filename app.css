@@ -169,6 +169,34 @@
     font-size:12px;
     color:var(--muted);
   }
+  .footer-line { 
+    margin-top: 4px; 
+    display: block; 
+  }
+  .footer-line .label {
+    font-weight: 600; 
+    margin-right: 6px; 
+    color: var(--darkwhite); 
+    opacity: .8; 
+  }
+
+  /* Classes row */
+  .footer-line.classes {
+    color: var(--darkwhite); 
+  }
+  .footer-line .classes__list { letter-spacing: .5px; }
+
+  /* Found row */
+  .footer-line.found {
+    color: var(--darkwhite);
+  }
+  .footer-line .found__monster {
+    color: var(--darkyellow); 
+  }
+  .footer-line .found__location {
+    color: var(--darkcyan); 
+  }
+  
   .pill{
     display:inline-block;
     padding:2px 8px;
