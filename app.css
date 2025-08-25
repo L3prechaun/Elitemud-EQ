@@ -88,9 +88,10 @@
     cursor:pointer
   }
   .grid{
-    display:grid;
-    grid-template-columns:repeat(auto-fill,minmax(320px,1fr));
-    gap:16px;
+    display:block;
+    }
+  .grid .card {
+    margin-bottom: 16px;
   }
   .card{
     background:var(--card);
