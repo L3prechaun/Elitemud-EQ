@@ -75,7 +75,6 @@ export const renderItem = (it) => {
     spellsHTML = `<div class="chips">${it.Spells.map(s => `<span class="pill">${s.count}x ${s.name}</span>`).join('')}</div>`;
   }
 
-  const footBits = [];
   const footLines = [];
 
   // Found line
@@ -90,11 +89,10 @@ export const renderItem = (it) => {
     if (abbrevs.length) footLines.push(`Classes: ${abbrevs.join(' ')}`);
   }
   
+  // build footer string
   const footerHTML = footLines.length
     ? `<div class="footer">${footLines.join('<br/>')}</div>`
     : '';
-  
-  
 
   return `
     <div class="card">
@@ -104,7 +102,6 @@ export const renderItem = (it) => {
       </div>
       ${topLine ? `<div class="small">${topLine}</div>` : ''}
       ${alignChips.length ? `<div class="chips" style="margin-top:6px;">${alignChips.join('')}</div>` : ''}
-      
 
       ${section('Combat', combatHTML)}
       ${section('Attributes', fmtKV(it.Attributes, attrMap))}
@@ -114,10 +111,9 @@ export const renderItem = (it) => {
       ${section('Spells', spellsHTML)}
       ${it.Misc && it.Misc.length ? section('Misc', `<div class="small mono">${it.Misc.join(', ')}</div>`) : ''}
 
-      ${footBits.length ? `<div class="footer">${footerHTML.join(' • ')}</div>` : ''}
+      ${footerHTML}
     </div>
   `;
-};
 
 
 
