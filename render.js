@@ -1,3 +1,16 @@
+import { CLASS_ORDER } from './filters.js';   // at the top
+
+const decodeClasses = (mask) => {
+  if (!mask || mask === 'All') return [];
+  const bits = String(mask).replace(/\s+/g,'').split('');
+  const out = [];
+  bits.forEach((b,i) => {
+    if (b === '1') out.push(CLASS_ORDER[i]);
+  });
+  return out;
+};
+
+
 // render.js — card rendering helpers
 
 const listChips = (items, className='') =>
@@ -33,8 +46,8 @@ export const renderItem = (it) => {
     if (it['Alignment Indicators'].Evil) alignChips.push('<span class="chip evil">Evil</span>');
   }
 
-  const archObj = it['Class Archetypes'] || {};
-  const archChips = Object.keys(archObj).filter(k => archObj[k]).map(k => `<span class="chip">${k}</span>`);
+ // const archObj = it['Class Archetypes'] || {};
+ // const archChips = Object.keys(archObj).filter(k => archObj[k]).map(k => `<span class="chip">${k}</span>`);
 
   const combat = it['Combat Stats'];
   let combatHTML = '';
@@ -63,9 +76,25 @@ export const renderItem = (it) => {
   }
 
   const footBits = [];
-  if (it.Monster) footBits.push(`Mob: ${it.Monster}`);
-  if (it.Location) footBits.push(`Zone: ${it.Location}`);
-  if (it.Classes && it.Classes !== 'All') footBits.push(`Classes: ${it.Classes}`);
+  const footLines = [];
+
+  // Found line
+  const foundBits = [];
+  if (it.Monster) foundBits.push(it.Monster);
+  if (it.Location) foundBits.push(it.Location);
+  if (foundBits.length) footLines.push(`Found: ${foundBits.join('  •  ')}`);
+  
+  // Classes line
+  if (it.Classes && it.Classes !== 'All') {
+    const abbrevs = decodeClasses(it.Classes);
+    if (abbrevs.length) footLines.push(`Classes: ${abbrevs.join(' ')}`);
+  }
+  
+  const footerHTML = footLines.length
+    ? `<div class="footer">${footLines.join('<br/>')}</div>`
+    : '';
+  
+  
 
   return `
     <div class="card">
@@ -85,7 +114,10 @@ export const renderItem = (it) => {
       ${section('Spells', spellsHTML)}
       ${it.Misc && it.Misc.length ? section('Misc', `<div class="small mono">${it.Misc.join(', ')}</div>`) : ''}
 
-      ${footBits.length ? `<div class="footer">${footBits.join(' • ')}</div>` : ''}
+      ${footBits.length ? `<div class="footer">${footerHTML.join(' • ')}</div>` : ''}
     </div>
   `;
 };
+
+
+
