@@ -114,6 +114,4 @@ export const renderItem = (it) => {
       ${footerHTML}
     </div>
   `;
-
-
-
+};
