@@ -104,7 +104,7 @@ export const renderItem = (it) => {
       </div>
       ${topLine ? `<div class="small">${topLine}</div>` : ''}
       ${alignChips.length ? `<div class="chips" style="margin-top:6px;">${alignChips.join('')}</div>` : ''}
-      ${archChips.length ? `<div class="chips">${archChips.join('')}</div>` : ''}
+      
 
       ${section('Combat', combatHTML)}
       ${section('Attributes', fmtKV(it.Attributes, attrMap))}
