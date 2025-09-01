@@ -7,107 +7,110 @@
   <link rel="stylesheet" href="./app.css" />
 </head>
 <body>
+  <h1>EliteMUD Equipment</h1>
   <div class="container">
-    <h1>EliteMUD Equipment</h1>
 
-    <!-- FILTERS -->
-    <div class="filters" id="filters">
-      <div class="fgroup">
-        <label class="small">Has stat</label>
-        <select class="sel" id="hasStat">
-          <option value="">(any)</option>
-          <option value="DR">Has DR</option>
-          <option value="HR">Has HR</option>
-          <option value="AC">Has AC</option>
-          <option value="Dice">Has Dice</option>
-          <option value="Attributes">Has Attributes</option>
-          <option value="MagicRes">Has Magic Res</option>
-          <option value="Spells">Has Spells</option>
-          <option value="Specials">Has Special Effects</option>
-        </select>
-      </div>
-
-      <div class="fgroup">
-        <label class="small">Classes (any of)</label>
-        <select class="sel" id="classMulti" multiple size="6">
-          <option value="As">Assassin</option>
-          <option value="Ba">Bard</option>
-          <option value="Ca">Cavalier</option>
-          <option value="Cl">Cleric</option>
-          <option value="Dr">Druid</option>
-          <option value="Il">Illusionist</option>
-          <option value="Kn">Knight</option>
-          <option value="Ma">Mariner</option>
-          <option value="Mo">Monk</option>
-          <option value="Mu">Magic User</option>
-          <option value="Ni">Ninja</option>
-          <option value="Pa">Paladin</option>
-          <option value="Ps">Psionicist</option>
-          <option value="Ra">Ranger</option>
-          <option value="Th">Thief</option>
-          <option value="Wa">Warrior</option>
-          <option value="Wi">Wizard</option>
-          <option value="il">Illusionist (alt)</option>
-        </select>
-      </div>
-
-      <div class="fgroup">
-        <label class="small">Effects (must have all)</label>
-        <select class="sel" id="effectsMulti" multiple size="6">
-          <option>flaming</option>
-          <option>berzerk</option>
-          <option>bless</option>
-          <option>curse</option>
-          <option>hide</option>
-          <option>sneak</option>
-          <option>backstab</option>
-          <option>detect</option>
-          <option>detectmagic</option>
-          <option>invisibility</option>
-          <option>waterbreath</option>
-          <option>noinf</option>
-          <option>2hand</option>
-          <option>evil</option>
-          <option>nodrop</option>
-          <option>norent</option>
-          <option>regeneration</option>
-          <option>dodge</option>
-          <option>fly</option>
-          <option>infra</option>
-          <option>light</option>
-          <option>sense</option>
-          <option>senselife</option>
-        </select>
-      </div>
-
-      <div class="fgroup">
-        <label class="small">Min Resources</label>
-        <div class="frow">
-          <label class="small">HP</label><input id="minHP" class="num" type="number" step="1" />
-          <label class="small">MN</label><input id="minMN" class="num" type="number" step="1" />
-          <label class="small">MV</label><input id="minMV" class="num" type="number" step="1" />
-        </div>
-      </div>
-
-      <div class="fgroup">
-        <label class="small">Sort by</label>
-        <select class="sel" id="sortBy">
-          <option value="lvl">Min Level, then Name</option>
-          <option value="name">Name (A→Z)</option>
-          <option value="dr">DR (desc)</option>
-          <option value="hr">HR (desc)</option>
-          <option value="ac">AC (desc)</option>
-        </select>
-        <div class="frow">
-          <button id="resetBtn">Reset</button>
-        </div>
-      </div>
-    </div>
-
-    <div class="count" id="count">Loading…</div>
     <div class="grid" id="grid"></div>
-  </div>
 
+    <div class="rightcol">
+
+      <!-- FILTERS -->
+      <div class="filters" id="filters">
+        <div class="count" id="count">Loading…</div>
+
+        <div class="fgroup">
+          <label class="small">Has stat</label>
+            <select class="sel" id="hasStat">
+              <option value="">(any)</option>
+              <option value="DR">Has DR</option>
+              <option value="HR">Has HR</option>
+              <option value="AC">Has AC</option>
+              <option value="Dice">Has Dice</option>
+              <option value="Attributes">Has Attributes</option>
+              <option value="MagicRes">Has Magic Res</option>
+              <option value="Spells">Has Spells</option>
+              <option value="Specials">Has Special Effects</option>
+            </select>
+         </div>
+
+         <div class="fgroup">
+          <label class="small">Classes (any of)</label>
+          <select class="sel" id="classMulti" multiple size="6">
+            <option value="As">Assassin</option>
+            <option value="Ba">Bard</option>
+            <option value="Ca">Cavalier</option>
+            <option value="Cl">Cleric</option>
+            <option value="Dr">Druid</option>
+            <option value="Il">Illusionist</option>
+            <option value="Kn">Knight</option>
+            <option value="Ma">Mariner</option>
+            <option value="Mo">Monk</option>
+            <option value="Mu">Magic User</option>
+            <option value="Ni">Ninja</option>
+            <option value="Pa">Paladin</option>
+            <option value="Ps">Psionicist</option>
+            <option value="Ra">Ranger</option>
+            <option value="Th">Thief</option>
+            <option value="Wa">Warrior</option>
+            <option value="Wi">Wizard</option>
+            <option value="il">Illusionist (alt)</option>
+          </select>
+        </div>
+  
+        <div class="fgroup">
+          <label class="small">Effects (must have all)</label>
+          <select class="sel" id="effectsMulti" multiple size="6">
+            <option>flaming</option>
+            <option>berzerk</option>
+            <option>bless</option>
+            <option>curse</option>
+            <option>hide</option>
+            <option>sneak</option>
+            <option>backstab</option>
+            <option>detect</option>
+            <option>detectmagic</option>
+            <option>invisibility</option>
+            <option>waterbreath</option>
+            <option>noinf</option>
+            <option>2hand</option>
+            <option>evil</option>
+            <option>nodrop</option>
+            <option>norent</option>
+            <option>regeneration</option>
+            <option>dodge</option>
+            <option>fly</option>
+            <option>infra</option>
+            <option>light</option>
+            <option>sense</option>
+            <option>senselife</option>
+          </select>
+        </div>
+
+        <div class="fgroup">
+          <label class="small">Min Resources</label>
+          <div class="frow">
+            <label class="small">HP</label><input id="minHP" class="num" type="number" step="1" />
+            <label class="small">MN</label><input id="minMN" class="num" type="number" step="1" />
+            <label class="small">MV</label><input id="minMV" class="num" type="number" step="1" />
+          </div>
+        </div>
+  
+        <div class="fgroup">
+          <label class="small">Sort by</label>
+          <select class="sel" id="sortBy">
+            <option value="lvl">Min Level, then Name</option>
+            <option value="name">Name (A→Z)</option>
+            <option value="dr">DR (desc)</option>
+            <option value="hr">HR (desc)</option>
+            <option value="ac">AC (desc)</option>
+          </select>
+
+          <div class="frow">
+            <button id="resetBtn">Reset</button>
+          </div>
+        </div>
+    </div>
+  </div>
   <!-- Modules -->
   <script type="module" src="./main.js"></script>
 </body>

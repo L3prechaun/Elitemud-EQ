@@ -15,6 +15,10 @@
     --darkyellow: #808000;
     --darkred: #8D0000;
     --darkblue: #000086;
+
+    --bg:#0b0f14; --panel:#0f151d; --card:#101720; --muted:#8aa0b3; --text:#e6eef6;
+    --accent:#6fb1ff; --chip:#1b2530; --line:#1a2330;
+    --good:#35c759; --neutral:#ffcc00; --evil:#ff453a;
   }
 
 /* Font */
@@ -25,12 +29,6 @@
     font-style: normal;
   }
 
-  :root {
-    --bg:#0b0f14; --panel:#0f151d; --card:#101720; --muted:#8aa0b3; --text:#e6eef6;
-    --accent:#6fb1ff; --chip:#1b2530; --line:#1a2330;
-    --good:#35c759; --neutral:#ffcc00; --evil:#ff453a;
-  }
-
   html,body{
     margin:0;
     padding:0;
@@ -38,20 +36,26 @@
     color:var(--text);
     font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
   }
-  
+
+  h1{
+    margin:auto;
+    font-size:28px;
+    margin-top:24px;
+    margin-bottom:24px;
+  }
+
   .container{
     max-width:1200px;
     margin:auto;
+    display: flex;
+    gap:12px;
     padding:20px;
   }
+  .rightcol{
+    max-width:300px;
+    display: flex;
+  }
   
-  h1{
-    margin:0 0 12px;
-    font-size:28px;
-  }
-  .muted{
-    color:var(--muted);
-  }
   .filters{
     background:var(--panel);
     border:1px solid var(--line);
@@ -89,7 +93,9 @@
   }
   .grid{
     display:block;
+    max-width: 600px;
     }
+    
   .grid .card {
     margin-bottom: 16px;
   }
@@ -111,6 +117,9 @@
   }
   .small{
     font-size:13px;
+    color:var(--muted);
+  }
+  .muted{
     color:var(--muted);
   }
   .chips{
