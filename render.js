@@ -119,10 +119,11 @@ const footerHTML = footLines.length
     <div class="card">
       <div class="heading">
         <div class="name">${it.Name || 'Unnamed item'}</div>
-        ${it.ID ? `<span class="pill mono">#${it.ID}</span>` : ''}
+        ${alignChips.length ? `<div class="chips" style="margin-top:6px;">${alignChips.join('')}</div>` : ''}
       </div>
       ${topLine ? `<div class="small">${topLine}</div>` : ''}
-      ${alignChips.length ? `<div class="chips" style="margin-top:6px;">${alignChips.join('')}</div>` : ''}
+      ${it.ID ? `<span class="pill mono">#${it.ID}</span>` : ''}
+      
 
       ${section('Combat', combatHTML)}
       ${section('Attributes', fmtKV(it.Attributes, attrMap))}

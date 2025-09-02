@@ -34,7 +34,7 @@
     padding:0;
     background:var(--bg);
     color:var(--text);
-    font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+    font:14px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
   }
 
   h1{
@@ -53,6 +53,7 @@
   }
   .rightcol{
     max-width:300px;
+    max-height: 800px;
     display: flex;
   }
   
@@ -83,7 +84,6 @@
     border:1px solid var(--line);
     border-radius:10px;
     padding:8px 10px;
-    font-size:14px;
   }
   .sel{
     width:100%;
@@ -95,7 +95,7 @@
     display:block;
     max-width: 600px;
     }
-    
+
   .grid .card {
     margin-bottom: 16px;
   }
@@ -109,14 +109,14 @@
     display:flex;
     align-items:center;
     gap:10px;
+    color:var(--darkgreen);
     flex-wrap:wrap;
   }
   .name{
     font-weight:700;
-    font-size:18px;
+    margin-right: auto;
   }
   .small{
-    font-size:13px;
     color:var(--muted);
   }
   .muted{
@@ -133,7 +133,6 @@
     border:1px solid var(--line);
     border-radius:999px;
     padding:3px 10px;
-    font-size:12px;
     color:var(--muted);
   }
   .chip.good{
@@ -162,7 +161,6 @@
   }
   .kv b{
     display:block;
-    font-size:12px;
     color:var(--muted);
     margin-bottom:2px;
   }
@@ -176,7 +174,6 @@
   }
   .footer{
     margin-top:6px;
-    font-size:12px;
     color:var(--muted);
   }
   .footer-line { 
@@ -213,7 +210,6 @@
     border-radius:999px;
     background:var(--chip);
     color:var(--muted);
-    font-size:12px;
     border:1px solid var(--line);
   }
   .count{
