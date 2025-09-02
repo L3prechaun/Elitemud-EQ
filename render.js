@@ -27,7 +27,11 @@ const fmtKV = (obj, labelMap={}) => {
       ${entries.map(([k,v]) => {
         const label = labelMap[k] || k;
         const val = Array.isArray(v) ? v.join(', ') : (typeof v === 'object' ? JSON.stringify(v) : v);
-        return `<div><b>${label}</b><div class="mono">${val}</div></div>`;
+        return `
+          <div class="${label}">${label}
+            <div class="${label} value">${val}
+            </div>
+          </div>`;
       }).join('')}
     </div>
   `;
@@ -122,7 +126,7 @@ const footerHTML = footLines.length
         ${alignChips.length ? `<div class="chips" style="margin-top:6px;">${alignChips.join('')}</div>` : ''}
       </div>
       ${topLine ? `<div class="small">${topLine}</div>` : ''}
-      ${it.ID ? `<span class="pill mono">#${it.ID}</span>` : ''}
+      ${it.ID ? `<!-- <span class="pill mono">#${it.ID}</span> -->` : ''}
       
 
       ${section('Combat', combatHTML)}

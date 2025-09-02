@@ -139,15 +139,12 @@
     color:var(--red);
   }
   .kv{
-    display:grid;
-    grid-template-columns:1fr 1fr;
+    display:flex;
     gap:10px 14px;
     margin-top:8px;
   }
   .kv div{
     background:transparent;
-    border:1px dashed var(--line);
-    border-radius:10px;
     padding:8px;
   }
   .kv b{
@@ -161,7 +158,6 @@
     padding-top:10px;
   }
   .mono{
-    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
   }
   .footer{
     margin-top:6px;
