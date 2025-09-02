@@ -124,12 +124,10 @@
   }
   .chips{
     display:flex;
-    gap:6px;
     flex-wrap:wrap;
     margin-top:8px;
   }
   .chip{
-    padding:3px 10px;
   }
   .chip.good{
     color:var(--yellow);
