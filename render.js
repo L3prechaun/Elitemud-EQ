@@ -18,20 +18,23 @@ const listChips = (items, className='') =>
 
 const section = (title, html) => html ? `<div class="section"><div class="small">${title}</div>${html}</div>` : '';
 
-const fmtKV = (obj, labelMap={}) => {
+const fmtKV = (obj, labelMap = {}) => {
   if (!obj || typeof obj !== 'object') return '';
   const entries = Object.entries(obj);
   if (!entries.length) return '';
   return `
     <div class="kv">
-      ${entries.map(([k,v]) => {
+      ${entries.map(([k, v]) => {
         const label = labelMap[k] || k;
-        const val = Array.isArray(v) ? v.join(', ') : (typeof v === 'object' ? JSON.stringify(v) : v);
+        const key = String(label).toLowerCase().replace(/\s+/g,'-').replace(/[^a-z0-9_-]/g,'');
+        const val = Array.isArray(v) ? v.join(', ')
+                  : (typeof v === 'object' ? JSON.stringify(v) : v);
         return `
-          <div class="${label}">${label}
-            <div class="${label} value">${val}
-            </div>
-          </div>`;
+          <div class="kv-item kv-${key}" data-k="${key}">
+            <b class="kv-label">${label}</b>
+            <div class="mono kv-value kv-${key}-value">${val}</div>
+          </div>
+        `;
       }).join('')}
     </div>
   `;
@@ -60,6 +63,23 @@ export const renderItem = (it) => {
     const kvs = Object.keys(combat).map(k => `<div><b>${map[k]||k}</b><div class="mono">${combat[k]}</div></div>`).join('');
     if (kvs) combatHTML = `<div class="kv">${kvs}</div>`;
   }
+
+  const combat = it['Combat Stats'];
+  let combatHTML = '';
+  if (combat && typeof combat === 'object') {
+    const map = { Dice:'Dice', AC:'AC', DR:'DR', HR:'HR' };
+    const kvs = Object.entries(combat).map(([k, v]) => {
+    const label = map[k] || k;
+    const key = String(label).toLowerCase().replace(/\s+/g,'-').replace(/[^a-z0-9_-]/g,'');
+    return `
+      <div class="kv-item kv-${key}" data-stat="${key}">
+        <b class="kv-label">${label}</b>
+        <div class="mono kv-value kv-${key}-value">${v}</div>
+      </div>
+    `;
+  }).join('');
+  combatHTML = `<div class="kv">${kvs}</div>`;
+}
 
   const attrMap = {Str:'Str', Dex:'Dex', Int:'Int', Wis:'Wis', Cha:'Cha', Con:'Con', Agi:'Agi'};
   const resMap  = {HP:'HP', MN:'MN', MV:'MV'};
