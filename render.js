@@ -41,9 +41,9 @@ export const renderItem = (it) => {
 
   const alignChips = [];
   if (it['Alignment Indicators']) {
-    if (it['Alignment Indicators'].Good) alignChips.push('<span class="chip good">Good</span>');
-    if (it['Alignment Indicators'].Neutral) alignChips.push('<span class="chip neutral">Neutral</span>');
-    if (it['Alignment Indicators'].Evil) alignChips.push('<span class="chip evil">Evil</span>');
+    if (it['Alignment Indicators'].Good) alignChips.push('<span class="chip good">G</span>');
+    if (it['Alignment Indicators'].Neutral) alignChips.push('<span class="chip neutral">N</span>');
+    if (it['Alignment Indicators'].Evil) alignChips.push('<span class="chip evil">E</span>');
   }
 
  // const archObj = it['Class Archetypes'] || {};

@@ -33,7 +33,7 @@
     margin:0;
     padding:0;
     background:var(--bg);
-    color:var(--text);
+    color:var(--darkwhite);
     font:14px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
   }
 
@@ -109,11 +109,11 @@
     display:flex;
     align-items:center;
     gap:10px;
-    color:var(--darkgreen);
     flex-wrap:wrap;
   }
   .name{
     font-weight:700;
+    color:var(--darkgreen);
     margin-right: auto;
   }
   .small{
@@ -129,23 +129,16 @@
     margin-top:8px;
   }
   .chip{
-    background:var(--chip);
-    border:1px solid var(--line);
-    border-radius:999px;
     padding:3px 10px;
-    color:var(--muted);
   }
   .chip.good{
-    color:var(--good);
-    border-color:rgba(53,199,89,.25);
+    color:var(--yellow);
   }
   .chip.neutral{
-    color:var(--neutral);
-    border-color:rgba(255,204,0,.25);
+    color:var(--darkwhite);
   }
   .chip.evil{
-    color:var(--evil);
-    border-color:rgba(255,69,58,.25);
+    color:var(--red);
   }
   .kv{
     display:grid;
