@@ -65,8 +65,8 @@ export const renderItem = (it) => {
     const key = String(label).toLowerCase().replace(/\s+/g,'-').replace(/[^a-z0-9_-]/g,'');
     return `
       <div class="kv-item kv-${key}" data-stat="${key}">
-        <b class="kv-label">${label}</b>
-        <div class="mono kv-value kv-${key}-value">${v}</div>
+        <span class="kv-label">${label}: </span>
+        <span class="mono kv-value kv-${key}-value">${v}</span>
       </div>
     `;
   }).join('');

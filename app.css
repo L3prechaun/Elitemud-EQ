@@ -89,7 +89,7 @@
     width:100%;
   }
   button{
-    cursor:pointer
+    cursor:pointer;
   }
   .grid{
     display:block;
