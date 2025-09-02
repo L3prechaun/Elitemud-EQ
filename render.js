@@ -60,14 +60,6 @@ export const renderItem = (it) => {
   let combatHTML = '';
   if (combat && typeof combat === 'object') {
     const map = { Dice:'Dice', AC:'AC', DR:'DR', HR:'HR' };
-    const kvs = Object.keys(combat).map(k => `<div><b>${map[k]||k}</b><div class="mono">${combat[k]}</div></div>`).join('');
-    if (kvs) combatHTML = `<div class="kv">${kvs}</div>`;
-  }
-
-  const combat = it['Combat Stats'];
-  let combatHTML = '';
-  if (combat && typeof combat === 'object') {
-    const map = { Dice:'Dice', AC:'AC', DR:'DR', HR:'HR' };
     const kvs = Object.entries(combat).map(([k, v]) => {
     const label = map[k] || k;
     const key = String(label).toLowerCase().replace(/\s+/g,'-').replace(/[^a-z0-9_-]/g,'');
