@@ -34,7 +34,11 @@
     padding:0;
     background:var(--bg);
     color:var(--darkwhite);
-    font:14px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font:14px/1.5;
   }
 
   h1{
@@ -147,11 +151,7 @@
     background:transparent;
     padding:8px;
   }
-  .kv b{
-    display:block;
-    color:var(--muted);
-    margin-bottom:2px;
-  }
+
   .section{
     margin-top:10px;
     border-top:1px solid var(--line);
