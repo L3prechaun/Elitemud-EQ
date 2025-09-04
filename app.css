@@ -25,7 +25,6 @@
 .lexend {
     font-family: "Lexend", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 200;
     font-style: normal;
   }
 
@@ -36,7 +35,7 @@
     color:var(--darkwhite);
     font-family: "Lexend", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 200;
+    font-weight: 300;
     font-style: normal;
     font:14px/1.5;
   }
@@ -116,12 +115,11 @@
     flex-wrap:wrap;
   }
   .name{
-    font-weight:700;
+    font-weight:500;
     color:var(--darkgreen);
     margin-right: auto;
   }
   .small{
-    color:var(--muted);
   }
   .muted{
     color:var(--muted);
@@ -168,10 +166,9 @@
     display: block; 
   }
   .footer-line .label {
-    font-weight: 600; 
-    margin-right: 6px; 
+    display: inline-block;
     color: var(--darkwhite); 
-    opacity: .8; 
+    width: 100px;
   }
 
   /* Classes row */
