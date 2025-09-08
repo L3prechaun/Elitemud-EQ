@@ -13,7 +13,7 @@ const decodeClasses = (mask) => {
 
 // render.js — card rendering helpers
 
-const section = (title, html) => html ? `<span class="section"><span class="small">${title}</span>${html}</span>` : '';
+const section = (title, html) => html ? `<div class="section"><span class="small">${title}</span>${html}</div>` : '';
 
 const fmtKV = (obj, labelMap = {}) => {
   if (!obj || typeof obj !== 'object') return '';
