@@ -83,6 +83,7 @@ export const renderItem = (it) => {
   if (specials && typeof specials === 'object') {
     const bools = Object.entries(specials).filter(([_,v]) => v === true).map(([k]) => k.toLowerCase());
     const nums = Object.entries(specials).filter(([_,v]) => typeof v === 'number');
+    if (bools.length) specialsHTML += listChips(bools);
     if (nums.length) specialsHTML += fmtKV(Object.fromEntries(nums));
   }
 
@@ -135,7 +136,7 @@ const footerHTML = footLines.length
     <div class="card">
       <div class="heading">
         <div class="name">${it.Name || 'Unnamed item'}</div>
-        
+        ${alignChips.length ? `<div class="chips" style="margin-top:6px;">${alignChips.join('')}</div>` : ''}
       </div>
       ${topLine ? `<div class="small">${topLine}</div>` : ''}
       ${it.ID ? `<!-- <span class="pill mono">#${it.ID}</span> -->` : ''}
