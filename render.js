@@ -13,10 +13,7 @@ const decodeClasses = (mask) => {
 
 // render.js — card rendering helpers
 
-const listChips = (items, className='') =>
-  items?.length ? `<div class="chips">${items.map(x => `<span class="chip ${className}">${x}</span>`).join('')}</div>` : '';
-
-const section = (title, html) => html ? `<div class="section"><div class="small">${title}</div>${html}</div>` : '';
+const section = (title, html) => html ? `<span class="section"><span class="small">${title}</span>${html}</span>` : '';
 
 const fmtKV = (obj, labelMap = {}) => {
   if (!obj || typeof obj !== 'object') return '';
@@ -31,8 +28,8 @@ const fmtKV = (obj, labelMap = {}) => {
                   : (typeof v === 'object' ? JSON.stringify(v) : v);
         return `
           <div class="kv-item kv-${key}" data-k="${key}">
-            <b class="kv-label">${label}</b>
-            <div class="mono kv-value kv-${key}-value">${val}</div>
+            <span class="kv-label">${label}</span>
+            <span class="mono kv-value kv-${key}-value">${val}</span>
           </div>
         `;
       }).join('')}
@@ -46,12 +43,6 @@ export const renderItem = (it) => {
     it.Minimumlevel != null ? `Min Lvl ${it.Minimumlevel}` : null
   ].filter(Boolean).join('');
 
-  const alignChips = [];
-  if (it['Alignment Indicators']) {
-    if (it['Alignment Indicators'].Good) alignChips.push('<span class="chip good">G</span>');
-    if (it['Alignment Indicators'].Neutral) alignChips.push('<span class="chip neutral">N</span>');
-    if (it['Alignment Indicators'].Evil) alignChips.push('<span class="chip evil">E</span>');
-  }
 
  // const archObj = it['Class Archetypes'] || {};
  // const archChips = Object.keys(archObj).filter(k => archObj[k]).map(k => `<span class="chip">${k}</span>`);
@@ -70,7 +61,7 @@ export const renderItem = (it) => {
       </div>
     `;
   }).join('');
-  combatHTML = `<div class="kv">${kvs}</div>`;
+  combatHTML = `<span class="kv">${kvs}</span>`;
 }
 
   const attrMap = {Str:'Str', Dex:'Dex', Int:'Int', Wis:'Wis', Cha:'Cha', Con:'Con', Agi:'Agi'};
@@ -82,7 +73,6 @@ export const renderItem = (it) => {
   if (specials && typeof specials === 'object') {
     const bools = Object.entries(specials).filter(([_,v]) => v === true).map(([k]) => k.toLowerCase());
     const nums = Object.entries(specials).filter(([_,v]) => typeof v === 'number');
-    if (bools.length) specialsHTML += listChips(bools);
     if (nums.length) specialsHTML += fmtKV(Object.fromEntries(nums));
   }
 
@@ -135,7 +125,7 @@ const footerHTML = footLines.length
     <div class="card">
       <div class="heading">
         <div class="name">${it.Name || 'Unnamed item'}</div>
-        ${alignChips.length ? `<div class="chips" style="margin-top:6px;">${alignChips.join('')}</div>` : ''}
+        
       </div>
       ${topLine ? `<div class="small">${topLine}</div>` : ''}
       ${it.ID ? `<!-- <span class="pill mono">#${it.ID}</span> -->` : ''}

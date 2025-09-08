@@ -142,12 +142,8 @@
   }
   .kv{
     display:flex;
-    gap:10px 14px;
+    gap:16px;
     margin-top:8px;
-  }
-  .kv div{
-    background:transparent;
-    padding:8px;
   }
 
   .section{
