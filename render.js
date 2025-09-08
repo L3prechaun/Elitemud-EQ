@@ -12,6 +12,9 @@ const decodeClasses = (mask) => {
 
 
 // render.js — card rendering helpers
+const listChips = (items, className='') =>
+  items?.length ? `<div class="chips">${items.map(x => `<span class="chip ${className}">${x}</span>`).join('')}</div>` : '';
+
 
 const section = (title, html) => html ? `<div class="section"><span class="small">${title}</span>${html}</div>` : '';
 
@@ -46,6 +49,13 @@ export const renderItem = (it) => {
 
  // const archObj = it['Class Archetypes'] || {};
  // const archChips = Object.keys(archObj).filter(k => archObj[k]).map(k => `<span class="chip">${k}</span>`);
+ const alignChips = [];
+ if (it['Alignment Indicators']) {
+   if (it['Alignment Indicators'].Good) alignChips.push('<span class="chip good">G</span>');
+   if (it['Alignment Indicators'].Neutral) alignChips.push('<span class="chip neutral">N</span>');
+   if (it['Alignment Indicators'].Evil) alignChips.push('<span class="chip evil">E</span>');
+ }
+
 
   const combat = it['Combat Stats'];
   let combatHTML = '';
