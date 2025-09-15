@@ -43,7 +43,7 @@ const fmtKV = (obj, labelMap = {}) => {
 export const renderItem = (it) => {
   const topLine = [
     it.Slot, it.Type, (typeof it.Weight === 'number' ? `Wg${it.Weight}` : null),
-    it.Minimumlevel != null ? `Min Lvl ${it.Minimumlevel}` : null
+    it.Minimumlevel != null ? `ml ${it.Minimumlevel}` : null
   ].filter(Boolean).join('');
 
 

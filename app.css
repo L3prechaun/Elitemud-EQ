@@ -120,6 +120,8 @@
     margin-right: auto;
   }
   .small{
+    display: inline-block;
+    width: 100px;
   }
   .muted{
     color:var(--muted);
@@ -143,12 +145,11 @@
   .kv{
     display:flex;
     gap:16px;
-    margin-top:8px;
   }
 
   .section{
     margin-top:10px;
-    border-top:1px solid var(--line);
+    display:flex;
     padding-top:10px;
   }
   .mono{
@@ -203,3 +204,28 @@
     align-items:center;
   }
   
+
+
+
+  /* Style Stats */
+  .kv-mv {
+    color: var(--cyan); 
+  }
+  .kv-hp {
+    color: var(--green); 
+  }
+  .kv-mn {
+    color: var(--magenta); 
+  }
+  .kv-dr {
+    color: var(--red); 
+  }
+  .kv-hr {
+    color: var(--red); 
+  }
+  .kv-ac {
+    color: var(--red); 
+  }
+  .kv-dice {
+    color: var(--red); 
+  }
